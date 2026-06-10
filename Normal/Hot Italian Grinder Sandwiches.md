@@ -1,0 +1,47 @@
+---
+title: Hot Italian Grinder Sandwiches
+method: Normal
+servings: 4
+prep_time: 15 min
+cook_time: 20 min
+tags: [deli, sandwich, cheese, lunch, dinner]
+ingredients:
+  - sub bread
+  - ham
+  - salami
+  - pepperoni
+  - provolone cheese
+  - pepper jack cheese
+  - mayonnaise
+  - lettuce
+  - red wine vinegar
+---
+
+## Ingredients
+
+- 1 loaf sub bread
+- Deli meats: ham, salami, pepperoni (ratio of about 8 ham : 16 salami : 8 pepperoni slices)
+- Provolone cheese
+- Pepper jack cheese
+- Shredded lettuce
+- Mayonnaise
+- Olive oil
+- Red wine vinegar
+- Italian seasoning
+- For the garlic butter: melted butter, oregano, basil, parsley, onion, garlic salt, minced garlic
+
+## Instructions
+
+1. Heat oven to 350°F. Slice the bread in half into a top and bottom.
+2. Mix melted butter with oregano, basil, parsley, onion, garlic salt, and a big scoop of minced garlic. Brush it over the bread.
+3. On the bottom, layer pepper jack, then the deli meats in the 8:16:8 ratio, then provolone.
+4. Bake 15–20 minutes until hot and the cheese melts.
+5. Meanwhile, make the grinder salad: in a bowl, whisk mayo with Italian seasoning, a little olive oil, and a little red wine vinegar. Toss with the shredded lettuce.
+6. Pile the dressed lettuce on the hot sandwich, fold the top over, and slice.
+
+## Notes
+
+- The cold, dressed grinder salad over the hot baked meat and cheese is what makes it.
+- Not keto (bread).
+- Evan-safe (no tomatoes).
+- All deli meat, so not tagged extreme-budget (per the recipe-folder budget rule).
