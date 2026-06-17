@@ -59,13 +59,13 @@ For the mashed potato topping:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 4830 | 805 |
-| **Protein** | 213.0g | 35.5g |
-| **Fat** | 227.3g | 37.9g |
-| **Carbs** | 483.0g | 80.5g |
-| **Fiber** | 30.4g | 5.1g |
-| **Sugar** | 71.1g | 11.9g |
-| **Sodium** | 6242mg | 1040mg |
+| **Calories** | 3459 | 576 |
+| **Protein** | 166.4g | 27.7g |
+| **Fat** | 204.7g | 34.1g |
+| **Carbs** | 241.3g | 40.2g |
+| **Fiber** | 19.9g | 3.3g |
+| **Sugar** | 49.2g | 8.2g |
+| **Sodium** | 3362mg | 560mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
