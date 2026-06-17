@@ -31,3 +31,17 @@ ingredients:
 - Ground beef or ground turkey work as substitutes for smoked sausage.
 - Zatarain's brand recommended for best flavor, but any red beans and rice mix works.
 - Only 2 ingredients — one of the simplest dinners possible.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 1536 | 307 |
+| **Protein** | 69.2g | 13.8g |
+| **Fat** | 104.6g | 20.9g |
+| **Carbs** | 74.3g | 14.9g |
+| **Fiber** | 15.5g | 3.1g |
+| **Sugar** | 8.9g | 1.8g |
+| **Sodium** | 3310mg | 662mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
