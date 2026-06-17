@@ -32,3 +32,17 @@ ingredients:
 - Searing the sausage first before adding everything else adds significant flavor.
 - Feeds a crowd for very little money.
 - The boxed cheddar broccoli rice does the seasoning work — no extra spices needed.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 806 | 161 |
+| **Protein** | 45.4g | 9.1g |
+| **Fat** | 60.3g | 12.1g |
+| **Carbs** | 24.1g | 4.8g |
+| **Fiber** | 7.8g | 1.6g |
+| **Sugar** | 7.6g | 1.5g |
+| **Sodium** | 1548mg | 310mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
