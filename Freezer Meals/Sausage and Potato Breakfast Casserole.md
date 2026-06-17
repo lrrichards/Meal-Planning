@@ -35,6 +35,20 @@ ingredients:
 - Breakfast sausage carries the seasoning — no extra needed.
 - **Filled in by Claude (not stated in video):** cheese amounts — video said "a little bit of cheddar and mozzarella"; ~½ cup each assumed.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1080 | 180 |
+| **Protein** | 72.9g | 12.2g |
+| **Fat** | 57.3g | 9.6g |
+| **Carbs** | 63.9g | 10.6g |
+| **Fiber** | 6.6g | 1.1g |
+| **Sugar** | 14.1g | 2.4g |
+| **Sodium** | 692mg | 115mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
