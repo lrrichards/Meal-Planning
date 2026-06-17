@@ -32,3 +32,17 @@ ingredients:
 - A budget meal; the source creator featured it as part of a "Poor Man's Comfort Food" series.
 - Transcript was light on exact steps and quantities — amounts above are reasonable estimates for a standard 1 lb beef / 1 box mac / 1 can soup ratio. Adjust to taste.
 - Often called "poor man's goulash" or a beefaroni-style dish elsewhere.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1632 | 408 |
+| **Protein** | 106.8g | 26.7g |
+| **Fat** | 124.7g | 31.2g |
+| **Carbs** | 17.9g | 4.5g |
+| **Fiber** | 5.1g | 1.3g |
+| **Sugar** | 11.6g | 2.9g |
+| **Sodium** | 969mg | 242mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
