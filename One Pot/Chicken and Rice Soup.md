@@ -15,7 +15,7 @@ ingredients:
 ## Ingredients
 
 - 4 chicken thighs (about half a standard package)
-- Half a 16 oz bag of carrots, chopped
+- 8 oz carrot
 - 2–3 ribs celery, chopped
 - 1 box Rice-A-Roni (chicken flavor or wild rice flavor), with seasoning packet
 - 10 cups water
@@ -44,12 +44,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (8 servings) |
 |---|---:|---:|
-| **Calories** | 1479 | 185 |
-| **Protein** | 146.6g | 18.3g |
-| **Fat** | 59.1g | 7.4g |
-| **Carbs** | 80.0g | 10.0g |
-| **Fiber** | 5.2g | 0.7g |
-| **Sugar** | 4.6g | 0.6g |
-| **Sodium** | 1518mg | 190mg |
+| **Calories** | 1572 | 196 |
+| **Protein** | 148.6g | 18.6g |
+| **Fat** | 59.5g | 7.4g |
+| **Carbs** | 101.8g | 12.7g |
+| **Fiber** | 11.6g | 1.4g |
+| **Sugar** | 15.3g | 1.9g |
+| **Sodium** | 1674mg | 209mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
