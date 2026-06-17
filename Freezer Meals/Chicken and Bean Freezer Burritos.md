@@ -37,6 +37,20 @@ ingredients:
 - Great grab-and-go lunches.
 - **Filled in by Claude (not stated in video):** chicken amount (~2 cups assumed — video never measured it, just said "it's chicken, black beans, diced tomatoes").
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 3521 | 704 |
+| **Protein** | 165.1g | 33.0g |
+| **Fat** | 79.3g | 15.9g |
+| **Carbs** | 546.5g | 109.3g |
+| **Fiber** | 83.7g | 16.7g |
+| **Sugar** | 30.9g | 6.2g |
+| **Sodium** | 3585mg | 717mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
