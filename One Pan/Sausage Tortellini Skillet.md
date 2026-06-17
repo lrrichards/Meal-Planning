@@ -41,3 +41,17 @@ ingredients:
 - A true one-skillet meal; 18 oz tortellini feeds a family of six.
 - Distinct from the existing meatless tortellini recipes (this one has sausage and a marinara base, cooked in one skillet).
 - "Poor man's comfort food" — cheap enough (~$2–3/serving) for the extreme-budget tag.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 5182 | 864 |
+| **Protein** | 361.9g | 60.3g |
+| **Fat** | 364.6g | 60.8g |
+| **Carbs** | 109.2g | 18.2g |
+| **Fiber** | 26.0g | 4.3g |
+| **Sugar** | 53.3g | 8.9g |
+| **Sodium** | 11723mg | 1954mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
