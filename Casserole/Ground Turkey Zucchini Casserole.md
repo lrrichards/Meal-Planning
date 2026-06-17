@@ -44,3 +44,17 @@ ingredients:
 - Italian-style panko adds much more flavor than plain — if using plain breadcrumbs, mix in Italian seasoning, oregano, salt, and pepper.
 - Good lower-carb option — no rice or pasta.
 - Ground beef works equally well if turkey isn't on hand.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 5477 | 913 |
+| **Protein** | 553.7g | 92.3g |
+| **Fat** | 271.4g | 45.2g |
+| **Carbs** | 193.8g | 32.3g |
+| **Fiber** | 24.2g | 4.0g |
+| **Sugar** | 49.8g | 8.3g |
+| **Sodium** | 4532mg | 755mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
