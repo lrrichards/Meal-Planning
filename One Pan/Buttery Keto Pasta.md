@@ -14,7 +14,7 @@ ingredients:
 ## Ingredients
 
 - 8 oz shirataki noodles
-- Butter
+- 2 tbsp butter
 - 2 tbsp parsley
 - Salt
 
@@ -31,3 +31,17 @@ ingredients:
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9Tnu_Ww1vKw)
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (2 servings) |
+|---|---:|---:|
+| **Calories** | 224 | 112 |
+| **Protein** | 0.5g | 0.3g |
+| **Fat** | 22.8g | 11.4g |
+| **Carbs** | 1.0g | 0.5g |
+| **Fiber** | 0.7g | 0.4g |
+| **Sugar** | 0.1g | 0.1g |
+| **Sodium** | 185mg | 92mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
