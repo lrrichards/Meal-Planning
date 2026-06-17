@@ -18,7 +18,7 @@ ingredients:
 
 ## Ingredients (per bag)
 
-- Chicken tenderloins (or chicken breasts)
+- 1.5 lb chicken tenderloin
 - 3/4 cup broth (chicken, veggie, or beef)
 - 1/4 cup low sodium soy sauce
 - 3 tbsp honey
@@ -58,12 +58,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 445 | 74 |
-| **Protein** | 9.9g | 1.7g |
-| **Fat** | 3.3g | 0.6g |
+| **Calories** | 1867 | 311 |
+| **Protein** | 186.8g | 31.1g |
+| **Fat** | 77.5g | 12.9g |
 | **Carbs** | 96.9g | 16.2g |
 | **Fiber** | 4.0g | 0.7g |
 | **Sugar** | 74.9g | 12.5g |
-| **Sodium** | 4088mg | 681mg |
+| **Sodium** | 4687mg | 781mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
