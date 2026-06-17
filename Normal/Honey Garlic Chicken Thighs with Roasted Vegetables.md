@@ -42,6 +42,20 @@ ingredients:
 - Not keto (honey + potatoes).
 - "Poor man's comfort food," birthday-eve edition.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 1381 | 276 |
+| **Protein** | 15.4g | 3.1g |
+| **Fat** | 0.5g | 0.1g |
+| **Carbs** | 349.5g | 69.9g |
+| **Fiber** | 10.1g | 2.0g |
+| **Sugar** | 288.0g | 57.6g |
+| **Sodium** | 4356mg | 871mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=c89GQrOhV1E)
