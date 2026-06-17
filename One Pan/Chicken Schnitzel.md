@@ -14,11 +14,11 @@ ingredients:
 
 ## Ingredients
 
-- Chicken (pounded thin)
-- Ground pork rinds
-- Almond flour
-- Egg
-- Oil, for frying
+- 1.5 lb chicken breast
+- 1/2 cup pork panko
+- 1/2 cup almond flour
+- 2 eggs
+- 2 tbsp olive oil
 - Salt and pepper
 
 ## Instructions
@@ -32,6 +32,20 @@ ingredients:
 - Keto / low-carb crusted chicken — pork rinds and almond flour replace breadcrumbs.
 - Leftovers reheat well in the air fryer (or oven) to re-crisp — great for a Fajita Bowl the next day.
 - Uses pork rinds and almond flour (keto staples), so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2632 | 658 |
+| **Protein** | 216.7g | 54.2g |
+| **Fat** | 146.6g | 36.6g |
+| **Carbs** | 102.7g | 25.7g |
+| **Fiber** | 10.6g | 2.7g |
+| **Sugar** | 9.1g | 2.3g |
+| **Sodium** | 1606mg | 402mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
 ## Source
 
