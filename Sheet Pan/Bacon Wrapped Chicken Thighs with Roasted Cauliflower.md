@@ -31,3 +31,17 @@ ingredients:
 
 - Frozen cauliflower is much cheaper than fresh ($1.70/bag vs ~$5/head) — texture is slightly softer but still great.
 - From a $70/week keto-on-a-budget week (2 people, 7 days).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 75 | 19 |
+| **Protein** | 5.7g | 1.4g |
+| **Fat** | 0.9g | 0.2g |
+| **Carbs** | 15.0g | 3.8g |
+| **Fiber** | 6.0g | 1.5g |
+| **Sugar** | 5.7g | 1.4g |
+| **Sodium** | 90mg | 22mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
