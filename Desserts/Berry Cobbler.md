@@ -38,3 +38,17 @@ ingredients:
 - Frozen berries work perfectly — no thawing needed, just add a few extra minutes of baking time.
 - French vanilla cake mix gives the topping a rich, buttery flavor that plain yellow cake can't match.
 - Serve warm — the contrast of hot cobbler and cold ice cream is the whole point.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 1348 | 169 |
+| **Protein** | 22.5g | 2.8g |
+| **Fat** | 17.3g | 2.2g |
+| **Carbs** | 286.6g | 35.8g |
+| **Fiber** | 20.1g | 2.5g |
+| **Sugar** | 176.5g | 22.1g |
+| **Sodium** | 474mg | 59mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
