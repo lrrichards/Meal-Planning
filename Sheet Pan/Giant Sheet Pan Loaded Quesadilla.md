@@ -21,7 +21,7 @@ ingredients:
 - 1 cup sour cream
 - 1 cup salsa
 - 1½ cups shredded Colby Jack or Mexican-style cheese (plus more for layers)
-- Large burrito-sized flour tortillas (4–6)
+- 6 flour tortillas
 
 *Not counted: taco seasoning (1½ tbsp), oil spray, lime juice*
 
@@ -53,12 +53,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 4639 | 773 |
-| **Protein** | 269.9g | 45.0g |
-| **Fat** | 260.8g | 43.5g |
-| **Carbs** | 305.3g | 50.9g |
-| **Fiber** | 69.5g | 11.6g |
-| **Sugar** | 25.9g | 4.3g |
-| **Sodium** | 5452mg | 909mg |
+| **Calories** | 6415 | 1069 |
+| **Protein** | 317.9g | 53.0g |
+| **Fat** | 302.8g | 50.5g |
+| **Carbs** | 605.3g | 100.9g |
+| **Fiber** | 84.5g | 14.1g |
+| **Sugar** | 43.9g | 7.3g |
+| **Sodium** | 8764mg | 1461mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
