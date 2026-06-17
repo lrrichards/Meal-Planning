@@ -34,7 +34,6 @@ ingredients:
 
 ## Notes
 
-- **Contains tomatoes — not Evan-safe.** Sub the diced tomatoes out if cooking for Evan.
 - Old Bay is usually for seafood but tastes great on pork and cabbage.
 - No-liquid slow cooker version: do the sear steps in a pan first, then transfer everything to the slow cooker.
 - From a $70/week keto-on-a-budget week (2 people, 7 days).
