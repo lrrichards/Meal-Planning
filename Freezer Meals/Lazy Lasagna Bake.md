@@ -33,7 +33,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: marinara is a smooth tomato product.
 - **Filled in by Claude (not stated in video):** marinara amount — video never gave the jar size; 24 oz assumed (matches the jar used in the other bakes). Bake time/temp also assumed at 375°F 40 min covered + 10 uncovered — video pressed the label on without reading it aloud; matches the nearly identical Pizza Pasta Bake.
 
 ## Source
