@@ -13,8 +13,8 @@ ingredients:
 ## Ingredients
 
 - 2 pieces Keto Cheese Chaffle Bread
-- Cooked shredded pork (see Slow Cooker Pulled Pork)
-- Shredded cheddar cheese (optional)
+- 2 cups cooked shredded pork
+- 1 cup shredded cheddar cheese
 
 ## Instructions
 
@@ -32,12 +32,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (1 servings) |
 |---|---:|---:|
-| **Calories** | 806 | 806 |
-| **Protein** | 50.0g | 50.0g |
-| **Fat** | 66.2g | 66.2g |
-| **Carbs** | 2.6g | 2.6g |
+| **Calories** | 1261 | 1261 |
+| **Protein** | 78.2g | 78.2g |
+| **Fat** | 103.6g | 103.6g |
+| **Carbs** | 4.1g | 4.1g |
 | **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 1.0g | 1.0g |
-| **Sodium** | 1242mg | 1242mg |
+| **Sugar** | 1.6g | 1.6g |
+| **Sodium** | 1944mg | 1944mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
