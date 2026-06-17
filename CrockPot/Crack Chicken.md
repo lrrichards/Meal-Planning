@@ -31,7 +31,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb. Serve over spinach, on low-carb bread/buns/tortillas, or with a salad.
-- Evan-safe (no tomatoes).
 - Budget keto — cheap chicken base.
 
 ## Source
