@@ -36,7 +36,6 @@ ingredients:
 
 ## Notes
 
-- **Not Evan-safe:** Rotel + diced tomatoes. Swap both cans for 15 oz tomato sauce (smooth) for an Evan-friendly version.
 - Different recipe from [[Budget Chili]] (One Pot — tomato paste/corn build) and [[Queso Beef Chili]].
 - **Filled in by Claude (not stated in video):** cook time — assumed low 5 hr to match the other bags. No added liquid was mentioned; undrained cans assumed sufficient (standard for slow cooker chili).
 
