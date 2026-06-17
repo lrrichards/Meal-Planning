@@ -35,7 +35,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb pizza rollups — a TikTok-inspired snack or quick meal.
-- **The marinara dipping sauce contains tomatoes — skip it or use a low-carb marinara for Evan.** The rollups themselves are tomato-free.
 - Uses keto bread (specialty), so not tagged extreme-budget.
 
 ## Source
