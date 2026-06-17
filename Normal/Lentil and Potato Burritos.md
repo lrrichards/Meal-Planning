@@ -38,3 +38,17 @@ ingredients:
 - Season aggressively — lentils absorb spices and need more than you expect.
 - The hot skillet step is worth it — a crispy, toasted burrito is far better than a limp one.
 - This is one of the cheapest meals possible: lentils, potatoes, and tortillas cost almost nothing.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2898 | 483 |
+| **Protein** | 117.1g | 19.5g |
+| **Fat** | 45.0g | 7.5g |
+| **Carbs** | 507.0g | 84.5g |
+| **Fiber** | 96.7g | 16.1g |
+| **Sugar** | 29.8g | 5.0g |
+| **Sodium** | 3349mg | 558mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
