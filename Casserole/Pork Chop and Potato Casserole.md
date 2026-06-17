@@ -42,3 +42,17 @@ ingredients:
 - The beef stew seasoning packet adds a bold savory flavor to the potatoes — worth having.
 - Cream of mushroom, cream of chicken, or cream of celery are all interchangeable here.
 - The potato flavor caramelizes under the pork drippings — the bottom layer is the best bite.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 390 | 65 |
+| **Protein** | 27.1g | 4.5g |
+| **Fat** | 14.9g | 2.5g |
+| **Carbs** | 34.9g | 5.8g |
+| **Fiber** | 2.6g | 0.4g |
+| **Sugar** | 6.6g | 1.1g |
+| **Sodium** | 1747mg | 291mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
