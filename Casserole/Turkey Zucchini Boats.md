@@ -41,3 +41,17 @@ ingredients:
 - Italian sausage instead of turkey makes this even more flavorful.
 - Save the scooped zucchini pulp in the fridge — stir it into spaghetti sauce to stretch the sauce further.
 - Cookie scoop is the easiest way to fill the boats neatly.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 3538 | 885 |
+| **Protein** | 201.7g | 50.4g |
+| **Fat** | 57.2g | 14.3g |
+| **Carbs** | 544.5g | 136.1g |
+| **Fiber** | 31.6g | 7.9g |
+| **Sugar** | 29.3g | 7.3g |
+| **Sodium** | 808mg | 202mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
