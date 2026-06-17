@@ -33,6 +33,20 @@ ingredients:
 - Keto / low-carb. Serve over spinach, on low-carb bread/buns/tortillas, or with a salad.
 - Budget keto — cheap chicken base.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 3299 | 660 |
+| **Protein** | 267.3g | 53.5g |
+| **Fat** | 229.6g | 45.9g |
+| **Carbs** | 27.6g | 5.5g |
+| **Fiber** | 0.3g | 0.1g |
+| **Sugar** | 12.2g | 2.4g |
+| **Sodium** | 5175mg | 1035mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=el3qkJeLelM)
