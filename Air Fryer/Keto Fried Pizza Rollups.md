@@ -14,13 +14,13 @@ ingredients:
 
 ## Ingredients
 
-- Keto bread
-- Shredded mozzarella cheese
+- 4 slices keto bread
+- 1 cup shredded mozzarella cheese
 - Pepperoni, cut into strips
 - 2 tbsp butter
 - 1/4 tsp garlic powder
 - 1/4 tsp parsley
-- Avocado oil (if cooking on the stovetop)
+- 1 tbsp olive oil
 - Marinara sauce, for dipping (optional)
 
 ## Instructions
@@ -41,13 +41,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (2 servings) |
 |---|---:|---:|
-| **Calories** | 204 | 102 |
-| **Protein** | 0.3g | 0.1g |
-| **Fat** | 23.0g | 11.5g |
-| **Carbs** | 0.1g | 0.1g |
-| **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 0.0g | 0.0g |
-| **Sodium** | 183mg | 92mg |
+| **Calories** | 827 | 413 |
+| **Protein** | 43.1g | 21.6g |
+| **Fat** | 63.6g | 31.8g |
+| **Carbs** | 22.8g | 11.4g |
+| **Fiber** | 10.1g | 5.1g |
+| **Sugar** | 2.3g | 1.1g |
+| **Sodium** | 1228mg | 614mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
