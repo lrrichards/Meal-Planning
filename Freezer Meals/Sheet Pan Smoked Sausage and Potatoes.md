@@ -32,6 +32,20 @@ ingredients:
 - Any smoked sausage works (apple smoked, etc.).
 - **Filled in by Claude (not stated in video):** sausage package size (~13–14 oz standard rope assumed) and Cajun seasoning amount (~1 tbsp — video shook it on, then the bag broke mid-pour).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 761 | 190 |
+| **Protein** | 24.1g | 6.0g |
+| **Fat** | 26.7g | 6.7g |
+| **Carbs** | 108.1g | 27.0g |
+| **Fiber** | 14.7g | 3.7g |
+| **Sugar** | 17.5g | 4.4g |
+| **Sodium** | 866mg | 217mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
