@@ -39,3 +39,17 @@ ingredients:
 - Stir every few minutes while the rice simmers — rice sticks easily.
 - Great for Taco Tuesday as a twist on the classic.
 - Toppings make this dish — don't skip them.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 2102 | 420 |
+| **Protein** | 224.6g | 44.9g |
+| **Fat** | 90.1g | 18.0g |
+| **Carbs** | 86.5g | 17.3g |
+| **Fiber** | 10.1g | 2.0g |
+| **Sugar** | 19.6g | 3.9g |
+| **Sodium** | 2354mg | 471mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
