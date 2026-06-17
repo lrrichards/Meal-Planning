@@ -44,3 +44,17 @@ ingredients:
 - Brown sugar is the secret — adds a subtle sweetness that balances the heat.
 - Reheats extremely well — makes 2–3 dinners from one pot.
 - Makes 8+ servings — great for loading into a container and stretching across multiple meals.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 1646 | 206 |
+| **Protein** | 116.3g | 14.5g |
+| **Fat** | 29.4g | 3.7g |
+| **Carbs** | 241.2g | 30.2g |
+| **Fiber** | 67.8g | 8.5g |
+| **Sugar** | 51.2g | 6.4g |
+| **Sodium** | 3645mg | 456mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
