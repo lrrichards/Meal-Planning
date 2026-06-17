@@ -33,3 +33,17 @@ ingredients:
 
 - No-bake — the fridge sets it.
 - "Pie day" poor man's comfort food dessert.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 595 | 74 |
+| **Protein** | 4.4g | 0.6g |
+| **Fat** | 20.7g | 2.6g |
+| **Carbs** | 102.6g | 12.8g |
+| **Fiber** | 2.0g | 0.2g |
+| **Sugar** | 77.1g | 9.6g |
+| **Sodium** | 824mg | 103mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
