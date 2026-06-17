@@ -14,10 +14,10 @@ ingredients:
 
 ## Ingredients
 
-- Keto tortillas
-- Cheese-filled bratwurst (Aldi)
+- 4 keto tortillas
+- 2 bratwurst
 - 1 sweet onion (Vidalia), cut into long pieces
-- Dijon mustard (or yellow mustard sauce)
+- 2 tbsp dijon mustard
 - Olive oil
 - Salt, pepper
 
@@ -34,6 +34,20 @@ ingredients:
 
 - A keto tortilla fold-over with cheese-filled brats, sweet caramelized onions, and dijon.
 - Uses keto tortillas (specialty), so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (2 servings) |
+|---|---:|---:|
+| **Calories** | 990 | 495 |
+| **Protein** | 42.8g | 21.4g |
+| **Fat** | 64.5g | 32.2g |
+| **Carbs** | 89.3g | 44.7g |
+| **Fiber** | 46.9g | 23.5g |
+| **Sugar** | 8.6g | 4.3g |
+| **Sodium** | 3048mg | 1524mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
 ## Source
 
