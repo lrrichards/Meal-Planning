@@ -37,7 +37,6 @@ ingredients:
 - A healthy dinner for six for about $10.
 - Distinct from Teriyaki Chicken and Rice (that's a one-pot dish with the rice cooked in; this is a skillet stir fry over separately cooked rice).
 - Not keto (rice) — serve over cauliflower rice to make it keto.
-- Evan-safe (no tomatoes).
 - Aldi "poor man's comfort food."
 
 ## Source
