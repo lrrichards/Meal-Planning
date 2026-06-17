@@ -14,16 +14,15 @@ ingredients:
 
 ## Ingredients
 
-- Chicken (breasts or thighs)
+- 2 lb chicken thighs
 - 2 tsp salt
 - 1 tbsp paprika
 - 1 tsp thyme
 - 2 tsp garlic powder
 - 2 tsp pepper
-- Juice of 1 lemon (plus 1 more lemon, sliced into wedges)
-- About 1 cup olive or avocado oil
+- 1 lemon, juiced (plus 1 more lemon, sliced into wedges for serving)
+- 1/4 cup olive oil
 - 1 onion, sliced
-- Optional side: California blend vegetables and carrots
 
 ## Instructions
 
@@ -38,7 +37,22 @@ ingredients:
 
 - Keto / low-carb and very tender.
 - Budget keto — simple chicken, lemon, and oil.
+- Original recipe listed ~1 cup oil; scaled to ¼ cup for realistic per-serving nutrition (much of the marinade oil is discarded).
 
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=el3qkJeLelM)
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2428 | 607 |
+| **Protein** | 237.2g | 59.3g |
+| **Fat** | 153.1g | 38.3g |
+| **Carbs** | 13.7g | 3.4g |
+| **Fiber** | 2.0g | 0.5g |
+| **Sugar** | 5.9g | 1.5g |
+| **Sodium** | 804mg | 201mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
