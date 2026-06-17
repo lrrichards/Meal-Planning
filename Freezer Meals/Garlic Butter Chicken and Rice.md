@@ -34,6 +34,20 @@ ingredients:
 - Looks like nothing in the bag — turns into magic on the stove.
 - No filled-in amounts — video stated everything.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2516 | 629 |
+| **Protein** | 198.8g | 49.7g |
+| **Fat** | 138.9g | 34.7g |
+| **Carbs** | 106.6g | 26.7g |
+| **Fiber** | 1.5g | 0.4g |
+| **Sugar** | 0.3g | 0.1g |
+| **Sodium** | 1309mg | 327mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
