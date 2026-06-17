@@ -22,17 +22,17 @@ ingredients:
 
 **Homemade Ranch Dressing**
 - 1 cup buttermilk
-- A couple tbsp regular milk
+- 2 tbsp milk
 - 1/2 cup sour cream
 - 2–3 tbsp ranch seasoning
 
 **Salad**
 - 4–5 strips bacon
 - 5 chicken tenderloins
-- Romaine lettuce, chopped
+- 2 cups lettuce
 - 1/2 cup frozen peas, thawed
 - Tomatoes, diced
-- Red onion, sliced
+- 1/2 red onion
 - 1 avocado, sliced
 - Shredded cheese to taste
 
@@ -57,12 +57,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 4415 | 1104 |
-| **Protein** | 288.8g | 72.2g |
-| **Fat** | 295.4g | 73.8g |
-| **Carbs** | 146.8g | 36.7g |
-| **Fiber** | 18.2g | 4.5g |
-| **Sugar** | 46.0g | 11.5g |
-| **Sodium** | 14576mg | 3644mg |
+| **Calories** | 4456 | 1114 |
+| **Protein** | 290.4g | 72.6g |
+| **Fat** | 296.4g | 74.1g |
+| **Carbs** | 153.3g | 38.3g |
+| **Fiber** | 19.1g | 4.8g |
+| **Sugar** | 49.8g | 12.5g |
+| **Sodium** | 14591mg | 3648mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
