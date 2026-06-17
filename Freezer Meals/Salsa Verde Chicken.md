@@ -27,7 +27,6 @@ ingredients:
 ## Notes
 
 - Freeze flat and stack — keeps in the freezer up to 6 months, freshest within 3.
-- Evan-safe: salsa verde is tomatillo-based, no tomato.
 - Near-variation of [[Salsa Chicken]] (CrockPot) — that one uses red salsa + taco seasoning; this is the green, no-seasoning version. Kept on purpose.
 - **Filled in by Claude (not stated in video):** salsa verde amount — video only said "a little bit"; 1 cup assumed to match the red Salsa Chicken recipe.
 
