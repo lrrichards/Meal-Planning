@@ -55,6 +55,20 @@ For the mashed potato topping:
 - Not keto (panko + potatoes).
 - Aldi "poor man's comfort food."
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3732 | 622 |
+| **Protein** | 169.1g | 28.2g |
+| **Fat** | 163.1g | 27.2g |
+| **Carbs** | 391.6g | 65.3g |
+| **Fiber** | 20.5g | 3.4g |
+| **Sugar** | 56.4g | 9.4g |
+| **Sodium** | 5398mg | 900mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hO8nEUVNGD0)
