@@ -13,9 +13,9 @@ ingredients:
 
 ## Ingredients
 
-- Fat head dough (see Fat Head Dough recipe)
-- Butter, melted
-- Garlic powder or garlic salt
+- 1 batch fat head dough
+- 1/4 cup butter
+- 3 cloves garlic
 
 ## Instructions
 
@@ -27,6 +27,20 @@ ingredients:
 
 - Keto / low-carb breadsticks from fat head dough — great alongside the keto lasagna or a salad.
 - Uses fat head dough (mozzarella + almond flour), so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 717 | 179 |
+| **Protein** | 14.5g | 3.6g |
+| **Fat** | 71.0g | 17.8g |
+| **Carbs** | 8.1g | 2.0g |
+| **Fiber** | 3.0g | 0.8g |
+| **Sugar** | 1.1g | 0.3g |
+| **Sodium** | 845mg | 211mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
 ## Source
 
