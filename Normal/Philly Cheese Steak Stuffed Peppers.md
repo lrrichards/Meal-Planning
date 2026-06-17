@@ -37,5 +37,4 @@ ingredients:
 ## Notes
 
 - Keto / low-carb — the creator calls it good for type 1 diabetics and keto eaters.
-- Evan-safe (no tomatoes).
 - "Poor man's comfort food" series, but shaved steak + provolone + mushrooms put it above extreme-budget range, so not tagged extreme-budget.
