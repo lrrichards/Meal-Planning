@@ -14,8 +14,8 @@ ingredients:
 ## Ingredients
 
 - 2 zero-carb tortillas
-- Pepperoni slices
-- Shredded cheese (mozzarella, cheddar, or a blend)
+- 4 oz pepperoni
+- 1 cup shredded cheese
 
 ## Instructions
 
@@ -36,12 +36,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (2 servings) |
 |---|---:|---:|
-| **Calories** | 592 | 296 |
-| **Protein** | 16.0g | 8.0g |
-| **Fat** | 14.0g | 7.0g |
-| **Carbs** | 100.0g | 50.0g |
+| **Calories** | 1608 | 804 |
+| **Protein** | 68.1g | 34.0g |
+| **Fat** | 101.3g | 50.6g |
+| **Carbs** | 102.6g | 51.3g |
 | **Fiber** | 5.0g | 2.5g |
-| **Sugar** | 6.0g | 3.0g |
-| **Sodium** | 1104mg | 552mg |
+| **Sugar** | 6.6g | 3.3g |
+| **Sodium** | 3803mg | 1901mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
