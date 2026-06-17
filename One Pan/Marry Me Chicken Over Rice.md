@@ -40,3 +40,17 @@ ingredients:
 - The pan drippings from the chicken add huge flavor to the sauce — don't skip scraping the pan.
 - Also works great over egg noodles.
 - Reheats well — sauce stays rich.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2051 | 513 |
+| **Protein** | 157.4g | 39.3g |
+| **Fat** | 147.3g | 36.8g |
+| **Carbs** | 29.2g | 7.3g |
+| **Fiber** | 12.8g | 3.2g |
+| **Sugar** | 10.9g | 2.7g |
+| **Sodium** | 934mg | 234mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
