@@ -19,11 +19,11 @@ ingredients:
 - 1/2 lb ground beef
 - 1/2 onion, diced
 - Shredded cheddar (or mozzarella) cheese
-- Cooked bacon
-- Sour cream
-- Tomato, diced
-- Shredded lettuce (optional)
-- Dill pickle chips (optional)
+- 4 slices bacon
+- 1/2 cup sour cream
+- 1 tomato
+- 1 cup lettuce
+- 2 oz dill pickle
 - Onion powder, garlic salt, salt, pepper
 
 ## Instructions
@@ -42,12 +42,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 598 | 150 |
-| **Protein** | 39.6g | 9.9g |
-| **Fat** | 45.4g | 11.4g |
-| **Carbs** | 5.1g | 1.3g |
-| **Fiber** | 0.9g | 0.2g |
-| **Sugar** | 2.3g | 0.6g |
-| **Sodium** | 165mg | 41mg |
+| **Calories** | 1454 | 363 |
+| **Protein** | 85.1g | 21.3g |
+| **Fat** | 115.1g | 28.8g |
+| **Carbs** | 18.0g | 4.5g |
+| **Fiber** | 2.8g | 0.7g |
+| **Sugar** | 10.5g | 2.6g |
+| **Sodium** | 2840mg | 710mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
