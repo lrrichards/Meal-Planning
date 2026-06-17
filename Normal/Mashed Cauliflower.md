@@ -30,7 +30,6 @@ ingredients:
 ## Notes
 
 - A healthy, low-carb side that tastes like mashed potatoes — great keto swap.
-- Evan-safe (no tomatoes).
 - A side dish, not a full meal (so not tagged extreme-budget).
 - Pairs well with the keto chicken and pork mains.
 
