@@ -15,7 +15,7 @@ ingredients:
 ## Ingredients (per bag)
 
 - 3 chicken breasts (frozen works perfectly)
-- Large handful fresh spinach
+- 2 cups spinach
 - 1/3 cup sun-dried tomatoes (herb variety recommended)
 - 1 onion, diced (or frozen diced onion)
 
@@ -49,12 +49,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1124 | 187 |
-| **Protein** | 134.5g | 22.4g |
-| **Fat** | 55.9g | 9.3g |
-| **Carbs** | 13.4g | 2.2g |
-| **Fiber** | 2.8g | 0.5g |
-| **Sugar** | 6.7g | 1.1g |
-| **Sodium** | 457mg | 76mg |
+| **Calories** | 1235 | 206 |
+| **Protein** | 148.4g | 24.7g |
+| **Fat** | 57.8g | 9.6g |
+| **Carbs** | 30.6g | 5.1g |
+| **Fiber** | 13.4g | 2.2g |
+| **Sugar** | 8.6g | 1.4g |
+| **Sodium** | 836mg | 139mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
