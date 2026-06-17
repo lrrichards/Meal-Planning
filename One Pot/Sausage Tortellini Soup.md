@@ -20,11 +20,11 @@ ingredients:
 
 - 1 lb Italian sausage
 - 1 onion, diced
-- Chicken broth
+- 4 cups broth
 - 1 can crushed tomatoes
 - 3/4 cup heavy cream
-- Fresh spinach
-- Parmesan cheese
+- 2 cups fresh spinach
+- 1/4 cup parmesan cheese
 - Cheese tortellini
 
 ## Instructions
@@ -48,13 +48,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 2115 | 353 |
-| **Protein** | 72.3g | 12.0g |
-| **Fat** | 184.9g | 30.8g |
-| **Carbs** | 43.1g | 7.2g |
-| **Fiber** | 7.0g | 1.2g |
-| **Sugar** | 22.9g | 3.8g |
-| **Sodium** | 3713mg | 619mg |
+| **Calories** | 2415 | 402 |
+| **Protein** | 106.7g | 17.8g |
+| **Fat** | 196.9g | 32.8g |
+| **Carbs** | 66.4g | 11.1g |
+| **Fiber** | 17.5g | 2.9g |
+| **Sugar** | 28.0g | 4.7g |
+| **Sodium** | 8095mg | 1349mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
