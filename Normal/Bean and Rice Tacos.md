@@ -15,8 +15,8 @@ ingredients:
 ## Ingredients
 
 - 2 cups cooked Mayocoba beans (or pinto beans)
-- Remaining cooked white rice
-- Corn tortillas
+- 2 cups cooked white rice
+- 10 corn tortillas
 - Diced tomatoes (leftover from previous meal)
 
 *Not counted: taco seasoning, oil*
@@ -41,12 +41,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (3 servings) |
 |---|---:|---:|
-| **Calories** | 1613 | 538 |
-| **Protein** | 105.6g | 35.2g |
-| **Fat** | 4.8g | 1.6g |
-| **Carbs** | 288.0g | 96.0g |
-| **Fiber** | 72.0g | 24.0g |
-| **Sugar** | 7.2g | 2.4g |
-| **Sodium** | 48mg | 16mg |
+| **Calories** | 2954 | 985 |
+| **Protein** | 147.6g | 49.2g |
+| **Fat** | 17.9g | 6.0g |
+| **Carbs** | 583.8g | 194.6g |
+| **Fiber** | 100.5g | 33.5g |
+| **Sugar** | 39.2g | 13.1g |
+| **Sodium** | 202mg | 67mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
