@@ -38,6 +38,20 @@ ingredients:
 
 - **Filled in by Claude (not stated in video):** cheddar amount at the end — video just said "add in my cheese"; 1 cup assumed. Cook time also assumed at low 5 hr to match the other bags.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 3022 | 756 |
+| **Protein** | 250.8g | 62.7g |
+| **Fat** | 126.6g | 31.7g |
+| **Carbs** | 218.9g | 54.7g |
+| **Fiber** | 25.8g | 6.4g |
+| **Sugar** | 16.4g | 4.1g |
+| **Sodium** | 3093mg | 773mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
