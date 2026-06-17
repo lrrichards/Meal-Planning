@@ -17,8 +17,8 @@ ingredients:
 
 - 1 bag tortilla chips
 - 1 package breakfast sausage
-- Fully cooked thick bacon
-- Marble cheese, shredded (shred your own — pre-shredded won't melt as smooth)
+- 6 slices bacon
+- 1 cup marble cheese, shredded
 - 6 eggs
 - Pepper
 
@@ -42,12 +42,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1653 | 276 |
-| **Protein** | 74.8g | 12.5g |
-| **Fat** | 78.8g | 13.1g |
-| **Carbs** | 154.8g | 25.8g |
+| **Calories** | 3017 | 503 |
+| **Protein** | 165.2g | 27.5g |
+| **Fat** | 186.8g | 31.1g |
+| **Carbs** | 158.6g | 26.4g |
 | **Fiber** | 7.5g | 1.2g |
-| **Sugar** | 12.8g | 2.1g |
-| **Sodium** | 2778mg | 463mg |
+| **Sugar** | 13.4g | 2.2g |
+| **Sodium** | 6364mg | 1061mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
