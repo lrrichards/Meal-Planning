@@ -37,3 +37,17 @@ ingredients:
 - Old Bay is usually for seafood but tastes great on pork and cabbage.
 - No-liquid slow cooker version: do the sear steps in a pan first, then transfer everything to the slow cooker.
 - From a $70/week keto-on-a-budget week (2 people, 7 days).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 158 | 40 |
+| **Protein** | 9.5g | 2.4g |
+| **Fat** | 1.6g | 0.4g |
+| **Carbs** | 32.4g | 8.1g |
+| **Fiber** | 11.3g | 2.8g |
+| **Sugar** | 19.8g | 5.0g |
+| **Sodium** | 960mg | 240mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
