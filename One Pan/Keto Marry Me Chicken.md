@@ -18,16 +18,16 @@ ingredients:
 
 ## Ingredients
 
-- Chicken breasts
+- 2 lb chicken breast
 - Onion powder, garlic powder, smoked paprika, oregano, chili powder, salt, pepper
-- Avocado oil
-- Onion, diced
-- Fresh garlic
-- A little tomato paste
-- Half and half (dairy-free works)
-- Bone broth
-- Parmesan cheese
-- Sun-dried tomatoes
+- 1 tbsp olive oil
+- 1 onion
+- 3 cloves garlic
+- 1 tbsp tomato paste
+- 1 cup half and half
+- 1 cup broth
+- 1/4 cup parmesan cheese
+- 1/4 cup sun-dried tomatoes
 - Fresh basil
 - Roasted cauliflower, to serve (in place of pasta)
 
@@ -47,6 +47,20 @@ ingredients:
 - **Contains tomato paste and sun-dried tomatoes — contains tomatoes.**
 - Distinct from Marry Me Chicken Over Rice — this is the keto version over cauliflower.
 - Uses sun-dried tomatoes (a pricier ingredient), so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2523 | 631 |
+| **Protein** | 258.9g | 64.7g |
+| **Fat** | 143.5g | 35.9g |
+| **Carbs** | 40.0g | 10.0g |
+| **Fiber** | 2.8g | 0.7g |
+| **Sugar** | 7.5g | 1.9g |
+| **Sodium** | 2451mg | 613mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
 ## Source
 
