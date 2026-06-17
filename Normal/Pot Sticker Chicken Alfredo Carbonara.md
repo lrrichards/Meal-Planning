@@ -17,8 +17,8 @@ ingredients:
 
 - 1 bag frozen pot stickers
 - 1 box chicken alfredo dinner (the skillet/microwave kind)
-- Shredded mozzarella cheese
-- Real bacon bits
+- 1 cup shredded mozzarella cheese
+- 1/4 cup bacon bits
 - 1 can peas (optional)
 
 ## Instructions
@@ -41,12 +41,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 1219 | 305 |
-| **Protein** | 76.0g | 19.0g |
-| **Fat** | 33.6g | 8.4g |
-| **Carbs** | 151.6g | 37.9g |
+| **Calories** | 1674 | 418 |
+| **Protein** | 119.3g | 29.8g |
+| **Fat** | 62.1g | 15.5g |
+| **Carbs** | 155.0g | 38.8g |
 | **Fiber** | 27.7g | 6.9g |
-| **Sugar** | 33.2g | 8.3g |
-| **Sodium** | 1579mg | 395mg |
+| **Sugar** | 34.4g | 8.6g |
+| **Sodium** | 2828mg | 707mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
