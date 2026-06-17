@@ -46,3 +46,17 @@ ingredients:
 - Also excellent served over mashed potatoes or white rice instead of as sliders.
 - French fried onions on top are optional but highly recommended.
 - 8 hours on low = perfect for a workday — start it in the morning.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 2513 | 314 |
+| **Protein** | 265.6g | 33.2g |
+| **Fat** | 148.2g | 18.5g |
+| **Carbs** | 13.5g | 1.7g |
+| **Fiber** | 1.9g | 0.2g |
+| **Sugar** | 6.8g | 0.8g |
+| **Sodium** | 2041mg | 255mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
