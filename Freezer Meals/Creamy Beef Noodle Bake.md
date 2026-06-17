@@ -37,7 +37,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: no tomato.
 - Veggies are built in — no side needed.
 - **Filled in by Claude (not stated in video):** elbow pasta amount — video said "some of my elbows"; ~3 cups cooked (about ½ lb dry) assumed to fill a 9x13 alongside the other ingredients.
 
