@@ -21,10 +21,10 @@ ingredients:
 
 - 1 loaf sub bread
 - Deli meats: ham, salami, pepperoni (ratio of about 8 ham : 16 salami : 8 pepperoni slices)
-- Provolone cheese
+- 4 oz provolone cheese
 - Pepper jack cheese
-- Shredded lettuce
-- Mayonnaise
+- 1 cup lettuce
+- 1/4 cup mayonnaise
 - Olive oil
 - Red wine vinegar
 - Italian seasoning
@@ -49,12 +49,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 275 | 69 |
-| **Protein** | 9.0g | 2.2g |
-| **Fat** | 3.5g | 0.9g |
-| **Carbs** | 52.0g | 13.0g |
+| **Calories** | 1047 | 262 |
+| **Protein** | 38.6g | 9.6g |
+| **Fat** | 74.9g | 18.7g |
+| **Carbs** | 54.7g | 13.7g |
 | **Fiber** | 2.5g | 0.6g |
-| **Sugar** | 4.0g | 1.0g |
-| **Sodium** | 510mg | 128mg |
+| **Sugar** | 4.8g | 1.2g |
+| **Sodium** | 1853mg | 463mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
