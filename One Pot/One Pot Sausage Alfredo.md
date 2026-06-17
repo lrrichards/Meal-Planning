@@ -37,7 +37,6 @@ ingredients:
 - A true one-pot pasta — the noodles cook right in the broth.
 - Distinct from Sausage Alfredo with Zoodles (that's the keto zucchini-noodle version) — this is the regular pasta one-pot version.
 - Not keto (pasta).
-- Evan-safe (no tomatoes).
 - Target "poor man's comfort food."
 
 ## Source
