@@ -38,3 +38,17 @@ ingredients:
 - Can be assembled ahead of time and baked the night you want to serve it.
 - Cauliflower rice keeps it keto; the cream cheese and mozzarella add fat.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 480 | 80 |
+| **Protein** | 22.2g | 3.7g |
+| **Fat** | 39.9g | 6.7g |
+| **Carbs** | 10.0g | 1.7g |
+| **Fiber** | 3.3g | 0.6g |
+| **Sugar** | 4.9g | 0.8g |
+| **Sodium** | 516mg | 86mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
