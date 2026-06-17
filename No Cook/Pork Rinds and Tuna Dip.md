@@ -26,7 +26,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb snack or quick lunch — around $3 and 50 g of protein.
-- Evan-safe (no tomatoes).
 - Tuna pouches tear open, so no can opener needed on the go.
 - Uses pork rinds (a keto convenience item), so not tagged extreme-budget.
 
