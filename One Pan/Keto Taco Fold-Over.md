@@ -15,11 +15,11 @@ ingredients:
 
 ## Ingredients
 
-- Keto tortillas
+- 4 keto tortillas
 - 1 lb ground beef
 - Low-carb taco seasoning
 - A little water
-- Shredded cheese (cheddar and pepper jack)
+- 1 cup shredded cheese
 - Toppings: queso, sour cream, lettuce, tomato, lime
 - Optional side: Mexican cauliflower rice (cauliflower rice + a can of Rotel + lime juice)
 
@@ -41,13 +41,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (2 servings) |
 |---|---:|---:|
-| **Calories** | 1152 | 576 |
-| **Protein** | 78.0g | 39.0g |
-| **Fat** | 90.7g | 45.4g |
-| **Carbs** | 0.0g | 0.0g |
-| **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 0.0g | 0.0g |
-| **Sodium** | 327mg | 163mg |
+| **Calories** | 1968 | 984 |
+| **Protein** | 126.3g | 63.1g |
+| **Fat** | 142.1g | 71.1g |
+| **Carbs** | 73.5g | 36.7g |
+| **Fiber** | 44.0g | 22.0g |
+| **Sugar** | 0.6g | 0.3g |
+| **Sodium** | 2388mg | 1194mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
