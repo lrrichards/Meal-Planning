@@ -46,3 +46,17 @@ ingredients:
 - The cream cheese step is optional but adds a rich, creamy depth that makes the soup special.
 - Whisk the cream cheese in rather than stirring to prevent lumps.
 - Use any beans you have — pinto, kidney, or great northern all work.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2221 | 370 |
+| **Protein** | 134.8g | 22.5g |
+| **Fat** | 30.0g | 5.0g |
+| **Carbs** | 374.9g | 62.5g |
+| **Fiber** | 83.7g | 13.9g |
+| **Sugar** | 32.4g | 5.4g |
+| **Sodium** | 1951mg | 325mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
