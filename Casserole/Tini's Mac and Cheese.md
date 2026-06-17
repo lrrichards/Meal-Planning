@@ -44,3 +44,17 @@ ingredients:
 - Evan-safe (no tomatoes).
 - "Viral recipe edition." The transcript didn't name the cheeses or seasonings (shown on-screen); the amounts above reflect the well-known Tini recipe — tweak to taste.
 - Cheese-heavy, so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 2645 | 331 |
+| **Protein** | 91.2g | 11.4g |
+| **Fat** | 74.0g | 9.2g |
+| **Carbs** | 396.9g | 49.6g |
+| **Fiber** | 15.2g | 1.9g |
+| **Sugar** | 2.9g | 0.4g |
+| **Sodium** | 753mg | 94mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
