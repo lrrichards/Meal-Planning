@@ -14,12 +14,12 @@ ingredients:
 
 ## Ingredients
 
-- Boneless skinless chicken thighs
+- 2 lb chicken thighs
 - 2 bags frozen stir fry vegetables (with water chestnuts for crunch)
 - 1/2 to 3/4 cup soy sauce
 - Ground ginger
-- Garlic
-- Rice, to serve
+- 3 cloves garlic
+- 2 cups white rice
 - Spices/seasoning of choice
 
 ## Instructions
@@ -43,13 +43,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 420 | 70 |
-| **Protein** | 21.6g | 3.6g |
-| **Fat** | 1.3g | 0.2g |
-| **Carbs** | 80.2g | 13.4g |
-| **Fiber** | 22.0g | 3.7g |
-| **Sugar** | 20.5g | 3.4g |
-| **Sodium** | 2088mg | 348mg |
+| **Calories** | 2407 | 401 |
+| **Protein** | 248.9g | 41.5g |
+| **Fat** | 100.0g | 16.7g |
+| **Carbs** | 108.6g | 18.1g |
+| **Fiber** | 1.9g | 0.3g |
+| **Sugar** | 0.8g | 0.1g |
+| **Sodium** | 2602mg | 434mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
