@@ -37,3 +37,17 @@ ingredients:
 - Blending half the sauce with the beans and adding the rest straight gives the right sauce-to-pasta ratio with a full 16 oz of pasta.
 - Any pasta works — shells, spaghetti, penne, rotini.
 - Any canned bean works: kidney beans, white beans, or pinto.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 5994 | 749 |
+| **Protein** | 282.5g | 35.3g |
+| **Fat** | 40.4g | 5.1g |
+| **Carbs** | 1112.3g | 139.0g |
+| **Fiber** | 102.2g | 12.8g |
+| **Sugar** | 11.1g | 1.4g |
+| **Sodium** | 342mg | 43mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
