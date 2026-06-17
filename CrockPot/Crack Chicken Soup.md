@@ -42,6 +42,20 @@ ingredients:
 - Distinct from Crack Chicken (this is the brothy soup version).
 - Budget keto — cheap chicken base; uses cream cheese (not heavy cream).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 6160 | 1027 |
+| **Protein** | 633.1g | 105.5g |
+| **Fat** | 369.9g | 61.7g |
+| **Carbs** | 46.7g | 7.8g |
+| **Fiber** | 11.3g | 1.9g |
+| **Sugar** | 14.3g | 2.4g |
+| **Sodium** | 5743mg | 957mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=el3qkJeLelM)
