@@ -37,3 +37,17 @@ ingredients:
 
 - Everything-burger-but-the-bun in a bowl. Customize toppings to what's in the fridge.
 - From a $70/week keto-on-a-budget week (2 people, 7 days).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 598 | 150 |
+| **Protein** | 39.6g | 9.9g |
+| **Fat** | 45.4g | 11.4g |
+| **Carbs** | 5.1g | 1.3g |
+| **Fiber** | 0.9g | 0.2g |
+| **Sugar** | 2.3g | 0.6g |
+| **Sodium** | 165mg | 41mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
