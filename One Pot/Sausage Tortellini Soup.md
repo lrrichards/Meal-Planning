@@ -44,6 +44,20 @@ ingredients:
 - Not keto (tortellini).
 - "Poor man's comfort food," rainy day soup edition.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2115 | 353 |
+| **Protein** | 72.3g | 12.0g |
+| **Fat** | 184.9g | 30.8g |
+| **Carbs** | 43.1g | 7.2g |
+| **Fiber** | 7.0g | 1.2g |
+| **Sugar** | 22.9g | 3.8g |
+| **Sodium** | 3713mg | 619mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Cr_wtrn0azk)
