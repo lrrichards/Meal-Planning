@@ -33,7 +33,7 @@ ingredients:
 ## Notes
 
 - A simple dad recipe — sausage baked in stewed tomatoes, served over pasta or rice.
-- **Contains stewed tomatoes — not Evan-safe.**
+- **Contains stewed tomatoes — contains tomatoes.**
 - Distinct from Creamy Tomato Sausage Pasta and Sausage and Tomato Gnocchi (this is a baked, non-creamy stewed-tomato version).
 - Not keto (pasta).
 - "Poor man's comfort food," father's recipe edition.
