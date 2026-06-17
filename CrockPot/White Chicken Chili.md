@@ -47,6 +47,20 @@ ingredients:
 - Keto / low-carb white chili — no beans, no tomatoes.
 - Cream-heavy (heavy cream + parmesan + cream cheese), so not tagged extreme-budget.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 4912 | 819 |
+| **Protein** | 366.7g | 61.1g |
+| **Fat** | 341.6g | 56.9g |
+| **Carbs** | 90.9g | 15.2g |
+| **Fiber** | 20.6g | 3.4g |
+| **Sugar** | 44.7g | 7.5g |
+| **Sodium** | 8057mg | 1343mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=el3qkJeLelM)
