@@ -37,7 +37,6 @@ ingredients:
 
 - A cheesy, creamy potato bake. The source didn't name the cream soup — cream of chicken or mushroom both work.
 - Not keto (potatoes).
-- Evan-safe (no tomatoes).
 - "Poor man's comfort food," about $6.76 with Kroger digital coupons.
 
 ## Source
