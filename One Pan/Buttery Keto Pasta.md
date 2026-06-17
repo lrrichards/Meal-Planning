@@ -28,20 +28,20 @@ ingredients:
 - A simple keto / low-carb pasta side — these noodles aren't rubbery and taste good mixed with butter and seasonings.
 - A side dish; uses specialty low-carb noodles, so not tagged extreme-budget.
 
-## Source
-
-[Watch on YouTube](https://www.youtube.com/watch?v=9Tnu_Ww1vKw)
-
 ## Nutrition (Estimated)
 
 | | Entire Recipe | Per Serving (2 servings) |
 |---|---:|---:|
-| **Calories** | 224 | 112 |
-| **Protein** | 0.5g | 0.3g |
-| **Fat** | 22.8g | 11.4g |
-| **Carbs** | 1.0g | 0.5g |
-| **Fiber** | 0.7g | 0.4g |
-| **Sugar** | 0.1g | 0.1g |
-| **Sodium** | 185mg | 92mg |
+| **Calories** | 235 | 117 |
+| **Protein** | 1.4g | 0.7g |
+| **Fat** | 23.3g | 11.6g |
+| **Carbs** | 6.5g | 3.2g |
+| **Fiber** | 5.5g | 2.8g |
+| **Sugar** | 0.3g | 0.1g |
+| **Sodium** | 211mg | 105mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
+## Source
+
+[Watch on YouTube](https://www.youtube.com/watch?v=9Tnu_Ww1vKw)
