@@ -21,14 +21,14 @@ ingredients:
 
 - 1 lb ground beef
 - 1 lb ground Italian sausage
-- Rigatoni
+- 12 oz rigatoni
 - 1 jar marinara sauce
 - 1 can diced tomatoes
-- Ricotta cheese
-- Shredded mozzarella cheese
-- Parmesan cheese
+- 1 cup ricotta cheese
+- 1 cup shredded mozzarella cheese
+- 1/4 cup parmesan cheese
 - 1 egg
-- Garlic salt, Italian seasoning, onion powder, garlic powder, parsley
+- 3 cloves garlic
 
 ## Instructions
 
@@ -51,13 +51,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 3073 | 512 |
-| **Protein** | 165.2g | 27.5g |
-| **Fat** | 225.0g | 37.5g |
-| **Carbs** | 89.7g | 14.9g |
-| **Fiber** | 18.7g | 3.1g |
-| **Sugar** | 54.7g | 9.1g |
-| **Sodium** | 7498mg | 1250mg |
+| **Calories** | 4970 | 828 |
+| **Protein** | 264.8g | 44.1g |
+| **Fat** | 272.1g | 45.3g |
+| **Carbs** | 350.8g | 58.5g |
+| **Fiber** | 29.6g | 4.9g |
+| **Sugar** | 58.4g | 9.7g |
+| **Sodium** | 8834mg | 1472mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
