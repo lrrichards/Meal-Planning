@@ -31,3 +31,17 @@ ingredients:
 - Two cups make a serving. Great for meal prep — keeps for a couple of mornings in the fridge.
 - Also works as a snack or a quick lunch, not just breakfast.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1290 | 215 |
+| **Protein** | 122.6g | 20.4g |
+| **Fat** | 78.7g | 13.1g |
+| **Carbs** | 13.3g | 2.2g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 11.6g | 1.9g |
+| **Sodium** | 4440mg | 740mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
