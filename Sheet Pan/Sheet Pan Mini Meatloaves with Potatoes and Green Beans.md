@@ -42,7 +42,6 @@ ingredients:
 ## Notes
 
 - A whole sheet-pan dinner: mini meatloaves, roasted potatoes, and green beans.
-- **Glaze contains ketchup (tomato-based) — check against Evan's tomato restriction.**
 - Not keto (panko, potatoes, glaze).
 - Aldi "poor man's comfort food."
 
