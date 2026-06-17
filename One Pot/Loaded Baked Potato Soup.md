@@ -20,16 +20,16 @@ ingredients:
 ## Ingredients
 
 - Potatoes
-- Bacon (about 4 pieces for the soup, more for garnish)
+- 4 slices bacon
 - 1/2 onion, diced
 - Butter
 - 2 cups milk
 - 1 cup half and half
 - 1/3 cup flour
-- Chicken broth
-- Shredded cheese
+- 4 cups broth
+- 1 cup shredded cheese
 - 1 cup sour cream
-- Garlic salt, pepper
+- 3 cloves garlic
 
 ## Instructions
 
@@ -52,13 +52,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1076 | 179 |
-| **Protein** | 29.7g | 4.9g |
-| **Fat** | 83.1g | 13.8g |
-| **Carbs** | 63.6g | 10.6g |
+| **Calories** | 2204 | 367 |
+| **Protein** | 109.0g | 18.2g |
+| **Fat** | 169.5g | 28.2g |
+| **Carbs** | 71.4g | 11.9g |
 | **Fiber** | 0.9g | 0.2g |
-| **Sugar** | 35.9g | 6.0g |
-| **Sodium** | 658mg | 110mg |
+| **Sugar** | 39.4g | 6.6g |
+| **Sodium** | 6854mg | 1142mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
