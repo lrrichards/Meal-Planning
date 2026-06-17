@@ -28,7 +28,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb grab-and-go lunch — around $6–7 and 45 g of protein, with leftovers from most ingredients.
-- Evan-safe (no tomatoes).
 - Can be wrapped in a low-carb tortilla instead of eaten as a salad.
 - Uses feta and dressing (keto convenience items), so not tagged extreme-budget.
 
