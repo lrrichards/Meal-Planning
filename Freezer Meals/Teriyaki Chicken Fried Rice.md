@@ -32,7 +32,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: no tomato.
 - Different dish from [[Teriyaki Chicken and Rice]] (One Pot — from-scratch soy/honey sauce, raw rice) and [[Teriyaki Chicken Rice Bowls]] (slow-cooker bag). This is the fried-rice-style version — kept on purpose.
 - **Filled in by Claude (not stated in video):** rice amount ("add your rice to a bag" → ~2 cups, matching the other rice one-pots) and veggie amount (~2 cups, matching the batch pattern).
 
