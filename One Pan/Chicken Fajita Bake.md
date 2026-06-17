@@ -14,10 +14,10 @@ ingredients:
 
 ## Ingredients
 
-- Chicken thighs
-- Bell peppers, mixed colors, sliced
+- 2 lb chicken thighs
+- 3 bell peppers
 - 1 sweet onion, sliced
-- Three types of cheese, shredded (your choice)
+- 1.5 cups shredded cheese
 - Olive oil
 - Fajita seasoning (homemade is better — chili powder, cumin, paprika, garlic powder, onion powder, salt, pepper)
 
@@ -34,3 +34,17 @@ ingredients:
 - Keto / low-carb — no tortillas, just chicken, peppers, onion, and cheese.
 - Make your own fajita seasoning to control the flavor.
 - Trader Joe's "poor man's comfort food." Uses three cheeses, so left off the extreme-budget tag — say the word to add it.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2735 | 456 |
+| **Protein** | 283.1g | 47.2g |
+| **Fat** | 156.2g | 26.0g |
+| **Carbs** | 34.0g | 5.7g |
+| **Fiber** | 9.4g | 1.6g |
+| **Sugar** | 20.6g | 3.4g |
+| **Sodium** | 1870mg | 312mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
