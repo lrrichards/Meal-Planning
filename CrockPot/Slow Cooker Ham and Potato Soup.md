@@ -50,3 +50,17 @@ ingredients:
 - Serve as-is for a dairy version or skip the cream/sour cream/cheese for a lighter broth soup.
 - Great for using up leftover holiday ham — this is one of the best ways to use it.
 - Pre-diced ham from the store makes prep very fast.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 16867 | 2811 |
+| **Protein** | 1433.4g | 238.9g |
+| **Fat** | 1106.1g | 184.3g |
+| **Carbs** | 239.8g | 40.0g |
+| **Fiber** | 27.7g | 4.6g |
+| **Sugar** | 71.2g | 11.9g |
+| **Sodium** | 11168mg | 1861mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
