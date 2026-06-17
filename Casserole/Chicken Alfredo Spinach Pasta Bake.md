@@ -19,8 +19,8 @@ ingredients:
 - 1 rotisserie chicken, pulled (a cheap way to add cooked chicken)
 - 2 jars alfredo sauce
 - 1/2 bag fresh spinach
-- Shredded mozzarella cheese, for topping
-- Garlic, salt, pepper, onion powder
+- 1 cup shredded mozzarella cheese
+- 3 cloves garlic
 
 ## Instructions
 
@@ -41,12 +41,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 2702 | 450 |
-| **Protein** | 116.5g | 19.4g |
-| **Fat** | 38.7g | 6.5g |
-| **Carbs** | 466.6g | 77.8g |
+| **Calories** | 3018 | 503 |
+| **Protein** | 148.2g | 24.7g |
+| **Fat** | 57.9g | 9.7g |
+| **Carbs** | 469.1g | 78.2g |
 | **Fiber** | 45.0g | 7.5g |
-| **Sugar** | 84.9g | 14.2g |
-| **Sodium** | 7170mg | 1195mg |
+| **Sugar** | 86.1g | 14.3g |
+| **Sodium** | 7878mg | 1313mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
