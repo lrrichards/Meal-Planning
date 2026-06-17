@@ -35,3 +35,17 @@ ingredients:
 - **Contains Rotel/tomatoes — not Evan-safe.** Leave it out or sub for Evan.
 - Dollar Tree "poor man's comfort food" — built entirely from cheap canned/boxed ingredients.
 - Not keto (pasta-based).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1867 | 467 |
+| **Protein** | 92.8g | 23.2g |
+| **Fat** | 151.0g | 37.8g |
+| **Carbs** | 29.6g | 7.4g |
+| **Fiber** | 4.2g | 1.1g |
+| **Sugar** | 11.3g | 2.8g |
+| **Sodium** | 5856mg | 1464mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
