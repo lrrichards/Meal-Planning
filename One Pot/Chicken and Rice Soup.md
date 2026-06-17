@@ -39,3 +39,17 @@ ingredients:
 - Add onion at the start if you have one — adds extra flavor.
 - Makes a huge pot — plan on leftovers for 2+ days.
 - Shredding chicken with a hand electric mixer in a bowl is much faster than two forks.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 1479 | 185 |
+| **Protein** | 146.6g | 18.3g |
+| **Fat** | 59.1g | 7.4g |
+| **Carbs** | 80.0g | 10.0g |
+| **Fiber** | 5.2g | 0.7g |
+| **Sugar** | 4.6g | 0.6g |
+| **Sodium** | 1518mg | 190mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
