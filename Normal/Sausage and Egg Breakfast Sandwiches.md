@@ -31,6 +31,5 @@ ingredients:
 
 - About 72 g of protein across the batch of eggs alone.
 - Not keto (sweet rolls).
-- Evan-safe (no tomatoes).
 - Aldi "poor man's comfort food," four items for under $10.
 - Source said "Kobak" for the cheese — read as **Colby Jack** based on price and the dish (correct if needed).
