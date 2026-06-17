@@ -15,7 +15,7 @@ ingredients:
 ## Ingredients
 
 - 1 lb dried black beans (or 2 cans black beans, drained)
-- Enchilada sauce (about 1.5 cups total)
+- 1 can enchilada sauce
 - 6 corn tortillas (for 3 layers, 2 per layer — adjust for your dish)
 - 4 oz shredded sharp cheddar cheese
 - Optional toppings: diced tomatoes, cilantro
@@ -53,12 +53,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 2758 | 552 |
-| **Protein** | 145.5g | 29.1g |
-| **Fat** | 78.1g | 15.6g |
-| **Carbs** | 398.5g | 79.7g |
-| **Fiber** | 86.5g | 17.3g |
-| **Sugar** | 24.3g | 4.9g |
-| **Sodium** | 904mg | 181mg |
+| **Calories** | 2920 | 584 |
+| **Protein** | 149.8g | 30.0g |
+| **Fat** | 84.5g | 16.9g |
+| **Carbs** | 419.8g | 84.0g |
+| **Fiber** | 90.8g | 18.2g |
+| **Sugar** | 30.7g | 6.1g |
+| **Sodium** | 2816mg | 563mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
