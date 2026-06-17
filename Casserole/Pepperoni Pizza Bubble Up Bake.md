@@ -38,3 +38,17 @@ ingredients:
 - Use any toppings you like — this is just a base recipe.
 - Great budget alternative to takeout pizza night.
 - Only 4 ingredients.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 329 | 55 |
+| **Protein** | 7.1g | 1.2g |
+| **Fat** | 11.2g | 1.9g |
+| **Carbs** | 50.7g | 8.4g |
+| **Fiber** | 2.4g | 0.4g |
+| **Sugar** | 8.1g | 1.4g |
+| **Sodium** | 706mg | 118mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
