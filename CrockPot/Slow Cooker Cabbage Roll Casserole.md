@@ -44,3 +44,17 @@ ingredients:
 - Adding rice in the last hour gives better texture, but adding it at the start still works fine.
 - Makes a huge batch — great for multiple nights of leftovers.
 - Ground turkey or chicken are lighter alternatives to ground beef.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 1987 | 248 |
+| **Protein** | 137.8g | 17.2g |
+| **Fat** | 101.8g | 12.7g |
+| **Carbs** | 147.2g | 18.4g |
+| **Fiber** | 33.8g | 4.2g |
+| **Sugar** | 71.0g | 8.9g |
+| **Sodium** | 14432mg | 1804mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
