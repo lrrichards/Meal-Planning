@@ -50,12 +50,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 6183 | 1031 |
-| **Protein** | 372.1g | 62.0g |
-| **Fat** | 336.0g | 56.0g |
-| **Carbs** | 406.8g | 67.8g |
-| **Fiber** | 25.6g | 4.3g |
-| **Sugar** | 35.0g | 5.8g |
-| **Sodium** | 5415mg | 903mg |
+| **Calories** | 3620 | 603 |
+| **Protein** | 233.1g | 38.9g |
+| **Fat** | 183.4g | 30.6g |
+| **Carbs** | 251.6g | 41.9g |
+| **Fiber** | 19.2g | 3.2g |
+| **Sugar** | 31.6g | 5.3g |
+| **Sodium** | 2596mg | 433mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
