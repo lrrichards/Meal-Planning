@@ -39,6 +39,20 @@ ingredients:
 - Not keto (potatoes).
 - "Poor man's comfort food," about $6.76 with Kroger digital coupons.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1287 | 214 |
+| **Protein** | 37.7g | 6.3g |
+| **Fat** | 2.1g | 0.3g |
+| **Carbs** | 287.1g | 47.8g |
+| **Fiber** | 42.6g | 7.1g |
+| **Sugar** | 25.4g | 4.2g |
+| **Sodium** | 230mg | 38mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tiM-WSVVQWk)
