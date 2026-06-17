@@ -37,3 +37,17 @@ ingredients:
 - Rinse the Alfredo jar with the ¼ cup water to get all the sauce out.
 - The shredded chicken absorbs the tomato-Alfredo sauce beautifully — stir well after shredding.
 - Serve over egg noodles or penne for a classic feel.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 5494 | 916 |
+| **Protein** | 658.8g | 109.8g |
+| **Fat** | 279.0g | 46.5g |
+| **Carbs** | 45.5g | 7.6g |
+| **Fiber** | 10.5g | 1.8g |
+| **Sugar** | 30.3g | 5.1g |
+| **Sodium** | 4515mg | 752mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
