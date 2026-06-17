@@ -40,3 +40,17 @@ ingredients:
 - Extras keep well in the fridge for a quick lunch the next day.
 - Works just as well as tacos, burritos, or a burrito bowl instead of quesadillas.
 - Add more bell peppers or use a mix of colors for more veggie volume.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 920 | 230 |
+| **Protein** | 105.0g | 26.2g |
+| **Fat** | 48.0g | 12.0g |
+| **Carbs** | 12.3g | 3.1g |
+| **Fiber** | 3.5g | 0.9g |
+| **Sugar** | 7.4g | 1.8g |
+| **Sodium** | 265mg | 66mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
