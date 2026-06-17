@@ -22,7 +22,7 @@ ingredients:
 - 1 can tomato paste
 - 1 can mixed chili beans (seasoned)
 - 3/4 cup water
-- Shredded Colby Jack cheese for topping
+- 1 cup shredded Colby Jack cheese
 
 **Corn Muffin Cookies (side):**
 - 1 box Jiffy corn muffin mix
@@ -52,12 +52,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 1600 | 320 |
-| **Protein** | 69.5g | 13.9g |
-| **Fat** | 10.9g | 2.2g |
-| **Carbs** | 313.2g | 62.6g |
+| **Calories** | 2045 | 409 |
+| **Protein** | 95.4g | 19.1g |
+| **Fat** | 47.1g | 9.4g |
+| **Carbs** | 315.5g | 63.1g |
 | **Fiber** | 43.3g | 8.7g |
-| **Sugar** | 27.3g | 5.5g |
-| **Sodium** | 1765mg | 353mg |
+| **Sugar** | 27.9g | 5.6g |
+| **Sodium** | 2460mg | 492mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
