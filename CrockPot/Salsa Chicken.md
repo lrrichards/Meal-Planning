@@ -29,7 +29,7 @@ ingredients:
 ## Notes
 
 - Keto / low-carb and about as easy as it gets — 3 ingredients.
-- **Contains salsa (tomato-based) — not Evan-safe.**
+- **Contains salsa (tomato-based) — contains tomatoes.**
 - Budget keto — very inexpensive.
 
 ## Source
