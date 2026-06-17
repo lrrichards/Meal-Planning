@@ -34,6 +34,20 @@ ingredients:
 - Same skeleton as [[Lazy Lasagna Bake]] with pepperoni instead of beef/parmesan — reusing ingredients across meals is the budget trick.
 - **Filled in by Claude (not stated in video):** pepperoni amount — video said "half the bag" without a size; ~4 oz assumed (half a standard 8 oz bag). Top-cheese amount eyeballed in video (~½ cup).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 4365 | 728 |
+| **Protein** | 163.2g | 27.2g |
+| **Fat** | 26.6g | 4.4g |
+| **Carbs** | 848.3g | 141.4g |
+| **Fiber** | 36.3g | 6.0g |
+| **Sugar** | 7.4g | 1.2g |
+| **Sodium** | 422mg | 70mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
