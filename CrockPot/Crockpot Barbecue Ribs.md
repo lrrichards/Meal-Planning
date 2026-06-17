@@ -34,3 +34,17 @@ ingredients:
 - Apple cider vinegar cuts through the sweetness of the barbecue sauce and tenderizes the meat.
 - The broil step at the end is optional but highly recommended for a sticky, caramelized finish.
 - Use your favorite barbecue sauce — sweet, smoky, or spicy all work.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1003 | 251 |
+| **Protein** | 40.7g | 10.2g |
+| **Fat** | 54.2g | 13.5g |
+| **Carbs** | 87.9g | 22.0g |
+| **Fiber** | 1.9g | 0.5g |
+| **Sugar** | 67.3g | 16.8g |
+| **Sodium** | 1822mg | 455mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
