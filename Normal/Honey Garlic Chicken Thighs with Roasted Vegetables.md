@@ -17,14 +17,14 @@ ingredients:
 
 ## Ingredients
 
-- Chicken thigh fillets
+- 2 lb chicken thighs
 - 1 cup honey
 - 1/2 cup soy sauce
 - 1 onion (half for roasting, half for the sauce)
-- Broccoli (about half a bag)
+- 12 oz broccoli
 - 2 potatoes, cut up
-- Bell peppers, cut up
-- Minced garlic
+- 3 bell peppers
+- 3 cloves garlic
 - Olive oil, garlic salt, onion powder, garlic powder, salt, pepper
 
 ## Instructions
@@ -46,13 +46,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 1381 | 276 |
-| **Protein** | 15.4g | 3.1g |
-| **Fat** | 0.5g | 0.1g |
-| **Carbs** | 349.5g | 69.9g |
-| **Fiber** | 10.1g | 2.0g |
-| **Sugar** | 288.0g | 57.6g |
-| **Sodium** | 4356mg | 871mg |
+| **Calories** | 3504 | 701 |
+| **Protein** | 264.4g | 52.9g |
+| **Fat** | 101.9g | 20.4g |
+| **Carbs** | 393.5g | 78.7g |
+| **Fiber** | 26.5g | 5.3g |
+| **Sugar** | 308.9g | 61.8g |
+| **Sodium** | 5281mg | 1056mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
