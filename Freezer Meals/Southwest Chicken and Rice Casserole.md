@@ -32,7 +32,7 @@ ingredients:
 
 ## Notes
 
-- Enchilada sauce is smooth (Evan-OK); the ¼ cup salsa is the only flag — **use a smooth salsa to keep it Evan-safe**, chunky salsa is on his avoid list.
+- Enchilada sauce is smooth (-OK); the ¼ cup salsa is the only flag — **use a smooth salsa to keep it 
 - Distinct from [[Southwest Chicken Bowls]] (slow-cooker freezer bag).
 - **Filled in by Claude (not stated in video):** bake time/temp — video never stated it; 375°F 40–45 min covered assumed to match the other casseroles in the batch.
 
