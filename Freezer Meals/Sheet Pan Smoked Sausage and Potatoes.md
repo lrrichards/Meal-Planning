@@ -28,7 +28,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: no tomato.
 - The pre-sliced frozen pepper/onion bag saves all the knife work — recommended for batch days.
 - Any smoked sausage works (apple smoked, etc.).
 - **Filled in by Claude (not stated in video):** sausage package size (~13–14 oz standard rope assumed) and Cajun seasoning amount (~1 tbsp — video shook it on, then the bag broke mid-pour).
