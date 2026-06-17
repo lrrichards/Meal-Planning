@@ -32,7 +32,6 @@ ingredients:
 
 ## Notes
 
-- **Not Evan-safe:** diced tomatoes + salsa. Swap the can for tomato sauce and use smooth salsa for an Evan-friendly version.
 - Distinct from [[Chicken Taco Rice]] (One Pot, chicken + raw rice) and [[Beef and Rice Skillet]] (Rotel + broccoli).
 - No filled-in amounts — video stated everything.
 
