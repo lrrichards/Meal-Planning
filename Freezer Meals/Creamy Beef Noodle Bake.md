@@ -40,6 +40,20 @@ ingredients:
 - Veggies are built in — no side needed.
 - **Filled in by Claude (not stated in video):** elbow pasta amount — video said "some of my elbows"; ~3 cups cooked (about ½ lb dry) assumed to fill a 9x13 alongside the other ingredients.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 611 | 102 |
+| **Protein** | 27.5g | 4.6g |
+| **Fat** | 32.3g | 5.4g |
+| **Carbs** | 53.3g | 8.9g |
+| **Fiber** | 5.8g | 1.0g |
+| **Sugar** | 14.4g | 2.4g |
+| **Sodium** | 2146mg | 358mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
