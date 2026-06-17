@@ -47,3 +47,17 @@ ingredients:
 - French dressing is the classic choice for this salad — Catalina dressing works as a substitute.
 - Great for potlucks and parties — everything except the Doritos can be prepped hours ahead.
 - Rinse and cool the pasta completely before mixing — hot pasta wilts the lettuce.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 7288 | 1215 |
+| **Protein** | 265.7g | 44.3g |
+| **Fat** | 283.2g | 47.2g |
+| **Carbs** | 932.5g | 155.4g |
+| **Fiber** | 117.7g | 19.6g |
+| **Sugar** | 64.8g | 10.8g |
+| **Sodium** | 5081mg | 847mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
