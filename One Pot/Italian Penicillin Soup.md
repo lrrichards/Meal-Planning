@@ -43,7 +43,6 @@ ingredients:
 
 - A cozy sick-day soup — broth-based with a blended vegetable body, no chicken meat (just the stock).
 - Not keto (pasta).
-- Evan-safe (no tomatoes).
 - "Poor man's comfort food," homemade soup edition.
 
 ## Source
