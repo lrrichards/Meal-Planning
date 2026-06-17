@@ -50,3 +50,17 @@ ingredients:
 - Cover the pot while the sausage and veggies cook to speed things up and build steam.
 - Substitute ground beef, ground turkey, or ground chicken for the sausage.
 - Stir in the cheese off heat to prevent it from becoming grainy or breaking.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 6855 | 1143 |
+| **Protein** | 516.1g | 86.0g |
+| **Fat** | 437.1g | 72.9g |
+| **Carbs** | 190.5g | 31.8g |
+| **Fiber** | 25.3g | 4.2g |
+| **Sugar** | 30.5g | 5.1g |
+| **Sodium** | 7044mg | 1174mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
