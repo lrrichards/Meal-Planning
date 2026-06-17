@@ -41,3 +41,17 @@ ingredients:
 - The onions caramelize as they slow cook and become the flavor base of the whole dish.
 - Worcestershire sauce and red wine vinegar are what give this the French onion character — don't skip either.
 - Great with a Caesar salad kit on the side.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2111 | 352 |
+| **Protein** | 215.5g | 35.9g |
+| **Fat** | 119.1g | 19.8g |
+| **Carbs** | 33.5g | 5.6g |
+| **Fiber** | 6.5g | 1.1g |
+| **Sugar** | 18.0g | 3.0g |
+| **Sodium** | 1560mg | 260mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
