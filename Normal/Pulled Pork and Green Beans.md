@@ -13,9 +13,9 @@ ingredients:
 
 ## Ingredients
 
-- Cooked shredded pork (see Slow Cooker Pulled Pork)
+- 2 cups cooked shredded pork
 - 1 can green beans
-- Shredded cheddar cheese
+- 1 cup shredded cheddar cheese
 
 ## Instructions
 
@@ -32,12 +32,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 132 | 33 |
-| **Protein** | 7.7g | 1.9g |
-| **Fat** | 0.9g | 0.2g |
-| **Carbs** | 30.2g | 7.5g |
+| **Calories** | 587 | 147 |
+| **Protein** | 35.9g | 9.0g |
+| **Fat** | 38.3g | 9.6g |
+| **Carbs** | 31.6g | 7.9g |
 | **Fiber** | 14.4g | 3.6g |
-| **Sugar** | 14.9g | 3.7g |
-| **Sodium** | 26mg | 6mg |
+| **Sugar** | 15.4g | 3.9g |
+| **Sodium** | 727mg | 182mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
