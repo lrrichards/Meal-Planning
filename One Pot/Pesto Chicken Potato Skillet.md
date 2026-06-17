@@ -41,3 +41,17 @@ ingredients:
 - Bouillon powder adds great flavor — a little goes a long way.
 - Diced tomatoes with garlic and olive oil have more flavor than plain — worth getting that variety.
 - Part of a $25 Walmart budget week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 1575 | 315 |
+| **Protein** | 131.5g | 26.3g |
+| **Fat** | 48.8g | 9.8g |
+| **Carbs** | 150.9g | 30.2g |
+| **Fiber** | 17.3g | 3.5g |
+| **Sugar** | 15.0g | 3.0g |
+| **Sodium** | 428mg | 86mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
