@@ -21,7 +21,7 @@ ingredients:
 - 1/4 tsp pepper
 - 3 oz shredded cheddar cheese
 - 2 green onions, sliced
-- Deli ham, diced (about 1/2 cup)
+- 4 oz deli ham
 
 ## Instructions
 
@@ -41,12 +41,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1440 | 240 |
-| **Protein** | 102.6g | 17.1g |
-| **Fat** | 101.8g | 17.0g |
-| **Carbs** | 24.9g | 4.2g |
+| **Calories** | 1561 | 260 |
+| **Protein** | 118.5g | 19.7g |
+| **Fat** | 106.9g | 17.8g |
+| **Carbs** | 27.2g | 4.5g |
 | **Fiber** | 5.7g | 1.0g |
-| **Sugar** | 13.2g | 2.2g |
-| **Sodium** | 1398mg | 233mg |
+| **Sugar** | 14.9g | 2.5g |
+| **Sodium** | 2646mg | 441mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
