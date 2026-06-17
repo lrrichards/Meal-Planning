@@ -18,7 +18,7 @@ ingredients:
 
 - 1 can chicken, drained
 - 3 russet potatoes, peeled and diced small
-- Remaining onion, diced
+- 1/2 onion
 - 1 can diced tomatoes (with garlic and olive oil if available — save a little for tacos)
 - 1 cup uncooked white rice, cooked
 - 1–2 tbsp basil pesto
@@ -46,12 +46,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 1575 | 315 |
-| **Protein** | 131.5g | 26.3g |
+| **Calories** | 1597 | 319 |
+| **Protein** | 132.1g | 26.4g |
 | **Fat** | 48.8g | 9.8g |
-| **Carbs** | 150.9g | 30.2g |
-| **Fiber** | 17.3g | 3.5g |
-| **Sugar** | 15.0g | 3.0g |
-| **Sodium** | 428mg | 86mg |
+| **Carbs** | 156.0g | 31.2g |
+| **Fiber** | 18.3g | 3.7g |
+| **Sugar** | 17.3g | 3.5g |
+| **Sodium** | 430mg | 86mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
