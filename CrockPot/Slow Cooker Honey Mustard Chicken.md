@@ -36,3 +36,17 @@ ingredients:
 - The sauce reduces slightly while cooking and concentrates in flavor — don't add more liquid.
 - Add a tablespoon of whole grain mustard in addition to Dijon for more texture and heat.
 - Great over mashed potatoes or with steamed broccoli as a simple weeknight meal.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2445 | 611 |
+| **Protein** | 269.7g | 67.4g |
+| **Fat** | 114.1g | 28.5g |
+| **Carbs** | 74.1g | 18.5g |
+| **Fiber** | 2.3g | 0.6g |
+| **Sugar** | 70.9g | 17.7g |
+| **Sodium** | 1555mg | 389mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
