@@ -16,9 +16,9 @@ ingredients:
 
 - 2 boxes shells and cheese
 - 1 bag frozen broccoli
-- Real bacon bits
+- 1/4 cup bacon bits
 - Crispy fried onions
-- Garlic salt
+- 3 cloves garlic
 - Pepper
 
 ## Instructions
@@ -43,12 +43,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 1553 | 388 |
-| **Protein** | 98.4g | 24.6g |
-| **Fat** | 120.4g | 30.1g |
-| **Carbs** | 24.5g | 6.1g |
+| **Calories** | 1691 | 423 |
+| **Protein** | 110.1g | 27.5g |
+| **Fat** | 129.7g | 32.4g |
+| **Carbs** | 25.4g | 6.3g |
 | **Fiber** | 7.8g | 2.0g |
 | **Sugar** | 6.9g | 1.7g |
-| **Sodium** | 2335mg | 584mg |
+| **Sodium** | 2875mg | 719mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
