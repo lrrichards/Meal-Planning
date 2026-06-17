@@ -29,6 +29,20 @@ ingredients:
 - Tuna pouches tear open, so no can opener needed on the go.
 - Uses pork rinds (a keto convenience item), so not tagged extreme-budget.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (2 servings) |
+|---|---:|---:|
+| **Calories** | 1632 | 816 |
+| **Protein** | 183.0g | 91.5g |
+| **Fat** | 93.0g | 46.5g |
+| **Carbs** | 0.0g | 0.0g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 0.0g | 0.0g |
+| **Sodium** | 4920mg | 2460mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=24Sjn1jDYGs)
