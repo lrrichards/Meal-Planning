@@ -35,5 +35,4 @@ ingredients:
 - Fast, kid-friendly. Rotisserie chicken + jarred sauce keeps it cheap.
 - Sneaks in spinach for some nutrition (it cooks way down).
 - Not keto (pasta).
-- Evan-safe (no tomatoes).
 - Distinct from the rice and ramen alfredo bakes — this one is a baked pasta version with spinach.
