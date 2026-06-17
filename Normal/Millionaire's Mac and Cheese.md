@@ -38,3 +38,17 @@ ingredients:
 - Not keto (pasta).
 - Evan-safe (no tomatoes).
 - If you have extra cheese, bake it instead of just broiling for a fuller bake.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1553 | 388 |
+| **Protein** | 98.4g | 24.6g |
+| **Fat** | 120.4g | 30.1g |
+| **Carbs** | 24.5g | 6.1g |
+| **Fiber** | 7.8g | 2.0g |
+| **Sugar** | 6.9g | 1.7g |
+| **Sodium** | 2335mg | 584mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
