@@ -13,10 +13,10 @@ ingredients:
 
 ## Ingredients
 
-- Keto tortillas
+- 4 keto tortillas
 - 1 lb ground beef
-- Keto Manwich / sloppy joe sauce
-- Avocado oil
+- 1/2 can sloppy joe sauce
+- 1 tbsp olive oil
 
 ## Instructions
 
@@ -36,13 +36,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (2 servings) |
 |---|---:|---:|
-| **Calories** | 1152 | 576 |
-| **Protein** | 78.0g | 39.0g |
-| **Fat** | 90.7g | 45.4g |
-| **Carbs** | 0.0g | 0.0g |
-| **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 0.0g | 0.0g |
-| **Sodium** | 327mg | 163mg |
+| **Calories** | 1889 | 944 |
+| **Protein** | 102.3g | 51.1g |
+| **Fat** | 119.3g | 59.6g |
+| **Carbs** | 128.3g | 64.2g |
+| **Fiber** | 45.7g | 22.9g |
+| **Sugar** | 29.8g | 14.9g |
+| **Sodium** | 3302mg | 1651mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
