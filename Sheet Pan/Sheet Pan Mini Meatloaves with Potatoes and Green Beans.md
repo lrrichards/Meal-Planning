@@ -45,6 +45,20 @@ ingredients:
 - Not keto (panko, potatoes, glaze).
 - Aldi "poor man's comfort food."
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2213 | 369 |
+| **Protein** | 113.4g | 18.9g |
+| **Fat** | 136.3g | 22.7g |
+| **Carbs** | 131.6g | 21.9g |
+| **Fiber** | 6.8g | 1.1g |
+| **Sugar** | 9.6g | 1.6g |
+| **Sodium** | 1730mg | 288mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=VvRdqFiFCSc)
