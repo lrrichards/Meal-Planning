@@ -16,12 +16,12 @@ ingredients:
 
 ## Ingredients
 
-- Chicken tenderloins (remove the tendon)
-- Italian-style panko breadcrumbs (or shake-and-bake style coating)
-- Marinara sauce
-- Mozzarella cheese (string cheese works, or shredded)
+- 1.5 lb chicken tenderloin
+- 1/2 cup panko breadcrumbs
+- 1 cup marinara sauce
+- 1 cup mozzarella cheese
 - Spaghetti
-- Parmesan cheese
+- 1/4 cup parmesan cheese
 - Butter
 - Italian seasoning, garlic salt, salt, pepper
 
@@ -43,6 +43,20 @@ ingredients:
 - Not keto (panko + spaghetti).
 - Distinct from the dump-and-bake Chicken Parmesan Casserole — this is breaded cutlets on a sheet pan with separate spaghetti.
 - Follower (Victoria) recipe, "poor man's comfort food."
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2473 | 618 |
+| **Protein** | 240.4g | 60.1g |
+| **Fat** | 111.5g | 27.9g |
+| **Carbs** | 112.6g | 28.2g |
+| **Fiber** | 9.4g | 2.4g |
+| **Sugar** | 21.7g | 5.4g |
+| **Sodium** | 3867mg | 967mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
 ## Source
 
