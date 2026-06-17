@@ -18,7 +18,7 @@ ingredients:
 - ½ red onion, sliced
 - 1 green bell pepper, sliced
 - 14 oz frozen seasoned sirloin Philly steak
-- Flour tortillas (large)
+- 6 flour tortillas
 - Shredded cheese to taste
 
 *Not counted: olive oil, taco seasoning*
@@ -45,12 +45,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 920 | 230 |
-| **Protein** | 105.0g | 26.2g |
-| **Fat** | 48.0g | 12.0g |
-| **Carbs** | 12.3g | 3.1g |
-| **Fiber** | 3.5g | 0.9g |
-| **Sugar** | 7.4g | 1.8g |
-| **Sodium** | 265mg | 66mg |
+| **Calories** | 1835 | 459 |
+| **Protein** | 49.8g | 12.5g |
+| **Fat** | 42.4g | 10.6g |
+| **Carbs** | 312.3g | 78.1g |
+| **Fiber** | 18.5g | 4.6g |
+| **Sugar** | 25.4g | 6.3g |
+| **Sodium** | 3319mg | 830mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
