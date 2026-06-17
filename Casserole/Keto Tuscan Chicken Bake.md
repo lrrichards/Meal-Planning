@@ -43,7 +43,7 @@ ingredients:
 
 - Keto / low-carb — broccoli stands in for pasta.
 - Ready to prep in about 10 minutes.
-- **Contains cherry tomatoes and sun-dried tomatoes — not Evan-safe.**
+- **Contains cherry tomatoes and sun-dried tomatoes — contains tomatoes.**
 - Distinct from Chicken Broccoli with Sun Dried Tomato Sauce — this is oven-baked with spinach and cherry tomatoes added.
 - Uses sun-dried tomatoes (a pricier ingredient), so not tagged extreme-budget.
 
