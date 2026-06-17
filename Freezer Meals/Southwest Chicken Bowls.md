@@ -43,3 +43,17 @@ ingredients:
 - Freeze in a flat blob shape so it fits easily into the slow cooker.
 - Incredibly versatile — this filling works in bowls, burritos, tacos, or enchiladas.
 - Use black beans or pinto beans interchangeably — whatever is on hand.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2602 | 434 |
+| **Protein** | 197.6g | 32.9g |
+| **Fat** | 49.0g | 8.2g |
+| **Carbs** | 362.5g | 60.4g |
+| **Fiber** | 82.4g | 13.7g |
+| **Sugar** | 28.9g | 4.8g |
+| **Sodium** | 486mg | 81mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
