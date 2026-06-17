@@ -33,6 +33,20 @@ ingredients:
 - Rice-based cousin of [[Chicken Parmesan Casserole]] (pasta + breadcrumbs) — different carb base, kept as distinct.
 - **Filled in by Claude (not stated in video):** top-cheese amount eyeballed in video (~½ cup). Everything else was stated.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1216 | 203 |
+| **Protein** | 64.2g | 10.7g |
+| **Fat** | 38.4g | 6.4g |
+| **Carbs** | 150.7g | 25.1g |
+| **Fiber** | 14.8g | 2.5g |
+| **Sugar** | 42.2g | 7.0g |
+| **Sodium** | 4613mg | 769mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
