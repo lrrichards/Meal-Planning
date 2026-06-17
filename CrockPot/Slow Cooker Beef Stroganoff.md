@@ -43,3 +43,17 @@ ingredients:
 - Chuck roast becomes incredibly tender low and slow — stew beef also works.
 - For a thicker sauce, use the cornstarch slurry in the last 30 minutes with the lid off on HIGH.
 - Also great over mashed potatoes instead of egg noodles.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3131 | 522 |
+| **Protein** | 278.5g | 46.4g |
+| **Fat** | 202.0g | 33.7g |
+| **Carbs** | 44.5g | 7.4g |
+| **Fiber** | 4.1g | 0.7g |
+| **Sugar** | 29.8g | 5.0g |
+| **Sodium** | 6263mg | 1044mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
