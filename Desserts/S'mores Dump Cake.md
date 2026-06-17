@@ -36,6 +36,20 @@ ingredients:
 - In the source it came out underdone toward the edges — a classic dump cake usually needs the liquid the cake mix calls for (or more butter coverage) to bake through evenly. Add that if your edges aren't setting.
 - Dollar Tree "poor man's comfort food," dessert edition.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (9 servings) |
+|---|---:|---:|
+| **Calories** | 535 | 59 |
+| **Protein** | 21.6g | 2.4g |
+| **Fat** | 17.3g | 1.9g |
+| **Carbs** | 74.5g | 8.3g |
+| **Fiber** | 1.5g | 0.2g |
+| **Sugar** | 47.4g | 5.3g |
+| **Sodium** | 1653mg | 184mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=35CRZHB7H0g)
