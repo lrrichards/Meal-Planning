@@ -17,12 +17,12 @@ ingredients:
 
 ## Ingredients
 
-- Spanish cauliflower rice (cauliflower riced and cooked Spanish-style)
+- 2 cups cauliflower
 - Roasted bell pepper and onion
 - Chicken Schnitzel, sliced (reheated and re-crisped)
-- Avocado
-- Sour cream
-- Shredded cheese
+- 1 avocado
+- 1/2 cup sour cream
+- 1 cup shredded cheese
 - Optional: guacamole or salsa
 
 ## Instructions
@@ -36,6 +36,20 @@ ingredients:
 
 - An assembly bowl built from meal-prepped components (cauliflower rice, roasted veg, chicken schnitzel). Keto / low-carb.
 - Uses keto components, so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (2 servings) |
+|---|---:|---:|
+| **Calories** | 1037 | 519 |
+| **Protein** | 43.1g | 21.6g |
+| **Fat** | 83.2g | 41.6g |
+| **Carbs** | 43.5g | 21.8g |
+| **Fiber** | 19.6g | 9.8g |
+| **Sugar** | 15.1g | 7.6g |
+| **Sodium** | 917mg | 459mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
 ## Source
 
