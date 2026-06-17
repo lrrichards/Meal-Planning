@@ -40,3 +40,17 @@ ingredients:
 - Like a taco mac but with ramen noodles — similar concept, different texture.
 - Any canned beans work — kidney, black, or pinto all taste great here.
 - Cream cheese is what makes this rich — don't skip it.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 4071 | 814 |
+| **Protein** | 220.3g | 44.1g |
+| **Fat** | 206.2g | 41.2g |
+| **Carbs** | 338.5g | 67.7g |
+| **Fiber** | 71.0g | 14.2g |
+| **Sugar** | 18.6g | 3.7g |
+| **Sodium** | 4143mg | 829mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
