@@ -37,3 +37,17 @@ ingredients:
 - Breakfast-for-dinner — makes enough for leftovers as next-day lunch.
 - Want more protein? Add a pound of bacon or ground beef.
 - From a $70/week keto-on-a-budget week (2 people, 7 days).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1379 | 345 |
+| **Protein** | 86.5g | 21.6g |
+| **Fat** | 105.8g | 26.5g |
+| **Carbs** | 17.1g | 4.3g |
+| **Fiber** | 2.0g | 0.5g |
+| **Sugar** | 11.4g | 2.8g |
+| **Sodium** | 1288mg | 322mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
