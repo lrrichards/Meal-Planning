@@ -46,3 +46,17 @@ ingredients:
 - The powdered-sugar coating cracks as they bake — that's the "crinkle."
 - Baking is a science here: measure, don't eyeball.
 - "Poor man's comfort food" dessert edition.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (24 servings) |
+|---|---:|---:|
+| **Calories** | 5257 | 219 |
+| **Protein** | 104.4g | 4.4g |
+| **Fat** | 275.7g | 11.5g |
+| **Carbs** | 720.9g | 30.0g |
+| **Fiber** | 88.1g | 3.7g |
+| **Sugar** | 403.5g | 16.8g |
+| **Sodium** | 1434mg | 60mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
