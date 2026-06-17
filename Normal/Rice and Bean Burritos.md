@@ -36,3 +36,17 @@ ingredients:
 - Dry refried bean mix (not canned) gives a better texture — often found at Walmart.
 - Adjust bean consistency by adding less water for thicker beans.
 - Easy to scale up for a crowd — just cook more rice and beans.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 744 | 186 |
+| **Protein** | 29.1g | 7.3g |
+| **Fat** | 6.9g | 1.7g |
+| **Carbs** | 139.8g | 35.0g |
+| **Fiber** | 19.2g | 4.8g |
+| **Sugar** | 1.5g | 0.4g |
+| **Sodium** | 1305mg | 326mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
