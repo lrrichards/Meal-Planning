@@ -14,8 +14,8 @@ ingredients:
 ## Ingredients
 
 - 2–3 eggs
-- Deli ham, diced
-- Shredded cheddar cheese
+- 4 oz deli ham
+- 1 cup shredded cheddar cheese
 - Any leftover vegetables (green onion, spinach, etc.)
 - Salt and pepper
 
@@ -35,12 +35,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (1 servings) |
 |---|---:|---:|
-| **Calories** | 155 | 155 |
-| **Protein** | 12.6g | 12.6g |
-| **Fat** | 10.6g | 10.6g |
-| **Carbs** | 1.1g | 1.1g |
+| **Calories** | 732 | 732 |
+| **Protein** | 56.7g | 56.7g |
+| **Fat** | 53.1g | 53.1g |
+| **Carbs** | 4.8g | 4.8g |
 | **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 1.1g | 1.1g |
-| **Sodium** | 124mg | 124mg |
+| **Sugar** | 3.4g | 3.4g |
+| **Sodium** | 2073mg | 2073mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
