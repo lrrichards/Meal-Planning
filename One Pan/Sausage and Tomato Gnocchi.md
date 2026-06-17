@@ -44,3 +44,17 @@ ingredients:
 - The cream and diced tomato together create a quick rosa sauce.
 - Spinach wilts fast — stir it in at the very end so it stays vibrant green.
 - Hot Italian sausage makes this dish — mild works for a family-friendly version.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2891 | 723 |
+| **Protein** | 126.9g | 31.7g |
+| **Fat** | 206.5g | 51.6g |
+| **Carbs** | 142.3g | 35.6g |
+| **Fiber** | 27.5g | 6.9g |
+| **Sugar** | 29.6g | 7.4g |
+| **Sodium** | 4828mg | 1207mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
