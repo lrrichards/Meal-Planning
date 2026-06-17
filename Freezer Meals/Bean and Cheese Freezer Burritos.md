@@ -28,7 +28,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: no tomato.
 - Green onions or anything else can go in — simple base on purpose.
 - Distinct from [[Rice and Bean Burritos]] (Spanish rice + bean mix, pan-crisped) and [[Lazy Burritos]] (ground meat + beans).
 - **Filled in by Claude (not stated in video):** bean and cheese amounts — video never measured; ~½ cup beans + ~⅓ cup cheese per burrito assumed.
