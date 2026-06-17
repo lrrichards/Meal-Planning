@@ -42,3 +42,17 @@ ingredients:
 - Browning (caramelizing) the corn and zucchini is essential for flavor — don't rush this step.
 - Add cooked chicken to make it a chicken veggie pasta.
 - Tastes significantly more expensive than it is.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2170 | 543 |
+| **Protein** | 95.9g | 24.0g |
+| **Fat** | 98.8g | 24.7g |
+| **Carbs** | 239.2g | 59.8g |
+| **Fiber** | 21.2g | 5.3g |
+| **Sugar** | 32.2g | 8.0g |
+| **Sodium** | 2380mg | 595mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
