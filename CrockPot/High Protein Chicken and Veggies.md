@@ -40,3 +40,17 @@ ingredients:
 - Zucchini can be substituted with cucumber in a pinch — it cooks similarly.
 - Great for meal prep — store in containers for easy weekday lunches or dinners.
 - Chicken thighs are recommended over breast for juiciness in the slow cooker.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 258 | 64 |
+| **Protein** | 12.0g | 3.0g |
+| **Fat** | 2.8g | 0.7g |
+| **Carbs** | 52.5g | 13.1g |
+| **Fiber** | 15.7g | 3.9g |
+| **Sugar** | 35.0g | 8.8g |
+| **Sodium** | 66mg | 16mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
