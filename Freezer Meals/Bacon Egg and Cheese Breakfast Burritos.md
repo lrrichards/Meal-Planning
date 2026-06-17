@@ -30,7 +30,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: no tomato.
 - Breakfast-for-dinner, or grab-and-go breakfasts/lunches.
 - Diced cooked potato is a good add-in if you want them heartier.
 - **Filled in by Claude (not stated in video):** egg count (~8 — video said "some fresh eggs" for 5 burritos) and cheese amount (~1 cup). Bacon bits amount estimated from what was left for the BBQ burritos (~½ cup used here).
