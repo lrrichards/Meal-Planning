@@ -42,3 +42,17 @@ ingredients:
 - Garlic butter topping makes these restaurant-level good.
 - Pairs perfectly with Slow Cooker Butter Chicken (see CrockPot/ folder).
 - 3 ingredients, done in under 30 minutes total.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2596 | 433 |
+| **Protein** | 110.3g | 18.4g |
+| **Fat** | 10.9g | 1.8g |
+| **Carbs** | 504.4g | 84.1g |
+| **Fiber** | 21.1g | 3.5g |
+| **Sugar** | 11.6g | 1.9g |
+| **Sodium** | 1186mg | 198mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
