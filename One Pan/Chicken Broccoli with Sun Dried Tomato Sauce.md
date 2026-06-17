@@ -42,3 +42,17 @@ ingredients:
 - Thaw broccoli before adding so it heats through quickly without watering down the sauce.
 - Sun-dried tomatoes add a concentrated, slightly sweet depth that fresh tomatoes can't replicate.
 - This is a close relative of Marry Me Chicken — rich, creamy, and deeply savory.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2813 | 703 |
+| **Protein** | 244.0g | 61.0g |
+| **Fat** | 190.4g | 47.6g |
+| **Carbs** | 22.8g | 5.7g |
+| **Fiber** | 5.9g | 1.5g |
+| **Sugar** | 10.5g | 2.6g |
+| **Sodium** | 1536mg | 384mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
