@@ -32,7 +32,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: no tomato.
 - Season generously — plain pasta + broccoli + cheese needs it, and freezing mutes flavor.
 - From-scratch cousin of [[Cheddar Broccoli Chicken Pasta]] (which uses a boxed pasta mix + cream).
 - **Filled in by Claude (not stated in video):** seasoning amounts (~½–1 tsp each — video shook them in without measuring). All food amounts were stated.
