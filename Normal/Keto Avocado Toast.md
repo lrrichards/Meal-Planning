@@ -33,6 +33,20 @@ ingredients:
 - Keto / low-carb breakfast in a couple of minutes — healthy fats and protein.
 - Uses avocado and smoked salmon (pricier ingredients), so not tagged extreme-budget.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (1 servings) |
+|---|---:|---:|
+| **Calories** | 120 | 120 |
+| **Protein** | 1.5g | 1.5g |
+| **Fat** | 11.0g | 11.0g |
+| **Carbs** | 6.4g | 6.4g |
+| **Fiber** | 5.0g | 5.0g |
+| **Sugar** | 0.5g | 0.5g |
+| **Sodium** | 5mg | 5mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sP58I6OC3Y4)
