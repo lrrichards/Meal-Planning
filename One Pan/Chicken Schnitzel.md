@@ -31,7 +31,6 @@ ingredients:
 
 - Keto / low-carb crusted chicken — pork rinds and almond flour replace breadcrumbs.
 - Leftovers reheat well in the air fryer (or oven) to re-crisp — great for a Fajita Bowl the next day.
-- Evan-safe (no tomatoes).
 - Uses pork rinds and almond flour (keto staples), so not tagged extreme-budget.
 
 ## Source
