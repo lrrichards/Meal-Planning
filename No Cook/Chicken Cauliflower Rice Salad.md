@@ -36,6 +36,20 @@ ingredients:
 - **Contains tomatoes — contains tomatoes** (leave them out for him).
 - Distinct from Keto Chicken Salad (that's a mayo-based chicken salad; this is a tossed green salad with cauliflower rice).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (2 servings) |
+|---|---:|---:|
+| **Calories** | 246 | 123 |
+| **Protein** | 0.5g | 0.3g |
+| **Fat** | 27.1g | 13.5g |
+| **Carbs** | 1.4g | 0.7g |
+| **Fiber** | 0.6g | 0.3g |
+| **Sugar** | 0.5g | 0.3g |
+| **Sodium** | 9mg | 4mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sP58I6OC3Y4)
