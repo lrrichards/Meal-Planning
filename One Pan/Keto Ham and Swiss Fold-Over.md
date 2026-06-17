@@ -14,12 +14,12 @@ ingredients:
 
 ## Ingredients
 
-- Keto tortillas
-- Swiss cheese (about 4 oz / half a block), shredded by hand
-- A little heavy cream
+- 4 keto tortillas
+- 4 oz Swiss cheese
+- 2 tbsp heavy cream
 - A pinch of nutmeg
-- Shaved deli ham
-- Avocado oil
+- 4 oz deli ham
+- 1 tbsp olive oil
 - Salt, pepper
 
 ## Instructions
@@ -34,6 +34,20 @@ ingredients:
 
 - A keto tortilla fold-over with a swiss "fondue" cheese sauce and ham.
 - Uses keto tortillas (specialty), so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (2 servings) |
+|---|---:|---:|
+| **Calories** | 1134 | 567 |
+| **Protein** | 67.1g | 33.6g |
+| **Fat** | 75.4g | 37.7g |
+| **Carbs** | 81.2g | 40.6g |
+| **Fiber** | 44.0g | 22.0g |
+| **Sugar** | 3.1g | 1.6g |
+| **Sodium** | 2837mg | 1418mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
 ## Source
 
