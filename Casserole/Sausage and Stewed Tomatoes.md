@@ -16,10 +16,10 @@ ingredients:
 ## Ingredients
 
 - 2 cans stewed tomatoes
-- Sausages
+- 14 oz smoked sausage
 - 1 small onion, sliced
-- Pasta (or rice), to serve
-- Shredded cheese
+- 8 oz pasta
+- 1 cup shredded cheese
 
 ## Instructions
 
@@ -42,13 +42,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 197 | 49 |
-| **Protein** | 8.9g | 2.2g |
-| **Fat** | 1.8g | 0.5g |
-| **Carbs** | 43.4g | 10.8g |
-| **Fiber** | 12.1g | 3.0g |
-| **Sugar** | 26.7g | 6.7g |
-| **Sodium** | 47mg | 12mg |
+| **Calories** | 2688 | 672 |
+| **Protein** | 114.2g | 28.6g |
+| **Fat** | 145.8g | 36.5g |
+| **Carbs** | 226.2g | 56.5g |
+| **Fiber** | 19.3g | 4.8g |
+| **Sugar** | 36.6g | 9.1g |
+| **Sodium** | 4049mg | 1012mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
