@@ -51,7 +51,6 @@ For the mashed potato topping:
 ## Notes
 
 - Individual meatloaf "cupcakes" topped with mashed potatoes — like personal shepherd's pies.
-- **Contains ketchup (tomato-based) — check against Evan's tomato restriction.**
 - Distinct from Sheet Pan Mini Meatloaves (that's sheet-pan with roasted potatoes and green beans).
 - Not keto (panko + potatoes).
 - Aldi "poor man's comfort food."
