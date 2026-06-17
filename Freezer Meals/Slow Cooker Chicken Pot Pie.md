@@ -34,7 +34,6 @@ ingredients:
 ## Notes
 
 - Freezer meals lose a little flavor in the freezer — season heavier than feels right.
-- Evan-safe: no tomato.
 - **Filled in by Claude (not stated in video):** seasoning amounts (~1 tsp each — the paprika lid fell in on camera, so the video amount was "more than a teaspoon"); biscuit count (1 standard 8-count can assumed).
 
 ## Source
