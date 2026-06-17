@@ -51,3 +51,17 @@ ingredients:
 - Shred the pork in the juices — this is what keeps it flavorful and moist.
 - Colosseum or Claussen pickles recommended for best flavor.
 - Serve with some of the slow cooker juices on the side for dipping.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1038 | 173 |
+| **Protein** | 135.6g | 22.6g |
+| **Fat** | 50.2g | 8.4g |
+| **Carbs** | 0.0g | 0.0g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 0.0g | 0.0g |
+| **Sodium** | 423mg | 70mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
