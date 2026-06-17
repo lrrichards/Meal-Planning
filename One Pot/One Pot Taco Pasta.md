@@ -45,3 +45,17 @@ ingredients:
 - Worcestershire is a subtle but important addition — adds savory, slightly sweet background notes.
 - Stir frequently once pasta is added — it can stick to the bottom as it absorbs liquid.
 - See also: Taco Mac (One Pot/ folder) — similar concept but different ratios and no Worcestershire or beef broth.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 6183 | 1031 |
+| **Protein** | 372.1g | 62.0g |
+| **Fat** | 336.0g | 56.0g |
+| **Carbs** | 406.8g | 67.8g |
+| **Fiber** | 25.6g | 4.3g |
+| **Sugar** | 35.0g | 5.8g |
+| **Sodium** | 5415mg | 903mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
