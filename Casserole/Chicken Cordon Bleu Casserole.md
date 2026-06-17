@@ -15,11 +15,11 @@ ingredients:
 
 ## Ingredients
 
-- Chicken thighs, cut into bite-sized pieces
+- 2 lb chicken thighs
 - 8 oz ham (about half a package)
-- Swiss cheese (shredded or sliced)
-- Panko breadcrumbs
-- Butter, melted
+- 4 oz Swiss cheese
+- 1/2 cup panko breadcrumbs
+- 1/4 cup butter
 - Salt, pepper, and seasoning of choice
 
 ## Instructions
@@ -41,12 +41,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 329 | 55 |
-| **Protein** | 39.9g | 6.7g |
-| **Fat** | 16.6g | 2.8g |
-| **Carbs** | 3.4g | 0.6g |
-| **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 3.2g | 0.5g |
-| **Sodium** | 2728mg | 455mg |
+| **Calories** | 3537 | 589 |
+| **Protein** | 323.0g | 53.8g |
+| **Fat** | 199.6g | 33.3g |
+| **Carbs** | 96.6g | 16.1g |
+| **Fiber** | 4.6g | 0.8g |
+| **Sugar** | 9.4g | 1.6g |
+| **Sodium** | 4993mg | 832mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
