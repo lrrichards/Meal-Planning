@@ -27,7 +27,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb buffalo chicken — extremely filling and lazy-keto approved. Kids love it too.
-- Evan-safe (no tomatoes).
 - A whole chicken is cheap and makes a lot of meals, so tagged extreme-budget.
 - Distinct from Crack Chicken (that's ranch + bacon + cheddar; this is buffalo with hot sauce).
 
