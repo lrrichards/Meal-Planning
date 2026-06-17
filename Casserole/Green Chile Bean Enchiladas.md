@@ -39,3 +39,17 @@ ingredients:
 - Dry Mayocoba beans: rinse, simmer in 8 cups water with seasonings for 3–3.5 hours until creamy.
 - Canned pinto beans are a quick substitute.
 - Part of a $25 Walmart budget week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2488 | 622 |
+| **Protein** | 145.2g | 36.3g |
+| **Fat** | 13.4g | 3.3g |
+| **Carbs** | 450.2g | 112.6g |
+| **Fiber** | 100.7g | 25.2g |
+| **Sugar** | 20.4g | 5.1g |
+| **Sodium** | 2010mg | 502mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
