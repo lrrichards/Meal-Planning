@@ -16,8 +16,8 @@ ingredients:
 
 - 10 eggs
 - ½ lb ground turkey
-- A generous amount of frozen mixed vegetables (less than half a standard bag)
-- Small amount of yellow onion, diced
+- 2 cups frozen mixed vegetables
+- 1/2 onion
 - ¼ cup water (or milk if available)
 
 *Not counted: taco seasoning, salt, pepper, non-stick spray*
@@ -44,12 +44,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1113 | 185 |
-| **Protein** | 106.3g | 17.7g |
-| **Fat** | 70.5g | 11.7g |
-| **Carbs** | 5.5g | 0.9g |
-| **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 5.5g | 0.9g |
-| **Sodium** | 792mg | 132mg |
+| **Calories** | 1447 | 241 |
+| **Protein** | 121.8g | 20.3g |
+| **Fat** | 71.5g | 11.9g |
+| **Carbs** | 72.5g | 12.1g |
+| **Fiber** | 18.2g | 3.0g |
+| **Sugar** | 23.6g | 3.9g |
+| **Sodium** | 1025mg | 171mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
