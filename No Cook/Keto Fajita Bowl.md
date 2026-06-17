@@ -35,7 +35,6 @@ ingredients:
 ## Notes
 
 - An assembly bowl built from meal-prepped components (cauliflower rice, roasted veg, chicken schnitzel). Keto / low-carb.
-- **Spanish cauliflower rice and optional salsa may contain tomato — check/leave off for Evan.**
 - Uses keto components, so not tagged extreme-budget.
 
 ## Source
