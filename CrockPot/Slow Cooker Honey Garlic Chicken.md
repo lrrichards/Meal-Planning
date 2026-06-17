@@ -36,3 +36,17 @@ ingredients:
 - Chicken thighs give the most flavor; tenderloins cook up the most tender.
 - The sauce over rice is exceptional — don't skip the rice.
 - Pairs well with a bagged salad on the side.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 817 | 163 |
+| **Protein** | 42.4g | 8.5g |
+| **Fat** | 14.3g | 2.9g |
+| **Carbs** | 131.2g | 26.2g |
+| **Fiber** | 1.5g | 0.3g |
+| **Sugar** | 121.8g | 24.4g |
+| **Sodium** | 5769mg | 1154mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
