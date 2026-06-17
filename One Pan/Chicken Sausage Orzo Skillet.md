@@ -39,3 +39,17 @@ ingredients:
 - Toasting the orzo in the dry pan before adding broth gives it a slightly nutty flavor.
 - Stir the orzo often once broth is added — it sticks easily as the liquid reduces.
 - Add a squeeze of lemon at the end to brighten the whole dish.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 7180 | 1795 |
+| **Protein** | 802.2g | 200.6g |
+| **Fat** | 332.3g | 83.1g |
+| **Carbs** | 194.8g | 48.7g |
+| **Fiber** | 12.9g | 3.2g |
+| **Sugar** | 5.3g | 1.3g |
+| **Sodium** | 3461mg | 865mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
