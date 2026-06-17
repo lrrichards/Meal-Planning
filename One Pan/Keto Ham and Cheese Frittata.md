@@ -36,3 +36,17 @@ ingredients:
 
 - Meal-prep friendly — makes enough for two breakfasts for a small family.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1440 | 240 |
+| **Protein** | 102.6g | 17.1g |
+| **Fat** | 101.8g | 17.0g |
+| **Carbs** | 24.9g | 4.2g |
+| **Fiber** | 5.7g | 1.0g |
+| **Sugar** | 13.2g | 2.2g |
+| **Sodium** | 1398mg | 233mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
