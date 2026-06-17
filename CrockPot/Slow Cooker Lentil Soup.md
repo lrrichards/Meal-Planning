@@ -48,3 +48,17 @@ ingredients:
 - Two types of diced tomatoes (plain + Italian style) layer the tomato flavor.
 - Lentils are high in protein and fiber, very affordable, and make this an incredibly filling meatless meal.
 - Excellent leftover and freezes well for future meals.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 5145 | 643 |
+| **Protein** | 369.1g | 46.1g |
+| **Fat** | 20.5g | 2.6g |
+| **Carbs** | 884.8g | 110.6g |
+| **Fiber** | 428.8g | 53.6g |
+| **Sugar** | 77.2g | 9.6g |
+| **Sodium** | 5946mg | 743mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
