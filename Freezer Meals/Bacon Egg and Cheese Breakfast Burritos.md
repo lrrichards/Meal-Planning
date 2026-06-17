@@ -34,6 +34,20 @@ ingredients:
 - Diced cooked potato is a good add-in if you want them heartier.
 - **Filled in by Claude (not stated in video):** egg count (~8 — video said "some fresh eggs" for 5 burritos) and cheese amount (~1 cup). Bacon bits amount estimated from what was left for the BBQ burritos (~½ cup used here).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 1480 | 296 |
+| **Protein** | 40.0g | 8.0g |
+| **Fat** | 35.0g | 7.0g |
+| **Carbs** | 250.0g | 50.0g |
+| **Fiber** | 12.5g | 2.5g |
+| **Sugar** | 15.0g | 3.0g |
+| **Sodium** | 2760mg | 552mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
