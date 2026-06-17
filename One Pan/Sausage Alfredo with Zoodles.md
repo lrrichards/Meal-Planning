@@ -40,3 +40,17 @@ ingredients:
 - Use a spiralizer for the zoodles, or just cut the zucchini into noodle strips.
 - Cream- and cheese-forward, so not tagged extreme-budget despite the cheap base.
 - From a $70/week keto-on-a-budget week (2 people, 7 days).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 3559 | 890 |
+| **Protein** | 127.2g | 31.8g |
+| **Fat** | 321.4g | 80.3g |
+| **Carbs** | 45.3g | 11.3g |
+| **Fiber** | 4.5g | 1.1g |
+| **Sugar** | 25.4g | 6.3g |
+| **Sodium** | 5901mg | 1475mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
