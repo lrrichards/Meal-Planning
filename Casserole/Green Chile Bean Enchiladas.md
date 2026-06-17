@@ -19,7 +19,7 @@ ingredients:
 - 2.5 cups cooked Mayocoba beans (or canned pinto beans)
 - 2–3 green onions, sliced
 - 1 can green enchilada sauce
-- Corn tortillas (about 10–12)
+- 10 corn tortillas
 
 ## Instructions
 
@@ -44,12 +44,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 2488 | 622 |
-| **Protein** | 145.2g | 36.3g |
-| **Fat** | 13.4g | 3.3g |
-| **Carbs** | 450.2g | 112.6g |
-| **Fiber** | 100.7g | 25.2g |
-| **Sugar** | 20.4g | 5.1g |
-| **Sodium** | 2010mg | 502mg |
+| **Calories** | 3348 | 837 |
+| **Protein** | 177.2g | 44.3g |
+| **Fat** | 25.4g | 6.3g |
+| **Carbs** | 640.2g | 160.1g |
+| **Fiber** | 127.7g | 31.9g |
+| **Sugar** | 52.4g | 13.1g |
+| **Sodium** | 2160mg | 540mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
