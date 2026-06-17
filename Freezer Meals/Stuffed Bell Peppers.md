@@ -51,3 +51,17 @@ ingredients:
 - Tomato paste trick: open both ends of the can, push through with one lid — gets all the paste out cleanly.
 - Rice holds its shape beautifully and doesn't get mushy in the slow cooker.
 - Double the recipe easily — same effort, twice the dinners.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1465 | 244 |
+| **Protein** | 84.0g | 14.0g |
+| **Fat** | 61.5g | 10.2g |
+| **Carbs** | 146.6g | 24.4g |
+| **Fiber** | 18.1g | 3.0g |
+| **Sugar** | 101.9g | 17.0g |
+| **Sodium** | 345mg | 58mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
