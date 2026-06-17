@@ -21,7 +21,7 @@ ingredients:
 - 1 cup heavy cream
 - 1/3 cup fresh basil, chopped
 - 2 cups fresh spinach (optional)
-- White rice for serving
+- 2 cups white rice
 
 *Not counted: butter, garlic, salt, pepper, Italian seasoning*
 
@@ -45,12 +45,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 2051 | 513 |
-| **Protein** | 157.4g | 39.3g |
-| **Fat** | 147.3g | 36.8g |
-| **Carbs** | 29.2g | 7.3g |
-| **Fiber** | 12.8g | 3.2g |
+| **Calories** | 2532 | 633 |
+| **Protein** | 167.4g | 41.8g |
+| **Fat** | 148.4g | 37.1g |
+| **Carbs** | 135.0g | 33.8g |
+| **Fiber** | 14.3g | 3.6g |
 | **Sugar** | 10.9g | 2.7g |
-| **Sodium** | 934mg | 234mg |
+| **Sodium** | 938mg | 235mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
