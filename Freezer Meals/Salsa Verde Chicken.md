@@ -30,6 +30,20 @@ ingredients:
 - Near-variation of [[Salsa Chicken]] (CrockPot) — that one uses red salsa + taco seasoning; this is the green, no-seasoning version. Kept on purpose.
 - **Filled in by Claude (not stated in video):** salsa verde amount — video only said "a little bit"; 1 cup assumed to match the red Salsa Chicken recipe.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 789 | 197 |
+| **Protein** | 90.8g | 22.7g |
+| **Fat** | 38.3g | 9.6g |
+| **Carbs** | 14.6g | 3.7g |
+| **Fiber** | 3.7g | 0.9g |
+| **Sugar** | 8.5g | 2.1g |
+| **Sodium** | 1470mg | 368mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
