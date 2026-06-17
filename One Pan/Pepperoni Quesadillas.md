@@ -29,6 +29,5 @@ ingredients:
 ## Notes
 
 - Keto / low-carb thanks to the zero-carb tortillas — a fast meal or snack to have on hand.
-- Evan-safe (no tomatoes).
-- Add-ins if you want: a smear of pizza/marinara sauce inside (note: marinara makes it not Evan-safe), or sliced jalapeños for heat.
+- Add-ins if you want: a smear of pizza/marinara sauce inside (note: marinara makes it contains tomatoes), or sliced jalapeños for heat.
 - Manually added so it isn't forgotten — not from a video.
