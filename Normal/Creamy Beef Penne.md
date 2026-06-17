@@ -44,7 +44,6 @@ ingredients:
 - A from-scratch creamy beef pasta — about $3 per serving.
 - Distinct from the stroganoffs: this uses a scratch cream-cheese-and-heavy-cream sauce (no cream of mushroom soup, no mushrooms) over penne.
 - Not keto (pasta).
-- Evan-safe (no tomatoes).
 - Cream-heavy (1 cup heavy cream + cream cheese + sour cream), so not tagged extreme-budget despite the low per-serving cost — say the word to add it.
 - Follower (AMF1128) recipe.
 
