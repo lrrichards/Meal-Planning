@@ -31,7 +31,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: no tomato.
 - Looks like nothing in the bag — turns into magic on the stove.
 - No filled-in amounts — video stated everything.
 
