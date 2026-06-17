@@ -12,8 +12,8 @@ ingredients:
 ## Ingredients
 
 - 2 pieces Keto Cheese Chaffle Bread
-- Deli ham
-- Mayo or butter (optional)
+- 4 oz deli ham
+- 2 tbsp mayonnaise
 
 ## Instructions
 
@@ -29,12 +29,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (1 servings) |
 |---|---:|---:|
-| **Calories** | 806 | 806 |
-| **Protein** | 50.0g | 50.0g |
-| **Fat** | 66.2g | 66.2g |
-| **Carbs** | 2.6g | 2.6g |
+| **Calories** | 1114 | 1114 |
+| **Protein** | 66.2g | 66.2g |
+| **Fat** | 91.9g | 91.9g |
+| **Carbs** | 5.0g | 5.0g |
 | **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 1.0g | 1.0g |
-| **Sodium** | 1242mg | 1242mg |
+| **Sugar** | 2.8g | 2.8g |
+| **Sodium** | 2664mg | 2664mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
