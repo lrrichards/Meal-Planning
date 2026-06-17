@@ -31,7 +31,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: pasta sauce is smooth.
 - Same skeleton as [[Lazy Lasagna Bake]] with pepperoni instead of beef/parmesan — reusing ingredients across meals is the budget trick.
 - **Filled in by Claude (not stated in video):** pepperoni amount — video said "half the bag" without a size; ~4 oz assumed (half a standard 8 oz bag). Top-cheese amount eyeballed in video (~½ cup).
 
