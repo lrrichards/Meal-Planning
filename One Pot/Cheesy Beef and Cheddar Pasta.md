@@ -40,6 +40,5 @@ ingredients:
 
 - One-pot cheeseburger-helper style dish — the kids love it.
 - Not keto (pasta).
-- Evan-safe (no tomatoes).
 - Cubing the cream cheese just helps it stir in faster.
 - Pairs well with a side salad.
