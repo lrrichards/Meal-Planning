@@ -22,7 +22,7 @@ ingredients:
 - 1 can black beans, drained
 - 1 yellow onion, diced
 - Juice of 1 lime
-- White rice for serving
+- 2 cups white rice
 
 *Not counted: garlic, taco seasoning*
 
@@ -43,12 +43,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (8 servings) |
 |---|---:|---:|
-| **Calories** | 2299 | 287 |
-| **Protein** | 155.1g | 19.4g |
-| **Fat** | 29.7g | 3.7g |
-| **Carbs** | 373.2g | 46.6g |
-| **Fiber** | 83.5g | 10.4g |
+| **Calories** | 2780 | 348 |
+| **Protein** | 165.1g | 20.6g |
+| **Fat** | 30.8g | 3.9g |
+| **Carbs** | 479.0g | 59.9g |
+| **Fiber** | 85.0g | 10.6g |
 | **Sugar** | 31.0g | 3.9g |
-| **Sodium** | 1935mg | 242mg |
+| **Sodium** | 1938mg | 242mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
