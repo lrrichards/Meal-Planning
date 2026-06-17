@@ -40,3 +40,17 @@ ingredients:
 - Petite diced tomatoes work better than regular — smaller pieces blend into the sauce more evenly.
 - Great leftover meal — sauce gets even better the next day.
 - Sweet Italian sausage gives the best flavor, but hot Italian works for a kick.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 5166 | 861 |
+| **Protein** | 183.5g | 30.6g |
+| **Fat** | 354.6g | 59.1g |
+| **Carbs** | 319.0g | 53.2g |
+| **Fiber** | 26.2g | 4.4g |
+| **Sugar** | 33.5g | 5.6g |
+| **Sodium** | 6212mg | 1035mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
