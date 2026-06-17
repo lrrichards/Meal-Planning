@@ -36,3 +36,17 @@ ingredients:
 - A Facebook/AI cordon bleu casserole — chicken, ham, and Swiss with a crispy panko top.
 - **Low-carb, not strict keto** — only the panko topping adds carbs. Swap the panko for crushed pork rinds and it becomes keto.
 - Aldi "poor man's comfort food," about a $15 dinner — above the extreme-budget range, so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 329 | 55 |
+| **Protein** | 39.9g | 6.7g |
+| **Fat** | 16.6g | 2.8g |
+| **Carbs** | 3.4g | 0.6g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 3.2g | 0.5g |
+| **Sodium** | 2728mg | 455mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
