@@ -41,3 +41,17 @@ ingredients:
 - Corn on the cob cut into rounds makes it easy to eat — no silverware needed for the corn.
 - Gold potatoes cook faster and creamier than russets — a better choice for sheet pan timing.
 - Check the chicken at 30 minutes with a thermometer — ovens vary.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2119 | 530 |
+| **Protein** | 193.3g | 48.3g |
+| **Fat** | 78.8g | 19.7g |
+| **Carbs** | 159.3g | 39.8g |
+| **Fiber** | 16.0g | 4.0g |
+| **Sugar** | 44.8g | 11.2g |
+| **Sodium** | 1083mg | 271mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
