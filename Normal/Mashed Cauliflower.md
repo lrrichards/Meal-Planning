@@ -33,6 +33,20 @@ ingredients:
 - A side dish, not a full meal (so not tagged extreme-budget).
 - Pairs well with the keto chicken and pork mains.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 125 | 31 |
+| **Protein** | 9.5g | 2.4g |
+| **Fat** | 1.5g | 0.4g |
+| **Carbs** | 25.0g | 6.2g |
+| **Fiber** | 10.0g | 2.5g |
+| **Sugar** | 9.5g | 2.4g |
+| **Sodium** | 150mg | 38mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qkgNYWpaO6A)
