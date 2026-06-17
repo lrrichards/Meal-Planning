@@ -39,3 +39,17 @@ ingredients:
 - Do NOT peek while it bakes — lifting the foil lets steam escape and the rice won't cook properly.
 - Cream of mushroom with roasted garlic adds extra flavor — use it if your store carries it.
 - Pork chops come out very tender, not dry — this is not your average pork chop dinner.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 4059 | 1015 |
+| **Protein** | 418.6g | 104.7g |
+| **Fat** | 204.1g | 51.0g |
+| **Carbs** | 111.7g | 27.9g |
+| **Fiber** | 3.3g | 0.8g |
+| **Sugar** | 5.4g | 1.4g |
+| **Sodium** | 2920mg | 730mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
