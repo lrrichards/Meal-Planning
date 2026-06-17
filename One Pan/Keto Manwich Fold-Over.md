@@ -29,7 +29,7 @@ ingredients:
 ## Notes
 
 - One of several keto tortilla fold-overs — a fast keto meal in about 10 minutes.
-- **Manwich/sloppy joe sauce is tomato-based — not Evan-safe.**
+- **Manwich/sloppy joe sauce is tomato-based — contains tomatoes.**
 - Uses keto tortillas (specialty), so not tagged extreme-budget.
 
 ## Source
