@@ -47,3 +47,17 @@ ingredients:
 - Petite diced tomatoes are smaller and easier to eat in a soup context.
 - This soup freezes and reheats wonderfully — make a full batch and freeze half.
 - Similar to Slow Cooker Minestrone Soup but sausage-based, no pasta, and no sun-dried tomatoes — a heartier, simpler version.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 5333 | 889 |
+| **Protein** | 445.3g | 74.2g |
+| **Fat** | 244.6g | 40.8g |
+| **Carbs** | 329.4g | 54.9g |
+| **Fiber** | 85.0g | 14.2g |
+| **Sugar** | 39.1g | 6.5g |
+| **Sodium** | 5767mg | 961mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
