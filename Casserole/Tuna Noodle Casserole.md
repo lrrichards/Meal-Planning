@@ -21,9 +21,9 @@ ingredients:
 - Canned tuna (with its water)
 - 1 can mixed vegetables (or frozen)
 - Crackers, for the crunchy topping
-- Onion, diced
-- Milk (optional, for moisture)
-- Garlic salt, pepper
+- 1 onion
+- 1/2 cup milk
+- 3 cloves garlic
 
 ## Instructions
 
@@ -45,12 +45,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1630 | 272 |
-| **Protein** | 161.5g | 26.9g |
-| **Fat** | 79.0g | 13.2g |
-| **Carbs** | 58.1g | 9.7g |
-| **Fiber** | 15.3g | 2.6g |
-| **Sugar** | 17.3g | 2.9g |
-| **Sodium** | 950mg | 158mg |
+| **Calories** | 1472 | 245 |
+| **Protein** | 153.4g | 25.6g |
+| **Fat** | 82.3g | 13.7g |
+| **Carbs** | 19.4g | 3.2g |
+| **Fiber** | 1.9g | 0.3g |
+| **Sugar** | 14.1g | 2.4g |
+| **Sodium** | 804mg | 134mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
