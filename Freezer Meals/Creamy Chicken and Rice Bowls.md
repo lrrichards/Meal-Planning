@@ -38,7 +38,6 @@ ingredients:
 
 - Carb + protein + veggie all in one bag — no sides needed.
 - Season generously: the rice, broccoli, and cream-of base are bland without it, and freezing mutes flavor.
-- Evan-safe: no tomato.
 - **Filled in by Claude (not stated in video):** seasoning blend amount (~1 tbsp — video shook it in). All food amounts were stated.
 
 ## Source
