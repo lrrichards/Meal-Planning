@@ -46,3 +46,17 @@ ingredients:
 - Heavy cream and Parmesan are both optional but add richness.
 - Add cooked sausage if you want a meatier version.
 - Pairs well with crusty bread.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3414 | 569 |
+| **Protein** | 239.5g | 39.9g |
+| **Fat** | 225.2g | 37.5g |
+| **Carbs** | 144.3g | 24.1g |
+| **Fiber** | 41.1g | 6.9g |
+| **Sugar** | 61.5g | 10.3g |
+| **Sodium** | 32029mg | 5338mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
