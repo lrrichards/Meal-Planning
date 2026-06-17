@@ -31,7 +31,6 @@ ingredients:
 ## Notes
 
 - Cream cheese goes in fresh at cook time — it separates and gets chunky if frozen.
-- Evan-safe: no tomato.
 - Near-variation of [[Crack Chicken]] (CrockPot) — same ranch + cream cheese base but no bacon or cheddar, cooked in broth. Kept on purpose.
 - No filled-in amounts — video stated everything.
 
