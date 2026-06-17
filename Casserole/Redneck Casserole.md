@@ -33,6 +33,6 @@ ingredients:
 ## Notes
 
 - "Franks and beans" comfort food — the most American thing on the list.
-- **Contains baked beans (tomato-based sauce) — not Evan-safe.**
+- **Contains baked beans (tomato-based sauce) — contains tomatoes.**
 - Not keto (tater tots and beans).
 - Food for Less "poor man's comfort food," cheap closing-store haul.
