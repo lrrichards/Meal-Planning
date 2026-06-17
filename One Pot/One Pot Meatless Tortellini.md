@@ -40,3 +40,17 @@ ingredients:
 - Spinach is optional but adds nutrition and color.
 - Also appears in the *Make It Simple* cookbook.
 - Great when short on time — minimal prep, one pot to clean.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1944 | 486 |
+| **Protein** | 110.3g | 27.6g |
+| **Fat** | 148.4g | 37.1g |
+| **Carbs** | 57.8g | 14.5g |
+| **Fiber** | 20.1g | 5.0g |
+| **Sugar** | 28.0g | 7.0g |
+| **Sodium** | 3359mg | 840mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
