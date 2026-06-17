@@ -27,7 +27,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb — the bell pepper replaces bread and adds a great crunch.
-- Evan-safe (no tomatoes).
 - Green bell pepper is the lowest-carb choice.
 
 ## Source
