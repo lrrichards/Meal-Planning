@@ -35,6 +35,20 @@ ingredients:
 - Different dish from [[Teriyaki Chicken and Rice]] (One Pot — from-scratch soy/honey sauce, raw rice) and [[Teriyaki Chicken Rice Bowls]] (slow-cooker bag). This is the fried-rice-style version — kept on purpose.
 - **Filled in by Claude (not stated in video):** rice amount ("add your rice to a bag" → ~2 cups, matching the other rice one-pots) and veggie amount (~2 cups, matching the batch pattern).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 262 | 65 |
+| **Protein** | 18.8g | 4.7g |
+| **Fat** | 10.7g | 2.7g |
+| **Carbs** | 20.7g | 5.2g |
+| **Fiber** | 0.2g | 0.1g |
+| **Sugar** | 13.1g | 3.3g |
+| **Sodium** | 5164mg | 1291mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
