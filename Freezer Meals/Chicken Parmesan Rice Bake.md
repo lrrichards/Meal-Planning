@@ -30,7 +30,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: marinara is smooth.
 - Rice-based cousin of [[Chicken Parmesan Casserole]] (pasta + breadcrumbs) — different carb base, kept as distinct.
 - **Filled in by Claude (not stated in video):** top-cheese amount eyeballed in video (~½ cup). Everything else was stated.
 
