@@ -40,6 +40,5 @@ ingredients:
 
 ## Notes
 
-- **Contains marinara (tomatoes) — not Evan-safe.** Leave the marinara out or sub for Evan.
 - Cream- and cheese-forward, so not tagged extreme-budget despite the cheap chicken.
 - From a $70/week keto-on-a-budget week (2 people, 7 days).
