@@ -16,11 +16,11 @@ ingredients:
 
 ## Ingredients
 
-- Cooked shredded chicken (see Instant Pot Shredded Chicken Thighs)
+- 2 cups cooked shredded chicken
 - 1/2 bag frozen spinach
-- Cauliflower rice (about 1–2 cups)
+- 2 cups cauliflower
 - 3 oz cream cheese, softened
-- Shredded mozzarella cheese
+- 1 cup shredded mozzarella cheese
 - 2 eggs
 - 1/2 tsp salt
 - 1/2 tsp pepper
@@ -43,12 +43,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 480 | 80 |
-| **Protein** | 22.2g | 3.7g |
-| **Fat** | 39.9g | 6.7g |
-| **Carbs** | 10.0g | 1.7g |
-| **Fiber** | 3.3g | 0.6g |
-| **Sugar** | 4.9g | 0.8g |
-| **Sodium** | 516mg | 86mg |
+| **Calories** | 1920 | 320 |
+| **Protein** | 187.8g | 31.3g |
+| **Fat** | 112.9g | 18.8g |
+| **Carbs** | 36.5g | 6.1g |
+| **Fiber** | 12.9g | 2.1g |
+| **Sugar** | 15.2g | 2.5g |
+| **Sodium** | 1790mg | 298mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
