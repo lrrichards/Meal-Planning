@@ -16,11 +16,11 @@ ingredients:
 
 ## Ingredients
 
-- Beef shaved steak
-- Green bell peppers, halved and seeded
+- 1 lb beef shaved steak
+- 4 bell peppers
 - 1 onion, sliced
-- Mushrooms, sliced
-- Provolone cheese slices
+- 8 oz mushroom
+- 4 oz provolone cheese
 - About 1 tbsp Worcestershire sauce
 - Butter, vegetable oil, garlic, salt, pepper, seasoning
 
@@ -38,3 +38,17 @@ ingredients:
 
 - Keto / low-carb — the creator calls it good for type 1 diabetics and keto eaters.
 - "Poor man's comfort food" series, but shaved steak + provolone + mushrooms put it above extreme-budget range, so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1625 | 406 |
+| **Protein** | 160.0g | 40.0g |
+| **Fat** | 86.8g | 21.7g |
+| **Carbs** | 48.9g | 12.2g |
+| **Fiber** | 14.2g | 3.6g |
+| **Sugar** | 29.9g | 7.5g |
+| **Sodium** | 1323mg | 331mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
