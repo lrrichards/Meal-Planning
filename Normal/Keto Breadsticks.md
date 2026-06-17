@@ -26,7 +26,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb breadsticks from fat head dough — great alongside the keto lasagna or a salad.
-- Evan-safe (no tomatoes).
 - Uses fat head dough (mozzarella + almond flour), so not tagged extreme-budget.
 
 ## Source
