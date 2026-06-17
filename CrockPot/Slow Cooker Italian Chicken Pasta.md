@@ -39,3 +39,17 @@ ingredients:
 - Adding cream cheese at the end (after whisking the sauce) gives a smoother result — but adding it at the start works fine if you'll forget later.
 - Any pasta shape works. Rice is also a good substitute.
 - Comfort food staple — rich, warm, and filling.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 5234 | 872 |
+| **Protein** | 222.6g | 37.1g |
+| **Fat** | 129.7g | 21.6g |
+| **Carbs** | 774.2g | 129.0g |
+| **Fiber** | 32.7g | 5.4g |
+| **Sugar** | 15.9g | 2.6g |
+| **Sodium** | 1647mg | 275mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
