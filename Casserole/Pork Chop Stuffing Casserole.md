@@ -36,6 +36,20 @@ ingredients:
 - Distinct from the rice (No Peek) and potato pork chop casseroles — this one uses stuffing.
 - Food for Less "poor man's comfort food," closing-store haul.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 589 | 147 |
+| **Protein** | 16.5g | 4.1g |
+| **Fat** | 13.4g | 3.3g |
+| **Carbs** | 101.8g | 25.4g |
+| **Fiber** | 4.7g | 1.2g |
+| **Sugar** | 9.2g | 2.3g |
+| **Sodium** | 3052mg | 763mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_G0LsdengzE)
