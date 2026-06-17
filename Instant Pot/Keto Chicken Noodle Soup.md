@@ -30,7 +30,6 @@ ingredients:
 ## Notes
 
 - A keto / low-carb spin on chicken noodle soup — Palmini noodles replace regular noodles, with zucchini/radish for low-carb veg. Warming and filling.
-- Evan-safe (no tomatoes).
 - Distinct from Creamy Chicken Noodle Soup (that's a creamy, egg-noodle version) — this is a clear keto broth with hearts-of-palm noodles.
 - Built from a cheap whole chicken, so tagged extreme-budget (Palmini noodles are optional/orderable).
 
