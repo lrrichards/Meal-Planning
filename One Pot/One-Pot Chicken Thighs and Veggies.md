@@ -37,3 +37,17 @@ ingredients:
 - Make sure your pan is large enough to hold all the veggies.
 - Swap in carrots, green beans, or any veggie you have on hand.
 - Great for leftovers — holds up well the next day for lunch.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2854 | 476 |
+| **Protein** | 302.6g | 50.4g |
+| **Fat** | 120.1g | 20.0g |
+| **Carbs** | 129.9g | 21.7g |
+| **Fiber** | 23.1g | 3.8g |
+| **Sugar** | 14.9g | 2.5g |
+| **Sodium** | 1126mg | 188mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
