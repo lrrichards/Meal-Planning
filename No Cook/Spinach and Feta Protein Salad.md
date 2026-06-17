@@ -14,10 +14,10 @@ ingredients:
 
 ## Ingredients
 
-- Spinach (a large salad container works for mixing)
+- 3 cups spinach
 - Feta cheese (any flavor)
 - Hard-boiled eggs (or sub tuna or pre-cooked chicken)
-- Low-carb dressing
+- 2 tbsp low carb dressing
 
 ## Instructions
 
@@ -30,6 +30,20 @@ ingredients:
 - Keto / low-carb grab-and-go lunch — around $6–7 and 45 g of protein, with leftovers from most ingredients.
 - Can be wrapped in a low-carb tortilla instead of eaten as a salad.
 - Uses feta and dressing (keto convenience items), so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (2 servings) |
+|---|---:|---:|
+| **Calories** | 193 | 96 |
+| **Protein** | 20.9g | 10.4g |
+| **Fat** | 5.3g | 2.6g |
+| **Carbs** | 27.1g | 13.6g |
+| **Fiber** | 15.8g | 7.9g |
+| **Sugar** | 2.9g | 1.4g |
+| **Sodium** | 719mg | 359mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
 ## Source
 
