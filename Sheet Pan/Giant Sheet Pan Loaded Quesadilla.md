@@ -48,3 +48,17 @@ ingredients:
 - Swap chicken for ground beef if that's what you have on hand.
 - Add corn, Rotel, or jalapeños to the filling to customize.
 - Kid-friendly — the whole thing can be adapted to family preferences.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 4639 | 773 |
+| **Protein** | 269.9g | 45.0g |
+| **Fat** | 260.8g | 43.5g |
+| **Carbs** | 305.3g | 50.9g |
+| **Fiber** | 69.5g | 11.6g |
+| **Sugar** | 25.9g | 4.3g |
+| **Sodium** | 5452mg | 909mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
