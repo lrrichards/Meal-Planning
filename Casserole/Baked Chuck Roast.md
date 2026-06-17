@@ -33,3 +33,17 @@ ingredients:
 - Pan juices make a natural gravy — pour them over the meat when serving.
 - Leftovers work great in tacos, sandwiches, or over mashed potatoes the next night.
 - Add carrots, potatoes, and onions to the pot for a complete one-pot meal.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 662 | 110 |
+| **Protein** | 71.4g | 11.9g |
+| **Fat** | 39.5g | 6.6g |
+| **Carbs** | 1.2g | 0.2g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 0.7g | 0.1g |
+| **Sodium** | 1058mg | 176mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
