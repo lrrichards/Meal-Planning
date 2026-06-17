@@ -27,7 +27,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: sloppy joe sauce is a smooth tomato product (OK under the smooth-tomato rule).
 - Transcript decode: "a can of man sandwich" = Manwich.
 - No filled-in amounts — video stated everything.
 
