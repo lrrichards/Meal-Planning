@@ -28,3 +28,17 @@ ingredients:
 - Soft yolk eggs blend into the broth and add richness.
 - Scale up freely — one pot handles multiple servings.
 - About as extreme-budget as a meal gets.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (1 servings) |
+|---|---:|---:|
+| **Calories** | 591 | 591 |
+| **Protein** | 23.2g | 23.2g |
+| **Fat** | 27.6g | 27.6g |
+| **Carbs** | 63.1g | 63.1g |
+| **Fiber** | 2.8g | 2.8g |
+| **Sugar** | 1.1g | 1.1g |
+| **Sodium** | 1884mg | 1884mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
