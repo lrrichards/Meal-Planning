@@ -40,3 +40,17 @@ ingredients:
 - Add broth 1/3 cup at a time if rice needs more liquid.
 - Cheese is optional but highly recommended.
 - Ham steaks are affordable and flavorful — worth seeking out over pre-diced ham.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2084 | 521 |
+| **Protein** | 207.4g | 51.9g |
+| **Fat** | 101.4g | 25.3g |
+| **Carbs** | 80.9g | 20.2g |
+| **Fiber** | 11.3g | 2.8g |
+| **Sugar** | 17.2g | 4.3g |
+| **Sodium** | 6413mg | 1603mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
