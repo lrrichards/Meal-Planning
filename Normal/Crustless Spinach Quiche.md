@@ -20,7 +20,7 @@ ingredients:
 - 1/2 block (about 4 oz) mozzarella cheese, shredded
 - 1/2 (4 oz) package spinach
 - 1/2 onion, diced
-- Avocado oil, for the dish
+- 1 tbsp olive oil
 - Salt, pepper, and any seasoning you like
 
 ## Instructions
@@ -42,12 +42,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 1379 | 345 |
+| **Calories** | 1498 | 375 |
 | **Protein** | 86.5g | 21.6g |
-| **Fat** | 105.8g | 26.5g |
+| **Fat** | 119.3g | 29.8g |
 | **Carbs** | 17.1g | 4.3g |
 | **Fiber** | 2.0g | 0.5g |
 | **Sugar** | 11.4g | 2.8g |
-| **Sodium** | 1288mg | 322mg |
+| **Sodium** | 1289mg | 322mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
