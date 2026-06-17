@@ -26,7 +26,7 @@ ingredients:
 **Main:**
 - 1.5–2 lbs boneless skinless chicken thighs
 - 1 can (20 oz) pineapple chunks, drained (save all juice)
-- Remaining coconut milk
+- 1 cup coconut milk
 - 1.5 cups jasmine rice
 - Water to bring liquid total to 3 cups
 
@@ -54,12 +54,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 1265 | 253 |
-| **Protein** | 67.7g | 13.5g |
-| **Fat** | 26.7g | 5.3g |
-| **Carbs** | 189.9g | 38.0g |
+| **Calories** | 1414 | 283 |
+| **Protein** | 75.5g | 15.1g |
+| **Fat** | 34.7g | 6.9g |
+| **Carbs** | 201.6g | 40.3g |
 | **Fiber** | 6.0g | 1.2g |
-| **Sugar** | 102.7g | 20.5g |
-| **Sodium** | 2395mg | 479mg |
+| **Sugar** | 115.1g | 23.0g |
+| **Sodium** | 2503mg | 501mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
