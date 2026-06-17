@@ -53,3 +53,17 @@ ingredients:
 - Hoisin sauce and barbecue sauce are interchangeable here — both work great.
 - Rice vinegar adds brightness — regular vinegar works as a substitute.
 - Serve with steamed broccoli on the side for an easy complete meal.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 445 | 74 |
+| **Protein** | 9.9g | 1.7g |
+| **Fat** | 3.3g | 0.6g |
+| **Carbs** | 96.9g | 16.2g |
+| **Fiber** | 4.0g | 0.7g |
+| **Sugar** | 74.9g | 12.5g |
+| **Sodium** | 4088mg | 681mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
