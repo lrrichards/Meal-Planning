@@ -21,7 +21,7 @@ ingredients:
 - 1 cup uncooked orzo
 - 12 oz frozen broccoli
 - 2 cups chicken broth
-- Parmesan cheese to taste
+- 1/4 cup parmesan cheese
 
 *Not counted: olive oil, salt, pepper, crushed red pepper flakes, Italian seasoning, garlic powder, paprika*
 
@@ -45,12 +45,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 2347 | 391 |
-| **Protein** | 178.7g | 29.8g |
-| **Fat** | 83.6g | 13.9g |
-| **Carbs** | 211.9g | 35.3g |
+| **Calories** | 2469 | 412 |
+| **Protein** | 189.6g | 31.6g |
+| **Fat** | 91.7g | 15.3g |
+| **Carbs** | 213.1g | 35.5g |
 | **Fiber** | 19.0g | 3.2g |
-| **Sugar** | 14.3g | 2.4g |
-| **Sodium** | 1382mg | 230mg |
+| **Sugar** | 14.5g | 2.4g |
+| **Sodium** | 1814mg | 302mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
