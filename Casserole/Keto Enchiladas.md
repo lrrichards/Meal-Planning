@@ -22,7 +22,7 @@ For the egg wraps (or use store-bought egg wraps / low-carb tortillas):
 For the enchiladas:
 - 3 lbs ground beef
 - Salt
-- Canned enchilada sauce
+- 1 can enchilada sauce
 - Cheddar cheese, shredded by hand from a block
 
 ## Instructions
@@ -47,13 +47,13 @@ For the enchiladas:
 
 | | Entire Recipe | Per Serving (16 servings) |
 |---|---:|---:|
-| **Calories** | 3972 | 248 |
-| **Protein** | 338.7g | 21.2g |
-| **Fat** | 274.1g | 17.1g |
-| **Carbs** | 10.7g | 0.7g |
-| **Fiber** | 4.0g | 0.2g |
-| **Sugar** | 6.7g | 0.4g |
-| **Sodium** | 2673mg | 167mg |
+| **Calories** | 4134 | 258 |
+| **Protein** | 342.9g | 21.4g |
+| **Fat** | 280.5g | 17.5g |
+| **Carbs** | 31.9g | 2.0g |
+| **Fiber** | 8.2g | 0.5g |
+| **Sugar** | 13.1g | 0.8g |
+| **Sodium** | 4586mg | 287mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
