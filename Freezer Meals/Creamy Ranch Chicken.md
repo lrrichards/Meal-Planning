@@ -34,6 +34,20 @@ ingredients:
 - Near-variation of [[Crack Chicken]] (CrockPot) — same ranch + cream cheese base but no bacon or cheddar, cooked in broth. Kept on purpose.
 - No filled-in amounts — video stated everything.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 4431 | 1108 |
+| **Protein** | 254.8g | 63.7g |
+| **Fat** | 259.5g | 64.9g |
+| **Carbs** | 267.8g | 66.9g |
+| **Fiber** | 5.5g | 1.4g |
+| **Sugar** | 69.1g | 17.3g |
+| **Sodium** | 20700mg | 5175mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
