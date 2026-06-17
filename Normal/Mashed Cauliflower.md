@@ -16,8 +16,8 @@ ingredients:
 
 - 1 head cauliflower, cut into florets
 - Butter
-- Garlic, minced
-- Cream cheese
+- 3 cloves garlic
+- 4 oz cream cheese
 - Salt and pepper
 
 ## Instructions
@@ -37,13 +37,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 125 | 31 |
-| **Protein** | 9.5g | 2.4g |
-| **Fat** | 1.5g | 0.4g |
-| **Carbs** | 25.0g | 6.2g |
+| **Calories** | 513 | 128 |
+| **Protein** | 16.5g | 4.1g |
+| **Fat** | 39.8g | 10.0g |
+| **Carbs** | 29.6g | 7.4g |
 | **Fiber** | 10.0g | 2.5g |
-| **Sugar** | 9.5g | 2.4g |
-| **Sodium** | 150mg | 38mg |
+| **Sugar** | 13.8g | 3.5g |
+| **Sodium** | 514mg | 129mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
