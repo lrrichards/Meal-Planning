@@ -39,3 +39,17 @@ ingredients:
 - Stir gently throughout — tortellini breaks easily, especially toward the end of cooking.
 - One of the fastest slow cooker meals in the vault at only 1–2 hours.
 - Quick meatless dump-and-go for busy days.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 4167 | 1042 |
+| **Protein** | 274.0g | 68.5g |
+| **Fat** | 324.0g | 81.0g |
+| **Carbs** | 41.5g | 10.4g |
+| **Fiber** | 10.0g | 2.5g |
+| **Sugar** | 23.0g | 5.8g |
+| **Sodium** | 5125mg | 1281mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
