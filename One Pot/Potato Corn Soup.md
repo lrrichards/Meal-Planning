@@ -15,7 +15,7 @@ ingredients:
 ## Ingredients
 
 - 9 russet potatoes, peeled and cubed
-- Remaining yellow onion, diced
+- 1/2 onion
 - 1 bag (12 oz) frozen sweet corn
 - Bacon bits to taste (added at end and as topping)
 - 10 cups water
@@ -43,12 +43,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (8 servings) |
 |---|---:|---:|
-| **Calories** | 1298 | 162 |
-| **Protein** | 36.6g | 4.6g |
-| **Fat** | 4.9g | 0.6g |
-| **Carbs** | 293.2g | 36.7g |
-| **Fiber** | 37.8g | 4.7g |
-| **Sugar** | 20.4g | 2.6g |
-| **Sodium** | 126mg | 16mg |
+| **Calories** | 1320 | 165 |
+| **Protein** | 37.2g | 4.7g |
+| **Fat** | 5.0g | 0.6g |
+| **Carbs** | 298.4g | 37.3g |
+| **Fiber** | 38.7g | 4.8g |
+| **Sugar** | 22.7g | 2.8g |
+| **Sodium** | 128mg | 16mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
