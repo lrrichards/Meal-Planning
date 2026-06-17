@@ -60,3 +60,17 @@ ingredients:
 - For a faster version, stir in 1½ cups of store-bought queso instead of making it from scratch.
 - Rotini holds up well in chili — other short pastas like elbow or penne also work.
 - The queso makes this chili creamy and rich enough that you don't need many toppings.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 7403 | 925 |
+| **Protein** | 413.7g | 51.7g |
+| **Fat** | 202.8g | 25.3g |
+| **Carbs** | 975.9g | 122.0g |
+| **Fiber** | 159.7g | 20.0g |
+| **Sugar** | 66.8g | 8.3g |
+| **Sodium** | 5287mg | 661mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
