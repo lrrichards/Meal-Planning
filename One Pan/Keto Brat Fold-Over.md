@@ -33,7 +33,6 @@ ingredients:
 ## Notes
 
 - A keto tortilla fold-over with cheese-filled brats, sweet caramelized onions, and dijon.
-- Evan-safe (no tomatoes).
 - Uses keto tortillas (specialty), so not tagged extreme-budget.
 
 ## Source
