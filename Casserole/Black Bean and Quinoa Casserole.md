@@ -44,3 +44,17 @@ ingredients:
 - Go heavy on the cheese topping — it makes the dish.
 - Great for meal prep: portions well into containers for weekday lunches.
 - If you don't have taco seasoning: use chili powder, cumin, salt, pepper, onion powder, garlic powder, and oregano.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3541 | 590 |
+| **Protein** | 213.4g | 35.6g |
+| **Fat** | 94.5g | 15.8g |
+| **Carbs** | 452.8g | 75.5g |
+| **Fiber** | 88.9g | 14.8g |
+| **Sugar** | 23.1g | 3.9g |
+| **Sodium** | 2171mg | 362mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
