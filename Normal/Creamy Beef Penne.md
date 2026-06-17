@@ -19,7 +19,7 @@ ingredients:
 
 - 1 lb ground beef
 - 1 cup beef broth
-- Penne pasta (about 12 oz)
+- 12 oz penne pasta
 - 1 cup heavy whipping cream
 - 1/3 block cream cheese, cubed
 - 8 oz sour cream
@@ -51,13 +51,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 2696 | 539 |
-| **Protein** | 95.5g | 19.1g |
-| **Fat** | 248.6g | 49.7g |
-| **Carbs** | 24.3g | 4.9g |
-| **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 21.0g | 4.2g |
-| **Sodium** | 1818mg | 364mg |
+| **Calories** | 3958 | 792 |
+| **Protein** | 139.7g | 27.9g |
+| **Fat** | 253.7g | 50.7g |
+| **Carbs** | 278.4g | 55.7g |
+| **Fiber** | 10.9g | 2.2g |
+| **Sugar** | 23.0g | 4.6g |
+| **Sodium** | 1838mg | 368mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
