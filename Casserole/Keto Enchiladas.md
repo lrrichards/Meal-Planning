@@ -43,6 +43,20 @@ For the enchiladas:
 - Distinct from the bean enchiladas (those use tortillas and beans and aren't keto).
 - Shred cheese from a block — cheaper and melts better.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (16 servings) |
+|---|---:|---:|
+| **Calories** | 3972 | 248 |
+| **Protein** | 338.7g | 21.2g |
+| **Fat** | 274.1g | 17.1g |
+| **Carbs** | 10.7g | 0.7g |
+| **Fiber** | 4.0g | 0.2g |
+| **Sugar** | 6.7g | 0.4g |
+| **Sodium** | 2673mg | 167mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xvJtByAGPNA)
