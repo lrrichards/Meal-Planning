@@ -39,3 +39,17 @@ ingredients:
 - Broiling at the end is what gives the steak that caramelized crust — don't skip it.
 - Works great as meal prep — packs well in food containers for lunch.
 - Use tongs when tossing veggies — much easier than a spoon.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3632 | 605 |
+| **Protein** | 305.6g | 50.9g |
+| **Fat** | 58.4g | 9.7g |
+| **Carbs** | 469.3g | 78.2g |
+| **Fiber** | 65.6g | 10.9g |
+| **Sugar** | 30.4g | 5.1g |
+| **Sodium** | 783mg | 131mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
