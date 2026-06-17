@@ -33,7 +33,6 @@ ingredients:
 ## Notes
 
 - A keto tortilla fold-over with a swiss "fondue" cheese sauce and ham.
-- Evan-safe (no tomatoes).
 - Uses keto tortillas (specialty), so not tagged extreme-budget.
 
 ## Source
