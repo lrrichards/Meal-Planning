@@ -39,6 +39,5 @@ ingredients:
 ## Notes
 
 - A true one-skillet meal; 18 oz tortellini feeds a family of six.
-- **Contains marinara (tomatoes) — not Evan-safe.** Sub or leave out for Evan.
 - Distinct from the existing meatless tortellini recipes (this one has sausage and a marinara base, cooked in one skillet).
 - "Poor man's comfort food" — cheap enough (~$2–3/serving) for the extreme-budget tag.
