@@ -17,8 +17,8 @@ ingredients:
 
 - 1 box graham crackers
 - 1 box chocolate cake mix
-- Chocolate chips
-- Marshmallows
+- 1 cup chocolate chips
+- 3 cups marshmallows
 - Butter
 
 ## Instructions
@@ -40,13 +40,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (9 servings) |
 |---|---:|---:|
-| **Calories** | 535 | 59 |
-| **Protein** | 21.6g | 2.4g |
-| **Fat** | 17.3g | 1.9g |
-| **Carbs** | 74.5g | 8.3g |
-| **Fiber** | 1.5g | 0.2g |
-| **Sugar** | 47.4g | 5.3g |
-| **Sodium** | 1653mg | 184mg |
+| **Calories** | 3996 | 444 |
+| **Protein** | 49.0g | 5.4g |
+| **Fat** | 83.5g | 9.3g |
+| **Carbs** | 811.1g | 90.1g |
+| **Fiber** | 10.4g | 1.2g |
+| **Sugar** | 582.6g | 64.7g |
+| **Sodium** | 2287mg | 254mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
