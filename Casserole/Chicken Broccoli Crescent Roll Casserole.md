@@ -43,3 +43,17 @@ ingredients:
 - Frozen broccoli works fine — thaw and pat dry before mixing in.
 - Let it rest 5 minutes before cutting so the filling sets up and slices cleanly.
 - This is essentially a chicken broccoli pot pie in casserole form.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 7293 | 1216 |
+| **Protein** | 387.0g | 64.5g |
+| **Fat** | 453.1g | 75.5g |
+| **Carbs** | 422.0g | 70.3g |
+| **Fiber** | 12.5g | 2.1g |
+| **Sugar** | 86.7g | 14.5g |
+| **Sodium** | 9671mg | 1612mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
