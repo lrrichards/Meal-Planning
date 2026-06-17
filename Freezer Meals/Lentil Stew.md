@@ -52,3 +52,17 @@ ingredients:
 - Frozen carrots and diced onion save significant prep time and freeze perfectly.
 - Balsamic vinegar and brown sugar add depth — don't skip them.
 - Flavors can be slightly dulled after freezing — taste and adjust seasoning after cooking.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1244 | 207 |
+| **Protein** | 87.0g | 14.5g |
+| **Fat** | 7.8g | 1.3g |
+| **Carbs** | 217.0g | 36.2g |
+| **Fiber** | 89.6g | 14.9g |
+| **Sugar** | 52.5g | 8.7g |
+| **Sodium** | 5610mg | 935mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
