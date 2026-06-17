@@ -42,3 +42,17 @@ ingredients:
 - Heavy cream makes the topping creamier but is completely optional.
 - High protein from the canned chicken — filling and nutritious.
 - Part of a $25 Walmart budget week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 2765 | 553 |
+| **Protein** | 250.6g | 50.1g |
+| **Fat** | 118.3g | 23.7g |
+| **Carbs** | 175.2g | 35.0g |
+| **Fiber** | 32.9g | 6.6g |
+| **Sugar** | 18.7g | 3.7g |
+| **Sodium** | 1127mg | 225mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
