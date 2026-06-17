@@ -42,3 +42,17 @@ ingredients:
 - Only 1 of the 6 seasoning packets is used — save the others for soups or stir fries.
 - Rotisserie chicken is the most convenient protein here. Canned chicken works as a budget substitute.
 - Honest rating: good but not as good as traditional fettuccine Alfredo — a fun experiment.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 2128 | 266 |
+| **Protein** | 81.4g | 10.2g |
+| **Fat** | 151.8g | 19.0g |
+| **Carbs** | 114.3g | 14.3g |
+| **Fiber** | 4.7g | 0.6g |
+| **Sugar** | 7.4g | 0.9g |
+| **Sodium** | 4431mg | 554mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
