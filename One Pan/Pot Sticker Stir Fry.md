@@ -16,10 +16,10 @@ ingredients:
 
 - 1 bag frozen pot stickers
 - 1 bag frozen Asian vegetable medley (with its sauce packet)
-- Soy sauce
-- Garlic powder or minced garlic
+- 3 tbsp soy sauce
+- 3 cloves garlic
 - Oil
-- Rice, to serve
+- 2 cups white rice
 
 ## Instructions
 
@@ -42,13 +42,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 861 | 215 |
-| **Protein** | 36.3g | 9.1g |
-| **Fat** | 21.6g | 5.4g |
-| **Carbs** | 128.7g | 32.2g |
-| **Fiber** | 16.8g | 4.2g |
-| **Sugar** | 18.9g | 4.7g |
-| **Sodium** | 1614mg | 404mg |
+| **Calories** | 1174 | 294 |
+| **Protein** | 39.7g | 9.9g |
+| **Fat** | 22.2g | 5.5g |
+| **Carbs** | 198.3g | 49.6g |
+| **Fiber** | 7.8g | 2.0g |
+| **Sugar** | 9.7g | 2.4g |
+| **Sodium** | 3094mg | 773mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
