@@ -21,7 +21,7 @@ ingredients:
 - 1 bag regular marshmallows
 - 1 box Cocoa Pebbles
 - 1/2 bag mini marshmallows
-- Holiday sprinkles and decorations
+- 2 tbsp sprinkles
 
 ## Instructions
 
@@ -43,13 +43,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (12 servings) |
 |---|---:|---:|
-| **Calories** | 3897 | 325 |
-| **Protein** | 45.6g | 3.8g |
-| **Fat** | 122.4g | 10.2g |
-| **Carbs** | 681.1g | 56.8g |
+| **Calories** | 4019 | 335 |
+| **Protein** | 45.7g | 3.8g |
+| **Fat** | 126.0g | 10.5g |
+| **Carbs** | 703.3g | 58.6g |
 | **Fiber** | 1.5g | 0.1g |
-| **Sugar** | 530.8g | 44.2g |
-| **Sodium** | 1868mg | 156mg |
+| **Sugar** | 551.8g | 46.0g |
+| **Sodium** | 1880mg | 157mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
