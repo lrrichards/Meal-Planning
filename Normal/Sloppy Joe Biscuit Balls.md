@@ -38,7 +38,6 @@ ingredients:
 
 - Tastes like a sloppy joe in a biscuit. Mr. Da's recipe skips cheese and onion — this version adds them.
 - Good with a dipping sauce: garlic butter or ketchup.
-- **Contains ketchup (tomato-based) — check against Evan's tomato restriction before serving him.**
 - Not keto (biscuits).
 - "Poor man's comfort food" follower edition.
 
