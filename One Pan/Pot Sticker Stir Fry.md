@@ -35,7 +35,6 @@ ingredients:
 
 - Swaps pot stickers in for the usual protein in a stir fry.
 - Not keto (pot stickers + rice).
-- Evan-safe (no tomatoes).
 - Distinct from Pot Sticker Chicken Alfredo Carbonara (that's a creamy pasta dish) — this is an Asian stir fry.
 - "Poor man's comfort food."
 
