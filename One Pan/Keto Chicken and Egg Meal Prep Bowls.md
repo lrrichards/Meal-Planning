@@ -39,7 +39,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb meal prep — makes about 7 bowls at roughly 890 calories each.
-- Evan-safe (no tomatoes).
 - Cheap proteins (eggs, chicken) and vegetables; freezes well.
 
 ## Source
