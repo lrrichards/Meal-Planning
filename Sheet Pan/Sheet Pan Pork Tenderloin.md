@@ -40,3 +40,17 @@ ingredients:
 - Lemon juice adds brightness — even bottled works fine.
 - Leftovers pack well for lunches in food storage containers.
 - Swap any of the vegetables for whatever you have on hand.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 523 | 87 |
+| **Protein** | 39.4g | 6.6g |
+| **Fat** | 6.8g | 1.1g |
+| **Carbs** | 83.4g | 13.9g |
+| **Fiber** | 20.1g | 3.3g |
+| **Sugar** | 10.9g | 1.8g |
+| **Sodium** | 148mg | 25mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
