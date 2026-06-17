@@ -43,7 +43,7 @@ ingredients:
 ## Notes
 
 - Baked-ziti style with three cheeses (ricotta, mozzarella, parmesan) and a beef-sausage sauce.
-- **Contains marinara and diced tomatoes — not Evan-safe.**
+- **Contains marinara and diced tomatoes — contains tomatoes.**
 - Not keto (pasta).
 - "Poor man's comfort food."
 
