@@ -44,3 +44,17 @@ ingredients:
 - Sun-dried tomatoes with herbs are better than plain — worth finding that variety.
 - Spinach added in the bag freezes and cooks beautifully — no need to add at the end.
 - Shredding the chicken and returning it to the juices is what makes this exceptional.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1124 | 187 |
+| **Protein** | 134.5g | 22.4g |
+| **Fat** | 55.9g | 9.3g |
+| **Carbs** | 13.4g | 2.2g |
+| **Fiber** | 2.8g | 0.5g |
+| **Sugar** | 6.7g | 1.1g |
+| **Sodium** | 457mg | 76mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
