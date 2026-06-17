@@ -48,3 +48,17 @@ ingredients:
 - Draining the beans before layering is important — excess liquid makes soggy enchiladas.
 - Canned black beans (2 cans, drained) work as a quick substitute for dried.
 - High in fiber, potassium, and vitamin B6 — very filling despite being meatless.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 2758 | 552 |
+| **Protein** | 145.5g | 29.1g |
+| **Fat** | 78.1g | 15.6g |
+| **Carbs** | 398.5g | 79.7g |
+| **Fiber** | 86.5g | 17.3g |
+| **Sugar** | 24.3g | 4.9g |
+| **Sodium** | 904mg | 181mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
