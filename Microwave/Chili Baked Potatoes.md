@@ -14,7 +14,7 @@ ingredients:
 ## Ingredients
 
 - 4–6 russet potatoes
-- Leftover chili (Budget Chili from One Pot/ folder works perfectly — or any chili)
+- 2 cups chili
 - 2 Roma tomatoes, diced
 
 *Not counted: olive oil, seasoned salt or garlic salt*
