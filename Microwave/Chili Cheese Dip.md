@@ -32,6 +32,20 @@ ingredients:
 - A party/snack dip, not a full meal (so not tagged extreme-budget).
 - Aldi "poor man's comfort food," New Year's Eve edition.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 770 | 96 |
+| **Protein** | 14.0g | 1.7g |
+| **Fat** | 76.0g | 9.5g |
+| **Carbs** | 9.2g | 1.2g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 8.5g | 1.1g |
+| **Sodium** | 722mg | 90mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=H3lN4Znk8io)
