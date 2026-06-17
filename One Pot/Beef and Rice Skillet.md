@@ -43,3 +43,17 @@ ingredients:
 - Skip or swap the broccoli for any frozen veggie you have on hand.
 - Reheats well in the microwave for leftovers.
 - Add water ⅓ cup at a time if rice needs more liquid — every rice cooks slightly differently.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2565 | 428 |
+| **Protein** | 167.0g | 27.8g |
+| **Fat** | 138.1g | 23.0g |
+| **Carbs** | 169.9g | 28.3g |
+| **Fiber** | 15.0g | 2.5g |
+| **Sugar** | 27.8g | 4.6g |
+| **Sodium** | 16064mg | 2677mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
