@@ -47,3 +47,17 @@ ingredients:
 - Spray both the bottom pan and the inside of the top pan with non-stick spray.
 - The taco filling can be made ahead — assemble and bake when ready to eat.
 - Cut into strips for a fun appetizer or game day snack.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 5457 | 1364 |
+| **Protein** | 280.6g | 70.1g |
+| **Fat** | 215.2g | 53.8g |
+| **Carbs** | 604.6g | 151.1g |
+| **Fiber** | 86.9g | 21.7g |
+| **Sugar** | 34.4g | 8.6g |
+| **Sodium** | 5823mg | 1456mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
