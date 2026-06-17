@@ -30,3 +30,17 @@ ingredients:
 
 - Built to use up leftover eggs, deli ham, and odds-and-ends vegetables from the week.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (1 servings) |
+|---|---:|---:|
+| **Calories** | 155 | 155 |
+| **Protein** | 12.6g | 12.6g |
+| **Fat** | 10.6g | 10.6g |
+| **Carbs** | 1.1g | 1.1g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 1.1g | 1.1g |
+| **Sodium** | 124mg | 124mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
