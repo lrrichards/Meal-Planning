@@ -33,3 +33,17 @@ ingredients:
 
 - A clean-out-the-fridge dinner — use whatever leftover keto vegetables you have.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 56 | 14 |
+| **Protein** | 3.0g | 0.8g |
+| **Fat** | 0.7g | 0.2g |
+| **Carbs** | 11.3g | 2.8g |
+| **Fiber** | 2.9g | 0.7g |
+| **Sugar** | 7.3g | 1.8g |
+| **Sodium** | 18mg | 5mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
