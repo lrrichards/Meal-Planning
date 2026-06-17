@@ -32,7 +32,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: BBQ sauce is a smooth tomato product.
 - Inspired by a Texas brisket burrito — brisket works too if you have it.
 - **Filled in by Claude (not stated in video):** pepper/onion amount — video used "the rest of the bag" after the sheet pan meal and taco tray; ~1½ cups assumed.
 
