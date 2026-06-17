@@ -36,7 +36,7 @@ ingredients:
 ## Notes
 
 - Keto / low-carb chicken parm — pork panko and almond flour replace breadcrumbs, and there's no pasta.
-- **Contains marinara (tomatoes) — not Evan-safe.** Use a low-carb marinara.
+- **Contains marinara (tomatoes) — contains tomatoes.** Use a low-carb marinara.
 - Distinct from the other two chicken parms (the penne casserole and the breaded-cutlet-with-spaghetti) — this is the grain-free fried keto version.
 - Uses almond flour and pork panko (pricier keto staples), so not tagged extreme-budget.
 
