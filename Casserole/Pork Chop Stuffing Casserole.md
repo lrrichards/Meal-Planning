@@ -33,7 +33,6 @@ ingredients:
 
 - A childhood comfort-food casserole. Eat a bit of pork, stuffing, and the mushroom-sour-cream sauce together in each bite.
 - Not keto (stuffing).
-- Evan-safe (no tomatoes).
 - Distinct from the rice (No Peek) and potato pork chop casseroles — this one uses stuffing.
 - Food for Less "poor man's comfort food," closing-store haul.
 
