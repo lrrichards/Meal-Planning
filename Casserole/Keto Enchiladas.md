@@ -39,7 +39,7 @@ For the enchiladas:
 
 - Keto / low-carb — homemade egg-white wraps replace tortillas. Makes 2 trays (16 servings) at about $1.48 each.
 - Store-bought egg wraps are easier (and less "eggy") but cost more; low-carb tortillas work too but have gluten.
-- **Contains enchilada sauce (tomato-based) — not Evan-safe.**
+- **Contains enchilada sauce (tomato-based) — contains tomatoes.**
 - Distinct from the bean enchiladas (those use tortillas and beans and aren't keto).
 - Shred cheese from a block — cheaper and melts better.
 
