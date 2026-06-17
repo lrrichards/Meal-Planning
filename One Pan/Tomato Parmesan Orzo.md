@@ -46,3 +46,17 @@ ingredients:
 - Toast the orzo in the dry pan before adding liquid — adds a subtle nuttiness.
 - Stir frequently once broth is added — orzo sticks easily as it absorbs.
 - The cream added at the end keeps the sauce silky without making it heavy.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 5924 | 1481 |
+| **Protein** | 592.9g | 148.2g |
+| **Fat** | 284.3g | 71.1g |
+| **Carbs** | 222.0g | 55.5g |
+| **Fiber** | 23.0g | 5.8g |
+| **Sugar** | 18.2g | 4.5g |
+| **Sodium** | 3080mg | 770mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
