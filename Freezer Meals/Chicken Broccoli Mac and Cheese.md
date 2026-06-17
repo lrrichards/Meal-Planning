@@ -36,6 +36,20 @@ ingredients:
 - From-scratch cousin of [[Cheddar Broccoli Chicken Pasta]] (which uses a boxed pasta mix + cream).
 - **Filled in by Claude (not stated in video):** seasoning amounts (~½–1 tsp each — video shook them in without measuring). All food amounts were stated.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2726 | 682 |
+| **Protein** | 126.9g | 31.7g |
+| **Fat** | 97.3g | 24.3g |
+| **Carbs** | 331.8g | 82.9g |
+| **Fiber** | 15.4g | 3.9g |
+| **Sugar** | 30.1g | 7.5g |
+| **Sodium** | 1675mg | 419mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
