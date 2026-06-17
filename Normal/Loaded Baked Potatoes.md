@@ -19,7 +19,7 @@ ingredients:
 - 2 cans chicken, drained
 - 1 bag frozen broccoli cuts, steamed
 - 3 green onions, sliced
-- Shredded Colby Jack cheese (generous amount)
+- 1 cup shredded Colby Jack cheese
 - 2 tbsp butter
 
 *Not counted: olive oil, garlic salt, salt, pepper, paprika, onion powder*
@@ -47,12 +47,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 2765 | 553 |
-| **Protein** | 250.6g | 50.1g |
-| **Fat** | 118.3g | 23.7g |
-| **Carbs** | 175.2g | 35.0g |
+| **Calories** | 3210 | 642 |
+| **Protein** | 276.6g | 55.3g |
+| **Fat** | 154.4g | 30.9g |
+| **Carbs** | 177.4g | 35.5g |
 | **Fiber** | 32.9g | 6.6g |
-| **Sugar** | 18.7g | 3.7g |
-| **Sodium** | 1127mg | 225mg |
+| **Sugar** | 19.3g | 3.9g |
+| **Sodium** | 1822mg | 364mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
