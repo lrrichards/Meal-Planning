@@ -40,7 +40,6 @@ ingredients:
 
 - Distinct from the existing One Pan Honey Garlic Chicken (that's saucy chicken breast with no vegetables) — this is glazed thighs over a full roasted-veg medley.
 - Not keto (honey + potatoes).
-- Evan-safe (no tomatoes).
 - "Poor man's comfort food," birthday-eve edition.
 
 ## Source
