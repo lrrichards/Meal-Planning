@@ -15,7 +15,7 @@ ingredients:
 
 - 12 eggs
 - 12 slices deli ham (cut in half to make it stretch)
-- Shredded cheddar cheese, for sprinkling
+- 1 cup shredded cheddar cheese
 - Cooking spray
 
 ## Instructions
@@ -36,12 +36,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1290 | 215 |
-| **Protein** | 122.6g | 20.4g |
-| **Fat** | 78.7g | 13.1g |
-| **Carbs** | 13.3g | 2.2g |
+| **Calories** | 1745 | 291 |
+| **Protein** | 150.9g | 25.1g |
+| **Fat** | 116.1g | 19.4g |
+| **Carbs** | 14.8g | 2.5g |
 | **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 11.6g | 1.9g |
-| **Sodium** | 4440mg | 740mg |
+| **Sugar** | 12.2g | 2.0g |
+| **Sodium** | 5142mg | 857mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
