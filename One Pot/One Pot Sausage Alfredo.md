@@ -16,12 +16,12 @@ ingredients:
 
 ## Ingredients
 
-- Smoked sausage, sliced
+- 14 oz smoked sausage
 - 6 tbsp butter
 - 12 oz pasta (noodles)
 - 32 oz chicken broth
 - 1/2 cup heavy whipping cream
-- Shredded parmesan cheese
+- 1/4 cup shredded parmesan cheese
 - Seasoning of choice
 
 ## Instructions
@@ -43,13 +43,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 4179 | 836 |
-| **Protein** | 283.4g | 56.7g |
-| **Fat** | 217.1g | 43.4g |
-| **Carbs** | 257.5g | 51.5g |
+| **Calories** | 5495 | 1099 |
+| **Protein** | 341.9g | 68.4g |
+| **Fat** | 328.3g | 65.7g |
+| **Carbs** | 270.6g | 54.1g |
 | **Fiber** | 10.9g | 2.2g |
-| **Sugar** | 5.5g | 1.1g |
-| **Sodium** | 1411mg | 282mg |
+| **Sugar** | 13.7g | 2.7g |
+| **Sodium** | 5130mg | 1026mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
