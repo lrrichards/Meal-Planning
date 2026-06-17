@@ -18,17 +18,17 @@ ingredients:
 
 ## Ingredients
 
-- Chicken breast (or thighs)
-- Broccoli (used in place of pasta)
-- Cherry tomatoes
-- A handful of spinach
-- Sun-dried tomatoes
-- Fresh garlic
-- Half and half (or heavy cream)
+- 2 lb chicken breast
+- 2 cups broccoli
+- 1 cup cherry tomatoes
+- 2 cups spinach
+- 1/4 cup sun-dried tomatoes
+- 3 cloves garlic
+- 1 cup half and half
 - Fresh parmesan cheese
 - Fresh mozzarella cheese
-- Avocado oil
-- Garlic powder, onion powder, Italian seasoning, salt, pepper
+- 1 tbsp olive oil
+- 3 cloves garlic
 
 ## Instructions
 
@@ -46,6 +46,20 @@ ingredients:
 - **Contains cherry tomatoes and sun-dried tomatoes — contains tomatoes.**
 - Distinct from Chicken Broccoli with Sun Dried Tomato Sauce — this is oven-baked with spinach and cherry tomatoes added.
 - Uses sun-dried tomatoes (a pricier ingredient), so not tagged extreme-budget.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2655 | 664 |
+| **Protein** | 273.8g | 68.5g |
+| **Fat** | 139.1g | 34.8g |
+| **Carbs** | 85.1g | 21.3g |
+| **Fiber** | 26.6g | 6.7g |
+| **Sugar** | 17.9g | 4.5g |
+| **Sodium** | 1670mg | 418mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
 ## Source
 
