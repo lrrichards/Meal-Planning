@@ -36,3 +36,17 @@ ingredients:
 - This is a use-up-the-leftovers meal — uses beans and rice from earlier in the week.
 - Toppings can include any leftover veggies, cheese, or green onions on hand.
 - Part of a $25 Walmart budget week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (3 servings) |
+|---|---:|---:|
+| **Calories** | 1613 | 538 |
+| **Protein** | 105.6g | 35.2g |
+| **Fat** | 4.8g | 1.6g |
+| **Carbs** | 288.0g | 96.0g |
+| **Fiber** | 72.0g | 24.0g |
+| **Sugar** | 7.2g | 2.4g |
+| **Sodium** | 48mg | 16mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
