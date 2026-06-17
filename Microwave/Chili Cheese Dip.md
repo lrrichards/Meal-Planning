@@ -15,7 +15,7 @@ ingredients:
 
 - 1 block cream cheese
 - 1 can chili (no beans)
-- Shredded cheddar cheese
+- 1 cup shredded cheddar cheese
 
 ## Instructions
 
@@ -36,13 +36,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (8 servings) |
 |---|---:|---:|
-| **Calories** | 770 | 96 |
-| **Protein** | 14.0g | 1.7g |
-| **Fat** | 76.0g | 9.5g |
-| **Carbs** | 9.2g | 1.2g |
+| **Calories** | 1225 | 153 |
+| **Protein** | 42.2g | 5.3g |
+| **Fat** | 113.5g | 14.2g |
+| **Carbs** | 10.7g | 1.3g |
 | **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 8.5g | 1.1g |
-| **Sodium** | 722mg | 90mg |
+| **Sugar** | 9.1g | 1.1g |
+| **Sodium** | 1424mg | 178mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
