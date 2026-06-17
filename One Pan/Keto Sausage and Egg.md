@@ -23,7 +23,6 @@ ingredients:
 ## Notes
 
 - The easiest keto / low-carb breakfast — naturally low carb and cheap.
-- Evan-safe (no tomatoes).
 - Distinct from Sausage and Egg Breakfast Sandwiches (no bun here — this is just sausage and a fried egg).
 - Old Bay seasoning sausage is great if you can find it.
 
