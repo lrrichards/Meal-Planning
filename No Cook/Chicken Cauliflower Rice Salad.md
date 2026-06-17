@@ -17,10 +17,10 @@ ingredients:
 
 - 2 cups lettuce
 - 1 packet shelf-stable cauliflower rice (pre-cooked)
-- Cooked chicken (deli or pre-cooked)
-- Tomatoes
+- 2 cups cooked shredded chicken
+- 2 tomatoes
 - 2 tbsp olive oil
-- Sugar-free dressing
+- 2 tbsp sugar-free dressing
 
 ## Instructions
 
@@ -40,13 +40,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (2 servings) |
 |---|---:|---:|
-| **Calories** | 246 | 123 |
-| **Protein** | 0.5g | 0.3g |
-| **Fat** | 27.1g | 13.5g |
-| **Carbs** | 1.4g | 0.7g |
-| **Fiber** | 0.6g | 0.3g |
-| **Sugar** | 0.5g | 0.3g |
-| **Sodium** | 9mg | 4mg |
+| **Calories** | 1389 | 694 |
+| **Protein** | 127.5g | 63.7g |
+| **Fat** | 79.9g | 39.9g |
+| **Carbs** | 35.7g | 17.9g |
+| **Fiber** | 3.4g | 1.7g |
+| **Sugar** | 31.7g | 15.9g |
+| **Sodium** | 444mg | 222mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
