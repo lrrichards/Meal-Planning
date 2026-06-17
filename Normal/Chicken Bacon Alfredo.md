@@ -41,3 +41,17 @@ ingredients:
 - Cooking chicken in bacon grease is what elevates this from basic Alfredo — don't wipe the pan.
 - Also appears in the *Make It Simple* cookbook.
 - Uses 3 cooking vessels — not a true one-pot meal despite the source video's category.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 5848 | 975 |
+| **Protein** | 291.7g | 48.6g |
+| **Fat** | 375.1g | 62.5g |
+| **Carbs** | 319.9g | 53.3g |
+| **Fiber** | 12.7g | 2.1g |
+| **Sugar** | 23.1g | 3.9g |
+| **Sodium** | 2243mg | 374mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
