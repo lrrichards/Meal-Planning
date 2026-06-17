@@ -39,6 +39,20 @@ ingredients:
 - Different recipe from [[Budget Chili]] (One Pot — tomato paste/corn build) and [[Queso Beef Chili]].
 - **Filled in by Claude (not stated in video):** cook time — assumed low 5 hr to match the other bags. No added liquid was mentioned; undrained cans assumed sufficient (standard for slow cooker chili).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2462 | 615 |
+| **Protein** | 155.9g | 39.0g |
+| **Fat** | 9.3g | 2.3g |
+| **Carbs** | 460.6g | 115.1g |
+| **Fiber** | 110.3g | 27.6g |
+| **Sugar** | 44.2g | 11.1g |
+| **Sodium** | 3439mg | 860mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
