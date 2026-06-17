@@ -37,3 +37,17 @@ ingredients:
 - Any frozen veggie can replace broccoli — whatever the family likes.
 - Chicken thighs stay juicier than breast in the oven — worth using here.
 - 3 ingredients, one baking dish, nearly zero prep.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1562 | 260 |
+| **Protein** | 154.7g | 25.8g |
+| **Fat** | 60.0g | 10.0g |
+| **Carbs** | 96.5g | 16.1g |
+| **Fiber** | 10.8g | 1.8g |
+| **Sugar** | 7.8g | 1.3g |
+| **Sodium** | 1470mg | 245mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
