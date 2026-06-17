@@ -33,7 +33,6 @@ ingredients:
 
 ## Notes
 
-- **Not Evan-safe:** Rotel (diced tomatoes with green chilies). Swap for tomato sauce for an Evan-friendly version.
 - Freezer-bag near-twin of [[One Pot Taco Soup]] — kept on purpose as the dump-and-go version.
 - **Filled in by Claude (not stated in video):** taco seasoning amount (1 tbsp assumed — video just said "add in your taco seasoning") and cook time (low 5 hr assumed).
 
