@@ -40,3 +40,17 @@ ingredients:
 - Heavy cream added at the end keeps the sauce from breaking — don't add it while heat is too high.
 - To thicken: stir a tablespoon of flour into the softened vegetables before adding broth.
 - A creamy, one-pot-style take on chicken noodle that's more of a meal than a soup.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 4418 | 1104 |
+| **Protein** | 415.3g | 103.8g |
+| **Fat** | 277.4g | 69.3g |
+| **Carbs** | 43.7g | 10.9g |
+| **Fiber** | 8.6g | 2.1g |
+| **Sugar** | 26.3g | 6.6g |
+| **Sodium** | 1915mg | 479mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
