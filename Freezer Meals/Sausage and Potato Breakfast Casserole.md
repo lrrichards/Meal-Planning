@@ -33,7 +33,6 @@ ingredients:
 ## Notes
 
 - Breakfast sausage carries the seasoning — no extra needed.
-- Evan-safe: no tomato. Breakfast-for-dinner night.
 - **Filled in by Claude (not stated in video):** cheese amounts — video said "a little bit of cheddar and mozzarella"; ~½ cup each assumed.
 
 ## Source
