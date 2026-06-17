@@ -15,11 +15,11 @@ ingredients:
 
 ## Ingredients
 
-- Cooked shredded chicken (see Instant Pot Shredded Chicken Thighs)
+- 2 cups cooked shredded chicken
 - 1 head cauliflower, riced
-- Celery, chopped
+- 3 stalks celery
 - 1/2 yellow onion, diced
-- Chicken broth (use the saved broth from cooking the chicken)
+- 4 cups broth
 - Salt and pepper
 
 ## Instructions
@@ -39,12 +39,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 147 | 24 |
-| **Protein** | 10.1g | 1.7g |
-| **Fat** | 1.6g | 0.3g |
-| **Carbs** | 30.1g | 5.0g |
+| **Calories** | 1217 | 203 |
+| **Protein** | 144.5g | 24.1g |
+| **Fat** | 55.8g | 9.3g |
+| **Carbs** | 34.9g | 5.8g |
 | **Fiber** | 10.9g | 1.8g |
-| **Sugar** | 11.8g | 2.0g |
-| **Sodium** | 152mg | 25mg |
+| **Sugar** | 14.7g | 2.4g |
+| **Sodium** | 4146mg | 691mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
