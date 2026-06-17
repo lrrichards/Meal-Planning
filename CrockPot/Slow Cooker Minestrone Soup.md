@@ -52,3 +52,17 @@ ingredients:
 - Sun-dried tomatoes add concentrated, rich tomato flavor that regular diced tomatoes can't match.
 - A parmesan rind dropped in while cooking is a classic Italian trick — massive flavor with no extra effort.
 - This soup is excellent leftover and freezes well without the pasta.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 5501 | 688 |
+| **Protein** | 375.8g | 47.0g |
+| **Fat** | 167.1g | 20.9g |
+| **Carbs** | 631.4g | 78.9g |
+| **Fiber** | 129.4g | 16.2g |
+| **Sugar** | 73.9g | 9.2g |
+| **Sodium** | 2740mg | 343mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
