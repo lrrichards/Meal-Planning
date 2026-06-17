@@ -48,3 +48,17 @@ ingredients:
 - Swap chickpeas for any canned beans you have on hand.
 - This recipe makes a large batch — excellent for meal prep and tastes better the next day.
 - Any leafy green works in place of kale: spinach, Swiss chard, or collard greens.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 1180 | 148 |
+| **Protein** | 77.4g | 9.7g |
+| **Fat** | 12.3g | 1.5g |
+| **Carbs** | 223.2g | 27.9g |
+| **Fiber** | 70.2g | 8.8g |
+| **Sugar** | 93.5g | 11.7g |
+| **Sodium** | 5831mg | 729mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
