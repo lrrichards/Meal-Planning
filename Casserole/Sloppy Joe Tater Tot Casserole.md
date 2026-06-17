@@ -38,6 +38,20 @@ ingredients:
 - Not keto (tater tots + sauce).
 - Walmart "poor man's comfort food."
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3178 | 530 |
+| **Protein** | 102.4g | 17.1g |
+| **Fat** | 202.4g | 33.7g |
+| **Carbs** | 255.2g | 42.5g |
+| **Fiber** | 24.5g | 4.1g |
+| **Sugar** | 10.1g | 1.7g |
+| **Sodium** | 4005mg | 668mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3rVRrJkbyGQ)
