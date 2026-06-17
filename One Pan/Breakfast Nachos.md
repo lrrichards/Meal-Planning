@@ -37,3 +37,17 @@ ingredients:
 - Breakfast-for-dinner — works for breakfast, lunch, or dinner.
 - Not keto (tortilla chips).
 - Walmart "poor man's comfort food," cheap proteins (sausage, bacon, eggs).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1653 | 276 |
+| **Protein** | 74.8g | 12.5g |
+| **Fat** | 78.8g | 13.1g |
+| **Carbs** | 154.8g | 25.8g |
+| **Fiber** | 7.5g | 1.2g |
+| **Sugar** | 12.8g | 2.1g |
+| **Sodium** | 2778mg | 463mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
