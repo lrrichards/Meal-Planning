@@ -46,7 +46,6 @@ ingredients:
 
 - Comes fully loaded — bacon, cheese, and sour cream.
 - Not keto (potatoes).
-- Evan-safe (no tomatoes).
 - "Poor man's comfort food."
 
 ## Source
