@@ -39,3 +39,17 @@ ingredients:
 - This is a simplified Italian rosa sauce — tomato plus cream. Quick, elegant, meatless.
 - Add shrimp, sausage, or chicken for a protein version.
 - Pasta water is key — the starch helps the sauce cling to the pasta.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2203 | 551 |
+| **Protein** | 73.8g | 18.5g |
+| **Fat** | 88.2g | 22.1g |
+| **Carbs** | 279.2g | 69.8g |
+| **Fiber** | 16.3g | 4.1g |
+| **Sugar** | 19.4g | 4.8g |
+| **Sodium** | 975mg | 244mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
