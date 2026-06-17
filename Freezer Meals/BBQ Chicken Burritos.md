@@ -35,6 +35,20 @@ ingredients:
 - Inspired by a Texas brisket burrito — brisket works too if you have it.
 - **Filled in by Claude (not stated in video):** pepper/onion amount — video used "the rest of the bag" after the sheet pan meal and taco tray; ~1½ cups assumed.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1602 | 400 |
+| **Protein** | 84.0g | 21.0g |
+| **Fat** | 49.8g | 12.4g |
+| **Carbs** | 200.0g | 50.0g |
+| **Fiber** | 10.0g | 2.5g |
+| **Sugar** | 12.0g | 3.0g |
+| **Sodium** | 2384mg | 596mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
