@@ -14,9 +14,9 @@ ingredients:
 ## Ingredients
 
 - Keto Cheese Chaffle Bread (used as the pizza crust)
-- About 2 oz cream cheese, softened
+- 2 oz cream cheese
 - Shredded mozzarella or cheddar cheese
-- Cooked shredded pork (see Slow Cooker Pulled Pork)
+- 2 cups cooked shredded pork
 - Leftover vegetables (optional — spinach, zucchini, green onion)
 
 ## Instructions
@@ -30,3 +30,17 @@ ingredients:
 
 - Uses the chaffle bread as a low-carb pizza crust.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 194 | 48 |
+| **Protein** | 3.5g | 0.9g |
+| **Fat** | 19.2g | 4.8g |
+| **Carbs** | 2.3g | 0.6g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 2.2g | 0.5g |
+| **Sodium** | 182mg | 46mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
