@@ -28,7 +28,7 @@ ingredients:
 ## Notes
 
 - Keto / low-carb when you use no-bean chili.
-- **Contains chili (tomato-based) — not Evan-safe.**
+- **Contains chili (tomato-based) — contains tomatoes.**
 - A party/snack dip, not a full meal (so not tagged extreme-budget).
 - Aldi "poor man's comfort food," New Year's Eve edition.
 
