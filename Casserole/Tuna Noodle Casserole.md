@@ -40,3 +40,17 @@ ingredients:
 - Use the tuna's can water for moisture — nobody likes a dry casserole.
 - Not keto (egg noodles).
 - Dollar Tree "poor man's comfort food," a family dinner under $10.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1630 | 272 |
+| **Protein** | 161.5g | 26.9g |
+| **Fat** | 79.0g | 13.2g |
+| **Carbs** | 58.1g | 9.7g |
+| **Fiber** | 15.3g | 2.6g |
+| **Sugar** | 17.3g | 2.9g |
+| **Sodium** | 950mg | 158mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
