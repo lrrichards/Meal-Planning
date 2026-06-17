@@ -16,7 +16,7 @@ ingredients:
 ## Ingredients
 
 - 1 pack Hawaiian rolls (12 count)
-- Provolone cheese slices (enough for two layers)
+- 4 oz provolone cheese
 - 1 lb deli roast beef
 - 1 cup crispy French fried onions
 - 1 packet au jus mix + 1.5 cups water (for dipping)
@@ -50,12 +50,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1481 | 247 |
-| **Protein** | 94.2g | 15.7g |
-| **Fat** | 81.1g | 13.5g |
-| **Carbs** | 91.1g | 15.2g |
+| **Calories** | 1879 | 313 |
+| **Protein** | 123.2g | 20.5g |
+| **Fat** | 111.3g | 18.5g |
+| **Carbs** | 93.5g | 15.6g |
 | **Fiber** | 5.6g | 0.9g |
-| **Sugar** | 23.9g | 4.0g |
-| **Sodium** | 5555mg | 926mg |
+| **Sugar** | 24.5g | 4.1g |
+| **Sodium** | 6548mg | 1091mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
