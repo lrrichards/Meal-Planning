@@ -45,7 +45,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb white chili — no beans, no tomatoes.
-- **Evan-safe** — uses diced green chilies, not tomatoes.
 - Cream-heavy (heavy cream + parmesan + cream cheese), so not tagged extreme-budget.
 
 ## Source
