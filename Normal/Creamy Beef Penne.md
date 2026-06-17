@@ -47,6 +47,20 @@ ingredients:
 - Cream-heavy (1 cup heavy cream + cream cheese + sour cream), so not tagged extreme-budget despite the low per-serving cost — say the word to add it.
 - Follower (AMF1128) recipe.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 2751 | 550 |
+| **Protein** | 97.1g | 19.4g |
+| **Fat** | 248.8g | 49.8g |
+| **Carbs** | 35.7g | 7.1g |
+| **Fiber** | 0.4g | 0.1g |
+| **Sugar** | 21.0g | 4.2g |
+| **Sodium** | 1818mg | 364mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Bklkq9pncL4)
