@@ -44,3 +44,17 @@ ingredients:
 - Stir frequently toward the end — the rice can catch on the bottom.
 - Makes a huge batch — halve it for smaller households or double for a crowd.
 - Great meatless meal that's high in fiber and protein from the beans.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 3814 | 477 |
+| **Protein** | 216.4g | 27.1g |
+| **Fat** | 32.1g | 4.0g |
+| **Carbs** | 664.7g | 83.1g |
+| **Fiber** | 139.5g | 17.4g |
+| **Sugar** | 24.8g | 3.1g |
+| **Sodium** | 3359mg | 420mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
