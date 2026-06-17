@@ -52,3 +52,17 @@ ingredients:
 - Kids may prefer everything served separately on a plate rather than assembled as a salad.
 - Thawed frozen peas on a salad are underrated — worth trying.
 - Trader Joe's ranch seasoning is highly recommended if available.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 4415 | 1104 |
+| **Protein** | 288.8g | 72.2g |
+| **Fat** | 295.4g | 73.8g |
+| **Carbs** | 146.8g | 36.7g |
+| **Fiber** | 18.2g | 4.5g |
+| **Sugar** | 46.0g | 11.5g |
+| **Sodium** | 14576mg | 3644mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
