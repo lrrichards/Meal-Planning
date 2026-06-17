@@ -44,3 +44,17 @@ ingredients:
 - Red or green enchilada sauce are interchangeable — use whichever you prefer or have on hand.
 - Great for Taco Tuesday as an alternative to traditional tacos.
 - Makes ahead well — reheat in the microwave throughout the week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3833 | 639 |
+| **Protein** | 321.6g | 53.6g |
+| **Fat** | 128.8g | 21.5g |
+| **Carbs** | 339.0g | 56.5g |
+| **Fiber** | 70.4g | 11.7g |
+| **Sugar** | 11.5g | 1.9g |
+| **Sodium** | 3064mg | 511mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
