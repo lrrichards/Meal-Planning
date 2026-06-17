@@ -36,3 +36,17 @@ ingredients:
 - **Contains baked beans (tomato-based sauce) — contains tomatoes.**
 - Not keto (tater tots and beans).
 - Food for Less "poor man's comfort food," cheap closing-store haul.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 344 | 57 |
+| **Protein** | 13.9g | 2.3g |
+| **Fat** | 13.6g | 2.3g |
+| **Carbs** | 39.2g | 6.5g |
+| **Fiber** | 7.9g | 1.3g |
+| **Sugar** | 14.1g | 2.4g |
+| **Sodium** | 836mg | 139mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
