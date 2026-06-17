@@ -30,6 +30,20 @@ ingredients:
 - A whole chicken is cheap and makes a lot of meals, so tagged extreme-budget.
 - Distinct from Crack Chicken (that's ranch + bacon + cheddar; this is buffalo with hot sauce).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 209 | 35 |
+| **Protein** | 26.0g | 4.3g |
+| **Fat** | 10.9g | 1.8g |
+| **Carbs** | 0.0g | 0.0g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 0.0g | 0.0g |
+| **Sodium** | 88mg | 15mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qYb-mimnnAM)
