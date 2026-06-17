@@ -35,6 +35,20 @@ ingredients:
 - Distinct from [[Chicken Taco Rice]] (One Pot, chicken + raw rice) and [[Beef and Rice Skillet]] (Rotel + broccoli).
 - No filled-in amounts — video stated everything.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2930 | 732 |
+| **Protein** | 126.0g | 31.5g |
+| **Fat** | 11.0g | 2.7g |
+| **Carbs** | 588.5g | 147.1g |
+| **Fiber** | 77.6g | 19.4g |
+| **Sugar** | 20.6g | 5.2g |
+| **Sodium** | 1233mg | 308mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
