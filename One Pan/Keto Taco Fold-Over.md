@@ -34,7 +34,7 @@ ingredients:
 ## Notes
 
 - A keto tortilla fold-over taco — load it with queso and toppings.
-- **The tomato/Rotel toppings and the optional Mexican cauliflower rice are not Evan-safe** — leave those off for him; the taco meat and cheese are fine.
+- **The tomato/Rotel toppings and the optional Mexican cauliflower rice contain tomatoes** — the taco meat and cheese are fine without them.
 - Uses keto tortillas (specialty), so not tagged extreme-budget.
 
 ## Source
