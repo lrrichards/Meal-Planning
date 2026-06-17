@@ -28,7 +28,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: no tomato.
 - Different dish from [[Teriyaki Chicken and Rice]] (One Pot — from-scratch sauce, raw rice) and [[Teriyaki Chicken Fried Rice]] (one-pot freezer bag with eggs).
 - **Filled in by Claude (not stated in video):** cook time — video never stated it for this one; low 5 hr assumed to match the other slow cooker bags in the batch.
 
