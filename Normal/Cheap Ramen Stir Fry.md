@@ -17,7 +17,7 @@ ingredients:
 
 - 4 packets ramen noodles (any flavor — spicy and beef are a good mix)
 - ½ yellow onion, diced
-- Remaining frozen mixed vegetables (about half a bag)
+- 2 cups frozen mixed vegetables
 - 2 eggs
 - ¼ cup low sodium soy sauce
 
@@ -47,12 +47,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 701 | 175 |
-| **Protein** | 28.7g | 7.2g |
-| **Fat** | 29.8g | 7.4g |
-| **Carbs** | 79.0g | 19.7g |
-| **Fiber** | 4.6g | 1.1g |
-| **Sugar** | 4.3g | 1.1g |
-| **Sodium** | 4257mg | 1064mg |
+| **Calories** | 1013 | 253 |
+| **Protein** | 43.6g | 10.9g |
+| **Fat** | 30.7g | 7.7g |
+| **Carbs** | 140.9g | 35.2g |
+| **Fiber** | 21.8g | 5.5g |
+| **Sugar** | 20.1g | 5.0g |
+| **Sodium** | 4488mg | 1122mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
