@@ -49,3 +49,17 @@ ingredients:
 - Add the cheese off heat or very low heat to prevent it from breaking or becoming grainy.
 - Rotisserie chicken makes this a very fast prep — just shred and add.
 - This is a legitimately filling soup — the cream cheese, heavy cream, and pasta make it a meal.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 13935 | 3484 |
+| **Protein** | 1500.2g | 375.1g |
+| **Fat** | 743.2g | 185.8g |
+| **Carbs** | 223.0g | 55.7g |
+| **Fiber** | 18.2g | 4.5g |
+| **Sugar** | 23.4g | 5.8g |
+| **Sodium** | 6912mg | 1728mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
