@@ -39,7 +39,7 @@ ingredients:
 ## Notes
 
 - A cozy creamy tomato sausage tortellini soup for a cold night.
-- **Contains crushed tomatoes — not Evan-safe.**
+- **Contains crushed tomatoes — contains tomatoes.**
 - Distinct from Sausage Tortellini Skillet (a saucy skillet dish, no broth or cream) and the meatless tortellini soup (this one has sausage and a creamy tomato broth).
 - Not keto (tortellini).
 - "Poor man's comfort food," rainy day soup edition.
