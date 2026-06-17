@@ -29,12 +29,12 @@ ingredients:
 *Not counted: salt, pepper*
 
 **Sandwich assembly:**
-- Hoagie rolls
-- Yellow mustard
-- Mayonnaise
-- Dill pickles, sliced (colosseum/Claussen recommended)
-- Ham slices
-- Swiss cheese slices
+- 6 hoagie rolls
+- 2 tbsp yellow mustard
+- 1/4 cup mayonnaise
+- 4 oz dill pickle
+- 6 oz deli ham
+- 4 oz Swiss cheese
 
 ## Instructions
 
@@ -56,12 +56,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1038 | 173 |
-| **Protein** | 135.6g | 22.6g |
-| **Fat** | 50.2g | 8.4g |
-| **Carbs** | 0.0g | 0.0g |
-| **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 0.0g | 0.0g |
-| **Sodium** | 423mg | 70mg |
+| **Calories** | 3706 | 618 |
+| **Protein** | 246.0g | 41.0g |
+| **Fat** | 153.1g | 25.5g |
+| **Carbs** | 326.3g | 54.4g |
+| **Fiber** | 16.8g | 2.8g |
+| **Sugar** | 29.0g | 4.8g |
+| **Sodium** | 7631mg | 1272mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
