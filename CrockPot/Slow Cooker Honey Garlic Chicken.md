@@ -18,7 +18,7 @@ ingredients:
 - 1/2 cup ketchup
 - 1/2 cup low sodium soy sauce
 - 1/3 cup honey
-- White rice for serving
+- 2 cups white rice
 
 *Not counted: garlic*
 
@@ -41,12 +41,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 817 | 163 |
-| **Protein** | 42.4g | 8.5g |
-| **Fat** | 14.3g | 2.9g |
-| **Carbs** | 131.2g | 26.2g |
-| **Fiber** | 1.5g | 0.3g |
+| **Calories** | 1298 | 260 |
+| **Protein** | 52.4g | 10.5g |
+| **Fat** | 15.4g | 3.1g |
+| **Carbs** | 237.0g | 47.4g |
+| **Fiber** | 3.0g | 0.6g |
 | **Sugar** | 121.8g | 24.4g |
-| **Sodium** | 5769mg | 1154mg |
+| **Sodium** | 5772mg | 1154mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
