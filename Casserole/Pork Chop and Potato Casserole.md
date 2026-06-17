@@ -15,9 +15,9 @@ ingredients:
 
 ## Ingredients
 
-- Half a 5 lb bag russet potatoes, sliced thin
+- 2.5 lb potato
 - ½ yellow onion, diced
-- Half a bag (about 6 oz) frozen sweet peas
+- 6 oz peas
 - 1 can cream of mushroom soup (cream of chicken or celery also works)
 - 1 pork tenderloin, sliced into pork chop-thickness pieces
 - Half a can of water
@@ -47,12 +47,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 390 | 65 |
-| **Protein** | 27.1g | 4.5g |
-| **Fat** | 14.9g | 2.5g |
-| **Carbs** | 34.9g | 5.8g |
-| **Fiber** | 2.6g | 0.4g |
-| **Sugar** | 6.6g | 1.1g |
-| **Sodium** | 1747mg | 291mg |
+| **Calories** | 1401 | 234 |
+| **Protein** | 59.0g | 9.8g |
+| **Fat** | 16.7g | 2.8g |
+| **Carbs** | 258.0g | 43.0g |
+| **Fiber** | 36.3g | 6.0g |
+| **Sugar** | 25.3g | 4.2g |
+| **Sodium** | 1823mg | 304mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
