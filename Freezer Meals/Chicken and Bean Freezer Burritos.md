@@ -32,8 +32,8 @@ ingredients:
 
 ## Notes
 
-- **Not Evan-safe:** diced tomatoes. Leave the tomatoes out of a couple and label his.
-- Sub a can of Rotel for the diced tomatoes for more kick (also not Evan-safe).
+- **Contains tomatoes** — leave the tomatoes out of a couple if needed.
+- Sub a can of Rotel for the diced tomatoes for more kick (also contains tomatoes).
 - Great grab-and-go lunches.
 - **Filled in by Claude (not stated in video):** chicken amount (~2 cups assumed — video never measured it, just said "it's chicken, black beans, diced tomatoes").
 
