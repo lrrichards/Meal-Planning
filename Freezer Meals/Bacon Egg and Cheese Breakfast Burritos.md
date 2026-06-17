@@ -15,10 +15,10 @@ ingredients:
 
 ## Ingredients (makes 5 burritos)
 
-- ~8 eggs, scrambled and cooled
-- ~1 cup shredded cheese
-- ~½ cup pre-cooked bacon bits
-- Refried beans (a spoonful in some burritos — optional, label which ones)
+- 8 eggs
+- 1 cup shredded cheese
+- 1/2 cup bacon bits
+- 1/2 cup refried bean
 - 5 burrito-size flour tortillas
 
 ## Instructions
@@ -38,13 +38,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 1480 | 296 |
-| **Protein** | 40.0g | 8.0g |
-| **Fat** | 35.0g | 7.0g |
-| **Carbs** | 250.0g | 50.0g |
-| **Fiber** | 12.5g | 2.5g |
-| **Sugar** | 15.0g | 3.0g |
-| **Sodium** | 2760mg | 552mg |
+| **Calories** | 2973 | 595 |
+| **Protein** | 150.4g | 30.1g |
+| **Fat** | 135.8g | 27.2g |
+| **Carbs** | 279.3g | 55.9g |
+| **Fiber** | 19.7g | 3.9g |
+| **Sugar** | 20.6g | 4.1g |
+| **Sodium** | 5559mg | 1112mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
