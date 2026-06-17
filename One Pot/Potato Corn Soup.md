@@ -38,3 +38,17 @@ ingredients:
 - Add heavy cream to make it a chowder if you have it on hand.
 - Shredded cheese over the top takes it up a notch.
 - Real bacon or turkey bacon can replace bacon bits.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 1298 | 162 |
+| **Protein** | 36.6g | 4.6g |
+| **Fat** | 4.9g | 0.6g |
+| **Carbs** | 293.2g | 36.7g |
+| **Fiber** | 37.8g | 4.7g |
+| **Sugar** | 20.4g | 2.6g |
+| **Sodium** | 126mg | 16mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
