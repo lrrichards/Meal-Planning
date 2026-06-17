@@ -35,6 +35,20 @@ ingredients:
 - Distinct from Redneck Casserole (that one is franks + baked beans + tater tots).
 - Not keto (biscuits + BBQ sauce).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 2457 | 491 |
+| **Protein** | 103.5g | 20.7g |
+| **Fat** | 137.5g | 27.5g |
+| **Carbs** | 195.5g | 39.1g |
+| **Fiber** | 4.2g | 0.8g |
+| **Sugar** | 21.2g | 4.2g |
+| **Sodium** | 3302mg | 660mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=S7LXtFKl1IQ)
