@@ -43,5 +43,4 @@ ingredients:
 - Distinct from Steak Fajita Quesadillas — this is a layered, sealed crunch wrap with queso, a tostada, and sour cream inside.
 - Make extra steak for leftovers.
 - Not keto (tortilla + tostada).
-- Evan-safe (no tomatoes).
 - Cinco de Mayo "poor man's comfort food."
