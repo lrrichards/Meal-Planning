@@ -32,6 +32,5 @@ ingredients:
 ## Notes
 
 - Keto / low-carb — no tortillas, just chicken, peppers, onion, and cheese.
-- Evan-safe (no tomatoes).
 - Make your own fajita seasoning to control the flavor.
 - Trader Joe's "poor man's comfort food." Uses three cheeses, so left off the extreme-budget tag — say the word to add it.
