@@ -39,3 +39,17 @@ ingredients:
 - Stir frequently — the starch from the potatoes can stick to the bottom.
 - Pesto does all the flavor heavy lifting here — don't skip it.
 - Part of a $25 Walmart budget week — very affordable per serving.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 1496 | 299 |
+| **Protein** | 123.1g | 24.6g |
+| **Fat** | 61.3g | 12.3g |
+| **Carbs** | 109.3g | 21.9g |
+| **Fiber** | 14.2g | 2.8g |
+| **Sugar** | 7.6g | 1.5g |
+| **Sodium** | 735mg | 147mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
