@@ -27,3 +27,17 @@ ingredients:
 
 - If you have sugar-free barbecue sauce, mix some into the pork.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (1 servings) |
+|---|---:|---:|
+| **Calories** | 806 | 806 |
+| **Protein** | 50.0g | 50.0g |
+| **Fat** | 66.2g | 66.2g |
+| **Carbs** | 2.6g | 2.6g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 1.0g | 1.0g |
+| **Sodium** | 1242mg | 1242mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
