@@ -17,9 +17,9 @@ ingredients:
 
 - 1 lb ground pork (or ground turkey)
 - 1 small onion, diced
-- Sloppy joe sauce
+- 1 can sloppy joe sauce
 - 2 lbs tater tots
-- Shredded cheese
+- 1 cup shredded cheese
 
 ## Instructions
 
@@ -42,13 +42,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 3178 | 530 |
-| **Protein** | 102.4g | 17.1g |
-| **Fat** | 202.4g | 33.7g |
-| **Carbs** | 255.2g | 42.5g |
-| **Fiber** | 24.5g | 4.1g |
-| **Sugar** | 10.1g | 1.7g |
-| **Sodium** | 4005mg | 668mg |
+| **Calories** | 4148 | 691 |
+| **Protein** | 139.1g | 23.2g |
+| **Fat** | 241.9g | 40.3g |
+| **Carbs** | 369.3g | 61.5g |
+| **Fiber** | 27.9g | 4.7g |
+| **Sugar** | 70.1g | 11.7g |
+| **Sodium** | 7937mg | 1323mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
