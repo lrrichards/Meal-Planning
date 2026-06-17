@@ -39,3 +39,17 @@ ingredients:
 - Add sliced carrots and celery at the start for a more classic chicken noodle soup feel.
 - Kid-friendly and family-approved — one of those go-to cozy weeknight dinners.
 - Stores well in the fridge for leftovers.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 7021 | 1170 |
+| **Protein** | 856.3g | 142.7g |
+| **Fat** | 372.6g | 62.1g |
+| **Carbs** | 2.8g | 0.5g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 2.8g | 0.5g |
+| **Sodium** | 3106mg | 518mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
