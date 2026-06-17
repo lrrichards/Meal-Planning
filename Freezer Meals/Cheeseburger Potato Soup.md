@@ -36,7 +36,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: no tomato.
 - **Filled in by Claude (not stated in video):** cheddar amount at the end — video just said "add in my cheese"; 1 cup assumed. Cook time also assumed at low 5 hr to match the other bags.
 
 ## Source
