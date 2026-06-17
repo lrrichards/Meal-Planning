@@ -44,7 +44,7 @@ ingredients:
 ## Notes
 
 - A keto / low-carb take on marry me chicken — roasted cauliflower stands in for pasta.
-- **Contains tomato paste and sun-dried tomatoes — not Evan-safe.**
+- **Contains tomato paste and sun-dried tomatoes — contains tomatoes.**
 - Distinct from Marry Me Chicken Over Rice — this is the keto version over cauliflower.
 - Uses sun-dried tomatoes (a pricier ingredient), so not tagged extreme-budget.
 
