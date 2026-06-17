@@ -39,20 +39,20 @@ ingredients:
 - Budget keto — simple chicken, lemon, and oil.
 - Original recipe listed ~1 cup oil; scaled to ¼ cup for realistic per-serving nutrition (much of the marinade oil is discarded).
 
-## Source
-
-[Watch on YouTube](https://www.youtube.com/watch?v=el3qkJeLelM)
-
 ## Nutrition (Estimated)
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 2428 | 607 |
-| **Protein** | 237.2g | 59.3g |
-| **Fat** | 153.1g | 38.3g |
-| **Carbs** | 13.7g | 3.4g |
-| **Fiber** | 2.0g | 0.5g |
-| **Sugar** | 5.9g | 1.5g |
-| **Sodium** | 804mg | 201mg |
+| **Calories** | 2853 | 713 |
+| **Protein** | 238.2g | 59.5g |
+| **Fat** | 199.3g | 49.8g |
+| **Carbs** | 19.5g | 4.9g |
+| **Fiber** | 4.7g | 1.2g |
+| **Sugar** | 7.1g | 1.8g |
+| **Sodium** | 807mg | 202mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
+## Source
+
+[Watch on YouTube](https://www.youtube.com/watch?v=el3qkJeLelM)
