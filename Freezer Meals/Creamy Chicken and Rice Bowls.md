@@ -40,6 +40,20 @@ ingredients:
 - Season generously: the rice, broccoli, and cream-of base are bland without it, and freezing mutes flavor.
 - **Filled in by Claude (not stated in video):** seasoning blend amount (~1 tbsp — video shook it in). All food amounts were stated.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1544 | 386 |
+| **Protein** | 179.8g | 45.0g |
+| **Fat** | 74.1g | 18.5g |
+| **Carbs** | 37.5g | 9.4g |
+| **Fiber** | 12.5g | 3.1g |
+| **Sugar** | 14.4g | 3.6g |
+| **Sodium** | 762mg | 191mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
