@@ -35,3 +35,17 @@ ingredients:
 - If potatoes stick, add a small splash of water and stir immediately.
 - Taco seasoning does all the flavor work — no other spices needed.
 - Only 3 core ingredients.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 868 | 217 |
+| **Protein** | 93.5g | 23.4g |
+| **Fat** | 35.9g | 9.0g |
+| **Carbs** | 42.8g | 10.7g |
+| **Fiber** | 8.4g | 2.1g |
+| **Sugar** | 12.2g | 3.1g |
+| **Sodium** | 375mg | 94mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
