@@ -41,6 +41,20 @@ ingredients:
 - Keto / low-carb meal prep — makes about 7 bowls at roughly 890 calories each.
 - Cheap proteins (eggs, chicken) and vegetables; freezes well.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (7 servings) |
+|---|---:|---:|
+| **Calories** | 1395 | 199 |
+| **Protein** | 113.4g | 16.2g |
+| **Fat** | 95.4g | 13.6g |
+| **Carbs** | 9.9g | 1.4g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 9.9g | 1.4g |
+| **Sodium** | 1116mg | 159mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IsWfthiSN_c)
