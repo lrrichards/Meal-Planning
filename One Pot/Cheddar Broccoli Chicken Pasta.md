@@ -38,3 +38,17 @@ ingredients:
 - The broth + cream combo is what makes this rich — don't substitute with water.
 - Mozzarella is optional but worth it.
 - Tastes like it took much longer than it did.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 3833 | 958 |
+| **Protein** | 343.6g | 85.9g |
+| **Fat** | 256.8g | 64.2g |
+| **Carbs** | 25.4g | 6.4g |
+| **Fiber** | 5.9g | 1.5g |
+| **Sugar** | 12.1g | 3.0g |
+| **Sodium** | 2428mg | 607mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
