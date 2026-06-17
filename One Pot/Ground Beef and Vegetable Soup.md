@@ -49,3 +49,17 @@ ingredients:
 - Great for when someone in the house is under the weather — very nourishing and filling.
 - Use whatever frozen or fresh vegetables you have on hand — this recipe is very forgiving.
 - Tastes even better the next day after the flavors have had time to meld.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 2419 | 302 |
+| **Protein** | 144.9g | 18.1g |
+| **Fat** | 99.1g | 12.4g |
+| **Carbs** | 262.7g | 32.8g |
+| **Fiber** | 84.6g | 10.6g |
+| **Sugar** | 108.7g | 13.6g |
+| **Sodium** | 6613mg | 827mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
