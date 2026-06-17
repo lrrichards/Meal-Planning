@@ -48,6 +48,20 @@ ingredients:
 - Not keto (potatoes).
 - "Poor man's comfort food."
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1221 | 204 |
+| **Protein** | 33.8g | 5.6g |
+| **Fat** | 83.5g | 13.9g |
+| **Carbs** | 94.1g | 15.7g |
+| **Fiber** | 2.0g | 0.3g |
+| **Sugar** | 36.1g | 6.0g |
+| **Sodium** | 659mg | 110mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Vs9lxbAD8c8)
