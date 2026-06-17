@@ -14,11 +14,11 @@ ingredients:
 
 ## Ingredients
 
-- Keto bread (gluten-free options like Carbonaut or Base Culture if you can find them)
+- 4 slices keto bread
 - 1/2 avocado
 - Everything bagel seasoning (or salt)
-- Smoked salmon
-- Capers
+- 4 oz smoked salmon
+- 2 tbsp capers
 - Egg (optional, for extra protein)
 
 ## Instructions
@@ -37,13 +37,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (1 servings) |
 |---|---:|---:|
-| **Calories** | 120 | 120 |
-| **Protein** | 1.5g | 1.5g |
-| **Fat** | 11.0g | 11.0g |
-| **Carbs** | 6.4g | 6.4g |
-| **Fiber** | 5.0g | 5.0g |
-| **Sugar** | 0.5g | 0.5g |
-| **Sodium** | 5mg | 5mg |
+| **Calories** | 515 | 515 |
+| **Protein** | 37.2g | 37.2g |
+| **Fat** | 30.5g | 30.5g |
+| **Carbs** | 28.0g | 28.0g |
+| **Fiber** | 16.1g | 16.1g |
+| **Sugar** | 1.8g | 1.8g |
+| **Sodium** | 2119mg | 2119mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
