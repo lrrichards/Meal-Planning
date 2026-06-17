@@ -35,7 +35,6 @@ ingredients:
 
 - True one-sheet-pan dinner; makes a lot of leftovers.
 - Not keto (pierogis).
-- Evan-safe (no tomatoes).
 - "Poor man's comfort food," cheap and super easy.
 
 ## Source
