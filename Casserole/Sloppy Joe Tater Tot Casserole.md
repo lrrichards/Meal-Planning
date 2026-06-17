@@ -33,7 +33,7 @@ ingredients:
 ## Notes
 
 - Meat, cheese, potatoes, and sauce — a formula that always works.
-- **Contains sloppy joe sauce (tomato-based) — not Evan-safe.**
+- **Contains sloppy joe sauce (tomato-based) — contains tomatoes.**
 - Distinct from Redneck Casserole (franks + baked beans) and Sloppy Joe Biscuit Balls (beef in biscuits).
 - Not keto (tater tots + sauce).
 - Walmart "poor man's comfort food."
