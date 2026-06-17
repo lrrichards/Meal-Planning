@@ -1,7 +1,7 @@
 # Recipes — Agent Context
 
 ## What This Folder Is
-Individual recipe notes, plus two Dataview index notes for browsing and ingredient overlap analysis.
+Individual recipe notes, plus index and reference files for browsing, ingredient analysis, and nutrition tracking.
 
 ## Folder Structure
 
@@ -10,6 +10,7 @@ Recipes/
 ├── CLAUDE.md              ← You are here
 ├── Recipe Index.md        ← Dataview table of all recipes, grouped by cooking method
 ├── Ingredient Overlap.md  ← DataviewJS: shows ingredients shared across 2+ recipes
+├── Nutrition Reference.md ← Per-ingredient nutrition facts and diet compatibility (see below)
 ├── Casserole/             ← Recipes baked in a casserole dish
 │   └── READ ME.md
 ├── CrockPot/              ← Slow cooker recipes
@@ -41,6 +42,46 @@ Recipes/
                               Definition broadened 2026-06-09 (was slow-cooker-only). Cook equipment
                               goes in tags (crockpot, casserole, one-pot, sheet-pan, microwave, air-fryer).
 ```
+
+## Nutrition Reference.md
+
+`Nutrition Reference.md` is a master lookup table of every distinct ingredient used across all recipes. It exists so that recipe nutrition can be calculated without re-researching common ingredients each time.
+
+### What it contains
+Each row has: **Ingredient · Unit · Calories · Protein · Fat · Carbs · Fiber · Sugar · Sodium · Diets**
+
+### Unit conventions
+- **Bulk ingredients** (proteins, produce, dairy, beans, pasta, canned goods, sauces used in quantity): **per 100g**
+- **Seasonings, spice blends, dry mixes** (taco seasoning, garlic powder, ranch, etc.): **per 1 tsp**
+- **Liquid condiments and small-use items** (soy sauce, olive oil, butter, honey, vinegars, mustard, tomato paste, etc.): **per 1 tbsp**
+- **Packet seasonings** (au jus, onion soup mix used as a packet): **per 1 packet**
+
+### Diet tag key
+| Tag | Meaning |
+|---|---|
+| K | Keto (very low net carbs — no grains, beans, sugar, starchy veg) |
+| LC | Low-Carb (broadly reduced carbs, less strict than keto) |
+| P | Paleo (no grains, legumes, dairy, or refined sugar) |
+| W30 | Whole30 (no grains, legumes, dairy, added sugar, or processed food) |
+| VG | Vegetarian (no meat, poultry, or seafood) |
+| VN | Vegan (no animal products) |
+| GF | Gluten-Free |
+| DF | Dairy-Free |
+
+### Rules for updating Nutrition Reference.md
+**Whenever a new recipe is added, check every ingredient in its frontmatter `ingredients:` list against Nutrition Reference.md. For any ingredient not already present:**
+
+1. Determine the correct unit (see Unit conventions above)
+2. Look up nutrition values (USDA FoodData Central or typical product average for branded items)
+3. Determine which diet tags apply using the diet definitions above
+4. Add a new row to Nutrition Reference.md in alphabetical order
+5. Use the same ingredient name format as the frontmatter (lowercase, singular)
+
+**Do NOT add duplicate rows.** Before adding, scan the file for the ingredient — near-duplicates like "frozen broccoli" and "broccoli" consolidate to one entry ("broccoli"). Apply the same consolidation logic used throughout the file (fresh/frozen/canned variants of the same vegetable = one row; different cuts of the same meat = one row per cut if nutritionally distinct).
+
+**Do NOT edit existing rows** unless correcting a clear error. Existing values are already established baselines.
+
+---
 
 ## Recipe Note Format
 
@@ -162,8 +203,11 @@ Apply this tag to ALL recipes — not just new ones from transcripts. If an exis
 - If the transcript skips a detail, make a reasonable note rather than guessing silently.
 - **Filled-in amounts:** when a source never states an amount/time, fill in a sensible default but flag it in the recipe's Notes under a bold line: `**Filled in by Claude (not stated in video):** ...` (one line listing what was assumed and why). If nothing was assumed, write `No filled-in amounts — video stated everything.` This lets the user spot and adjust guesses after cooking. Convention started 2026-06-09; the per-recipe flags are the source of truth, with a session-level registry in `Meal Planning/CLAUDE.md`.
 
+### Step 4b — Update Nutrition Reference.md
+After writing the recipe note, check each ingredient in the frontmatter `ingredients:` list against `Nutrition Reference.md`. For any ingredient not already in the file, add a new row following the rules in the **Nutrition Reference.md** section above.
+
 ### Step 5 — After all recipes are created
-- Report back: list each recipe, which folder it went in, and the ingredient count.
+- Report back: list each recipe, which folder it went in, the ingredient count, and any new ingredients added to Nutrition Reference.md.
 - Do NOT update Recipe Index.md or Ingredient Overlap.md — Dataview handles those automatically.
 - Update this CLAUDE.md only if a new folder was added.
 
@@ -172,3 +216,4 @@ Apply this tag to ALL recipes — not just new ones from transcripts. If an exis
 - Ingredient consistency across all recipes is critical — the Ingredient Overlap tool matches on exact string
 - If a new cooking method comes up that has no folder, ask the user before creating one
 - Update this CLAUDE.md if new folders or method values are added
+- Always keep Nutrition Reference.md current — every new ingredient that appears in a recipe frontmatter must have a row in that file
