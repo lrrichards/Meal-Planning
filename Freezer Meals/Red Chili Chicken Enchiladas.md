@@ -33,7 +33,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: enchilada sauce is smooth.
 - Serve with refried beans, corn, or beans heated on the side. Makes leftovers.
 - Bulk up by adding a can of beans or corn to the filling.
 - **Filled in by Claude (not stated in video):** tortilla count (~8 assumed — video rolled "until done" without counting); taco seasoning amount (1 tbsp assumed — video said "some").
