@@ -44,3 +44,17 @@ ingredients:
 - The cold, dressed grinder salad over the hot baked meat and cheese is what makes it.
 - Not keto (bread).
 - All deli meat, so not tagged extreme-budget (per the recipe-folder budget rule).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 275 | 69 |
+| **Protein** | 9.0g | 2.2g |
+| **Fat** | 3.5g | 0.9g |
+| **Carbs** | 52.0g | 13.0g |
+| **Fiber** | 2.5g | 0.6g |
+| **Sugar** | 4.0g | 1.0g |
+| **Sodium** | 510mg | 128mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
