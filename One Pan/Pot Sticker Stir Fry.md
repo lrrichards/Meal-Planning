@@ -38,6 +38,20 @@ ingredients:
 - Distinct from Pot Sticker Chicken Alfredo Carbonara (that's a creamy pasta dish) — this is an Asian stir fry.
 - "Poor man's comfort food."
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 861 | 215 |
+| **Protein** | 36.3g | 9.1g |
+| **Fat** | 21.6g | 5.4g |
+| **Carbs** | 128.7g | 32.2g |
+| **Fiber** | 16.8g | 4.2g |
+| **Sugar** | 18.9g | 4.7g |
+| **Sodium** | 1614mg | 404mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hRsqH7A2kyo)
