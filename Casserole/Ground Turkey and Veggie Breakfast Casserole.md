@@ -39,3 +39,17 @@ ingredients:
 - Makes a huge amount — fills a baking dish and feeds a family of 4–5 with leftovers.
 - Good for breakfast-for-dinner nights and great as leftover breakfast the next morning.
 - Swap frozen mixed vegetables for any vegetables you have on hand.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1113 | 185 |
+| **Protein** | 106.3g | 17.7g |
+| **Fat** | 70.5g | 11.7g |
+| **Carbs** | 5.5g | 0.9g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 5.5g | 0.9g |
+| **Sodium** | 792mg | 132mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
