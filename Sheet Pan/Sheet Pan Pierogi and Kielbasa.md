@@ -37,6 +37,20 @@ ingredients:
 - Not keto (pierogis).
 - "Poor man's comfort food," cheap and super easy.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 344 | 57 |
+| **Protein** | 10.2g | 1.7g |
+| **Fat** | 6.1g | 1.0g |
+| **Carbs** | 64.2g | 10.7g |
+| **Fiber** | 4.9g | 0.8g |
+| **Sugar** | 7.6g | 1.3g |
+| **Sodium** | 649mg | 108mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=H3Yhv1--UVs)
