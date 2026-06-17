@@ -19,16 +19,16 @@ ingredients:
 ## Ingredients
 
 - 1 box chicken stock (use 2 for a double batch)
-- Pastina or other tiny pasta (alphabet pasta works)
+- 1 cup pastina
 - 1 sweet onion, chopped
-- Carrots, chopped
-- Celery, chopped (about half a bunch)
-- Garlic (about 1 tsp, or fresh)
+- 2 carrots
+- 3 stalks celery
+- 3 cloves garlic
 - 4 tbsp butter
 - Turmeric (the "magic" ingredient)
-- Garlic salt
-- Parmesan cheese
-- A splash of heavy cream (optional)
+- 3 cloves garlic
+- 1/4 cup parmesan cheese
+- 2 tbsp heavy cream
 
 ## Instructions
 
@@ -49,13 +49,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 660 | 165 |
-| **Protein** | 27.7g | 6.9g |
-| **Fat** | 57.0g | 14.3g |
-| **Carbs** | 10.3g | 2.6g |
-| **Fiber** | 1.9g | 0.5g |
-| **Sugar** | 4.7g | 1.2g |
-| **Sodium** | 457mg | 114mg |
+| **Calories** | 1840 | 460 |
+| **Protein** | 71.9g | 18.0g |
+| **Fat** | 80.0g | 20.0g |
+| **Carbs** | 206.9g | 51.7g |
+| **Fiber** | 14.0g | 3.5g |
+| **Sugar** | 14.7g | 3.7g |
+| **Sodium** | 1025mg | 256mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
