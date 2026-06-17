@@ -41,3 +41,17 @@ ingredients:
 - French onion dip is the shortcut that makes this taste like it simmered for hours.
 - Add the fried onion topping only in the last 10 minutes to keep them crispy.
 - This is a great potluck dish — travels well and holds heat.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3571 | 595 |
+| **Protein** | 224.2g | 37.4g |
+| **Fat** | 237.6g | 39.6g |
+| **Carbs** | 135.0g | 22.5g |
+| **Fiber** | 16.5g | 2.7g |
+| **Sugar** | 29.9g | 5.0g |
+| **Sodium** | 5764mg | 961mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
