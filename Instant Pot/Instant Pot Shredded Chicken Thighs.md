@@ -32,3 +32,17 @@ ingredients:
 - A cheap protein base for the keto week — feeds chicken salad, chicken and cauliflower rice soup, and creamy chicken casserole.
 - Frozen thighs in the bag are cheaper than fresh.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 502 | 84 |
+| **Protein** | 62.4g | 10.4g |
+| **Fat** | 26.2g | 4.4g |
+| **Carbs** | 0.0g | 0.0g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 0.0g | 0.0g |
+| **Sodium** | 211mg | 35mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
