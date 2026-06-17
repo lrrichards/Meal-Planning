@@ -20,7 +20,7 @@ ingredients:
 - 1 packet taco seasoning
 - A little water
 - 1 can Rotel (mild or spicy)
-- Shredded cheese (a generous amount)
+- 1 cup shredded cheese
 
 ## Instructions
 
@@ -41,13 +41,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1281 | 214 |
-| **Protein** | 83.5g | 13.9g |
-| **Fat** | 90.8g | 15.1g |
-| **Carbs** | 27.2g | 4.5g |
+| **Calories** | 1737 | 289 |
+| **Protein** | 111.7g | 18.6g |
+| **Fat** | 128.2g | 21.4g |
+| **Carbs** | 28.7g | 4.8g |
 | **Fiber** | 6.1g | 1.0g |
-| **Sugar** | 13.1g | 2.2g |
-| **Sodium** | 1946mg | 324mg |
+| **Sugar** | 13.7g | 2.3g |
+| **Sodium** | 2648mg | 441mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
