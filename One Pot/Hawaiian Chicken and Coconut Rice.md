@@ -49,3 +49,17 @@ ingredients:
 - The marinade + the browned bits scraped off the pan make the rice incredibly flavorful.
 - Pineapple flavor is mild, not overpowering — the coconut milk mellows everything out.
 - Marinating overnight = best results.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 1265 | 253 |
+| **Protein** | 67.7g | 13.5g |
+| **Fat** | 26.7g | 5.3g |
+| **Carbs** | 189.9g | 38.0g |
+| **Fiber** | 6.0g | 1.2g |
+| **Sugar** | 102.7g | 20.5g |
+| **Sodium** | 2395mg | 479mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
