@@ -39,3 +39,17 @@ ingredients:
 - Low and slow produces the most tender results — resist the urge to cook on HIGH.
 - The combination of ranch, brown gravy, and Italian dressing packets is a classic pot roast shortcut — adds layered flavor with no measuring.
 - Leftovers are excellent for tacos, sandwiches, or over mashed potatoes.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1299 | 216 |
+| **Protein** | 87.5g | 14.6g |
+| **Fat** | 40.8g | 6.8g |
+| **Carbs** | 147.1g | 24.5g |
+| **Fiber** | 24.0g | 4.0g |
+| **Sugar** | 25.2g | 4.2g |
+| **Sodium** | 1319mg | 220mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
