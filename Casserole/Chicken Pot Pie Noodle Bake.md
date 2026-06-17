@@ -50,7 +50,6 @@ ingredients:
 - Rotisserie chicken keeps it quick.
 - Distinct from the stovetop Creamy Chicken and Egg Noodles — this is baked with pot-pie veg (celery, corn) and a crumb topping.
 - Not keto (egg noodles).
-- Evan-safe (no tomatoes).
 - Cream-heavy (2 cups), so not tagged extreme-budget.
 
 ## Source
