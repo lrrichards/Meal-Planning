@@ -34,3 +34,17 @@ ingredients:
 - This recipe is light on fat — stir in shredded cheese, cream cheese, butter, or a drizzle of oil to add richness.
 - Make ahead and reheat to serve.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 147 | 24 |
+| **Protein** | 10.1g | 1.7g |
+| **Fat** | 1.6g | 0.3g |
+| **Carbs** | 30.1g | 5.0g |
+| **Fiber** | 10.9g | 1.8g |
+| **Sugar** | 11.8g | 2.0g |
+| **Sodium** | 152mg | 25mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
