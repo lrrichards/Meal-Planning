@@ -46,3 +46,17 @@ ingredients:
 - Skip sun-dried tomatoes if not a fan — the casserole still works without them.
 - Skip peas or swap for another frozen veggie.
 - Chilled rotisserie chicken from the store (day-old, heavily discounted) is a great budget option for the shredded chicken.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 3538 | 442 |
+| **Protein** | 231.2g | 28.9g |
+| **Fat** | 121.5g | 15.2g |
+| **Carbs** | 380.4g | 47.5g |
+| **Fiber** | 82.4g | 10.3g |
+| **Sugar** | 115.9g | 14.5g |
+| **Sodium** | 4108mg | 514mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
