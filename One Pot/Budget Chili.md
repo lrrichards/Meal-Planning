@@ -16,7 +16,7 @@ ingredients:
 
 ## Ingredients
 
-- Small amount of yellow onion, diced
+- 1/2 onion
 - ½ lb ground turkey (or ground beef)
 - 28 oz canned diced tomatoes (Italian style with garlic and oregano preferred)
 - 1 can (6 oz) tomato paste
@@ -49,12 +49,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (8 servings) |
 |---|---:|---:|
-| **Calories** | 1646 | 206 |
-| **Protein** | 116.3g | 14.5g |
+| **Calories** | 1668 | 209 |
+| **Protein** | 117.0g | 14.6g |
 | **Fat** | 29.4g | 3.7g |
-| **Carbs** | 241.2g | 30.2g |
-| **Fiber** | 67.8g | 8.5g |
-| **Sugar** | 51.2g | 6.4g |
-| **Sodium** | 3645mg | 456mg |
+| **Carbs** | 246.3g | 30.8g |
+| **Fiber** | 68.7g | 8.6g |
+| **Sugar** | 53.6g | 6.7g |
+| **Sodium** | 3648mg | 456mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
