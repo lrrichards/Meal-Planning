@@ -37,6 +37,20 @@ ingredients:
 - Keto / low-carb pizza rollups — a TikTok-inspired snack or quick meal.
 - Uses keto bread (specialty), so not tagged extreme-budget.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (2 servings) |
+|---|---:|---:|
+| **Calories** | 208 | 104 |
+| **Protein** | 0.5g | 0.3g |
+| **Fat** | 23.0g | 11.5g |
+| **Carbs** | 1.0g | 0.5g |
+| **Fiber** | 0.2g | 0.1g |
+| **Sugar** | 0.1g | 0.0g |
+| **Sodium** | 183mg | 92mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sP58I6OC3Y4)
