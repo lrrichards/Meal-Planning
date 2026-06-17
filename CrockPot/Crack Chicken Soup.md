@@ -39,7 +39,6 @@ ingredients:
 ## Notes
 
 - Crack chicken in soup form — ranch and bacon flavor. Keto / low-carb.
-- Evan-safe (no tomatoes).
 - Distinct from Crack Chicken (this is the brothy soup version).
 - Budget keto — cheap chicken base; uses cream cheese (not heavy cream).
 
