@@ -45,3 +45,17 @@ ingredients:
 - Keep chili beans undrained — that liquid is part of the sauce.
 - Tomato paste tip: open both ends of the can and push one lid through to get all the paste out cleanly.
 - Fully meatless but still hearty — beans carry the protein load.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 3083 | 385 |
+| **Protein** | 180.6g | 22.6g |
+| **Fat** | 15.4g | 1.9g |
+| **Carbs** | 573.1g | 71.6g |
+| **Fiber** | 112.9g | 14.1g |
+| **Sugar** | 56.2g | 7.0g |
+| **Sodium** | 5419mg | 677mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
