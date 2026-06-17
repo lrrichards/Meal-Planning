@@ -39,6 +39,20 @@ ingredients:
 - No-bake — just sets on the counter.
 - "Poor man's comfort food," holiday party dessert edition.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (12 servings) |
+|---|---:|---:|
+| **Calories** | 3897 | 325 |
+| **Protein** | 45.6g | 3.8g |
+| **Fat** | 122.4g | 10.2g |
+| **Carbs** | 681.1g | 56.8g |
+| **Fiber** | 1.5g | 0.1g |
+| **Sugar** | 530.8g | 44.2g |
+| **Sodium** | 1868mg | 156mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wmkMLe8EaMo)
