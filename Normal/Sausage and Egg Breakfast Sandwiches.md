@@ -16,7 +16,7 @@ ingredients:
 
 - 1 package sweet rolls (Hawaiian-style)
 - 12 eggs
-- Colby Jack cheese, sliced
+- 4 oz Colby Jack cheese
 - 1 package sausage links
 - Salt and pepper
 
@@ -38,12 +38,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1574 | 262 |
-| **Protein** | 95.6g | 15.9g |
-| **Fat** | 101.6g | 16.9g |
-| **Carbs** | 64.1g | 10.7g |
+| **Calories** | 2021 | 337 |
+| **Protein** | 121.7g | 20.3g |
+| **Fat** | 137.9g | 23.0g |
+| **Carbs** | 66.4g | 11.1g |
 | **Fiber** | 1.5g | 0.2g |
-| **Sugar** | 25.1g | 4.2g |
-| **Sodium** | 1842mg | 307mg |
+| **Sugar** | 25.7g | 4.3g |
+| **Sodium** | 2539mg | 423mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
