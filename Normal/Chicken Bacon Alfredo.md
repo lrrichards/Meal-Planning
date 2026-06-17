@@ -16,7 +16,7 @@ ingredients:
 ## Ingredients
 
 - 1.5 lbs chicken breast (rotisserie works great as a shortcut)
-- Bacon strips (to taste — about 6)
+- 6 slices bacon
 - 14 oz pasta (any shape)
 - 3 cups heavy cream
 - 3/4 cup Parmesan cheese
@@ -46,12 +46,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 5848 | 975 |
-| **Protein** | 291.7g | 48.6g |
-| **Fat** | 375.1g | 62.5g |
-| **Carbs** | 319.9g | 53.3g |
+| **Calories** | 6757 | 1126 |
+| **Protein** | 353.9g | 59.0g |
+| **Fat** | 445.6g | 74.3g |
+| **Carbs** | 322.3g | 53.7g |
 | **Fiber** | 12.7g | 2.1g |
 | **Sugar** | 23.1g | 3.9g |
-| **Sodium** | 2243mg | 374mg |
+| **Sodium** | 5127mg | 855mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
