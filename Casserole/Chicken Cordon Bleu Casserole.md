@@ -35,5 +35,4 @@ ingredients:
 
 - A Facebook/AI cordon bleu casserole — chicken, ham, and Swiss with a crispy panko top.
 - **Low-carb, not strict keto** — only the panko topping adds carbs. Swap the panko for crushed pork rinds and it becomes keto.
-- Evan-safe (no tomatoes).
 - Aldi "poor man's comfort food," about a $15 dinner — above the extreme-budget range, so not tagged extreme-budget.
