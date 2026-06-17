@@ -46,3 +46,17 @@ ingredients:
 - Skip the heavy cream for a lighter version — the flour still gives it a nice body.
 - Use smaller egg noodles for a kid-friendly texture; larger noodles work too.
 - See also: Creamy Chicken and Egg Noodles (Normal/ folder) — a related pasta dish without the flour thickener.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 6898 | 1150 |
+| **Protein** | 604.9g | 100.8g |
+| **Fat** | 448.6g | 74.8g |
+| **Carbs** | 80.1g | 13.3g |
+| **Fiber** | 10.8g | 1.8g |
+| **Sugar** | 33.6g | 5.6g |
+| **Sodium** | 2831mg | 472mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
