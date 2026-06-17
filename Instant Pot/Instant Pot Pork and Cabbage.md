@@ -15,11 +15,11 @@ ingredients:
 
 ## Ingredients
 
-- About 2 lb thin-cut boneless pork chops
+- 2 lb pork chop
 - 1/2 head cabbage, cored and thinly sliced
 - 1 can (14.5 oz) diced tomatoes, juice and all
 - 1 cup bone broth or water
-- Bacon grease, for searing
+- 1 tbsp butter
 - Old Bay seasoning
 - 2 tsp – 1 tbsp apple cider vinegar
 
@@ -42,12 +42,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 158 | 40 |
-| **Protein** | 9.5g | 2.4g |
-| **Fat** | 1.6g | 0.4g |
+| **Calories** | 2355 | 589 |
+| **Protein** | 236.4g | 59.1g |
+| **Fat** | 140.1g | 35.0g |
 | **Carbs** | 32.4g | 8.1g |
 | **Fiber** | 11.3g | 2.8g |
 | **Sugar** | 19.8g | 5.0g |
-| **Sodium** | 960mg | 240mg |
+| **Sodium** | 1622mg | 406mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
