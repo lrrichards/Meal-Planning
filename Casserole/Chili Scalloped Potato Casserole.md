@@ -37,3 +37,17 @@ ingredients:
 - **Contains chili (tomato-based) — contains tomatoes.**
 - Not keto (potatoes).
 - "Poor man's comfort food" follower edition.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 410 | 68 |
+| **Protein** | 17.5g | 2.9g |
+| **Fat** | 6.1g | 1.0g |
+| **Carbs** | 72.8g | 12.1g |
+| **Fiber** | 14.1g | 2.4g |
+| **Sugar** | 19.4g | 3.2g |
+| **Sodium** | 225mg | 37mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
