@@ -28,7 +28,7 @@ ingredients:
 - 1 cup brown sugar
 - 1 tbsp real vanilla
 - 4 eggs
-- Powdered sugar, for rolling
+- 1/2 cup powdered sugar
 
 ## Instructions
 
@@ -51,12 +51,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (24 servings) |
 |---|---:|---:|
-| **Calories** | 5257 | 219 |
+| **Calories** | 5646 | 235 |
 | **Protein** | 104.4g | 4.4g |
 | **Fat** | 275.7g | 11.5g |
-| **Carbs** | 720.9g | 30.0g |
+| **Carbs** | 820.9g | 34.2g |
 | **Fiber** | 88.1g | 3.7g |
-| **Sugar** | 403.5g | 16.8g |
-| **Sodium** | 1434mg | 60mg |
+| **Sugar** | 501.1g | 20.9g |
+| **Sodium** | 1436mg | 60mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
