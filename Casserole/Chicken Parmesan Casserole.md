@@ -41,3 +41,17 @@ ingredients:
 - Adding water to the sauce is key — the pasta absorbs liquid as it cooks, so it needs extra.
 - Panko gives the classic Chicken Parm crunch without frying anything.
 - Check pasta is cooked through before removing foil — if not, give it another 5 minutes covered.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 7666 | 1278 |
+| **Protein** | 521.4g | 86.9g |
+| **Fat** | 217.6g | 36.3g |
+| **Carbs** | 865.4g | 144.2g |
+| **Fiber** | 37.2g | 6.2g |
+| **Sugar** | 18.5g | 3.1g |
+| **Sodium** | 6304mg | 1051mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
