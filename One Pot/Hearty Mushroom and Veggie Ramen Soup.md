@@ -44,3 +44,17 @@ ingredients:
 - Swap in any veggies you have on hand — this is very flexible.
 - Add sliced pork or chicken to make it non-meatless.
 - Only 1 of the 2 seasoning packets is used — save the other for another recipe.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 719 | 180 |
+| **Protein** | 44.1g | 11.0g |
+| **Fat** | 16.0g | 4.0g |
+| **Carbs** | 116.7g | 29.2g |
+| **Fiber** | 26.4g | 6.6g |
+| **Sugar** | 31.8g | 7.9g |
+| **Sodium** | 7415mg | 1854mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
