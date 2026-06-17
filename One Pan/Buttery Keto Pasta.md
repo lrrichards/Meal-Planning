@@ -13,9 +13,9 @@ ingredients:
 
 ## Ingredients
 
-- Low-carb noodles (shirataki / Palmini-style, about 1 net carb per serving)
+- 8 oz shirataki noodles
 - Butter
-- Parsley
+- 2 tbsp parsley
 - Salt
 
 ## Instructions
