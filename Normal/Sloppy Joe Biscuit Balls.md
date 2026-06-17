@@ -19,7 +19,7 @@ ingredients:
 - 1 can biscuits
 - 1 lb ground beef
 - 1 onion, diced
-- Shredded cheese
+- 1 cup shredded cheese
 - 1/3 cup ketchup
 - 1/3 cup sour cream
 - Parsley, garlic salt
@@ -45,13 +45,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 2738 | 685 |
-| **Protein** | 107.7g | 26.9g |
-| **Fat** | 152.6g | 38.2g |
-| **Carbs** | 230.1g | 57.5g |
+| **Calories** | 3194 | 798 |
+| **Protein** | 135.9g | 34.0g |
+| **Fat** | 190.0g | 47.5g |
+| **Carbs** | 231.5g | 57.9g |
 | **Fiber** | 6.4g | 1.6g |
-| **Sugar** | 46.8g | 11.7g |
-| **Sodium** | 4235mg | 1059mg |
+| **Sugar** | 47.3g | 11.8g |
+| **Sodium** | 4936mg | 1234mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
