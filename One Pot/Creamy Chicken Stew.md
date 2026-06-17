@@ -42,3 +42,17 @@ ingredients:
 
 - Cream- and cheese-forward, so not tagged extreme-budget despite the cheap chicken.
 - From a $70/week keto-on-a-budget week (2 people, 7 days).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1017 | 254 |
+| **Protein** | 52.1g | 13.0g |
+| **Fat** | 63.7g | 15.9g |
+| **Carbs** | 62.2g | 15.6g |
+| **Fiber** | 15.2g | 3.8g |
+| **Sugar** | 40.9g | 10.2g |
+| **Sodium** | 2847mg | 712mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
