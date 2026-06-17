@@ -49,3 +49,17 @@ ingredients:
 - Chicken thighs preferred — they stay juicier than breasts during long slow cooker sessions.
 - Frozen chicken is actually easier to work with for freezer meals — already frozen, stays cleaner.
 - Coleslaw on a sandwich with this chicken is the classic serving method.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1655 | 276 |
+| **Protein** | 140.4g | 23.4g |
+| **Fat** | 57.2g | 9.5g |
+| **Carbs** | 137.5g | 22.9g |
+| **Fiber** | 2.8g | 0.5g |
+| **Sugar** | 119.7g | 19.9g |
+| **Sodium** | 3190mg | 532mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
