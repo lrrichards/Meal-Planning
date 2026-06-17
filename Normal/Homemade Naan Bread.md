@@ -20,8 +20,8 @@ ingredients:
 
 **Optional garlic butter topping:**
 - Melted butter
-- Fresh parsley, minced
-- Minced garlic
+- 2 tbsp parsley
+- 3 cloves garlic
 
 *Not counted: salt, butter, minced garlic*
 
@@ -47,12 +47,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 2596 | 433 |
-| **Protein** | 110.3g | 18.4g |
-| **Fat** | 10.9g | 1.8g |
-| **Carbs** | 504.4g | 84.1g |
-| **Fiber** | 21.1g | 3.5g |
-| **Sugar** | 11.6g | 1.9g |
-| **Sodium** | 1186mg | 198mg |
+| **Calories** | 2606 | 434 |
+| **Protein** | 111.2g | 18.5g |
+| **Fat** | 11.1g | 1.8g |
+| **Carbs** | 506.3g | 84.4g |
+| **Fiber** | 22.1g | 3.7g |
+| **Sugar** | 11.9g | 2.0g |
+| **Sodium** | 1203mg | 200mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
