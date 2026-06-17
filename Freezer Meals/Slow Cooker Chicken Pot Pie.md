@@ -36,6 +36,20 @@ ingredients:
 - Freezer meals lose a little flavor in the freezer — season heavier than feels right.
 - **Filled in by Claude (not stated in video):** seasoning amounts (~1 tsp each — the paprika lid fell in on camera, so the video amount was "more than a teaspoon"); biscuit count (1 standard 8-count can assumed).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 3234 | 809 |
+| **Protein** | 240.2g | 60.0g |
+| **Fat** | 131.1g | 32.8g |
+| **Carbs** | 261.5g | 65.4g |
+| **Fiber** | 22.1g | 5.5g |
+| **Sugar** | 37.4g | 9.4g |
+| **Sodium** | 3880mg | 970mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
