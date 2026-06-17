@@ -28,7 +28,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe: no tomato.
 - Jarred Alfredo isn't gourmet, but with the broccoli and pasta it's the easiest dinner there is.
 - **Filled in by Claude (not stated in video):** chicken amount — video just said "add your chicken in"; ~2 cups assumed to match the other chicken one-pots in the batch.
 
