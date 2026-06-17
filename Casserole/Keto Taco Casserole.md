@@ -37,6 +37,20 @@ ingredients:
 - Distinct from the taco pasta, taco rice, and taco soup recipes (this one is grain-free).
 - Cheap ground-beef base.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1351 | 225 |
+| **Protein** | 85.4g | 14.2g |
+| **Fat** | 92.5g | 15.4g |
+| **Carbs** | 40.7g | 6.8g |
+| **Fiber** | 7.5g | 1.3g |
+| **Sugar** | 14.0g | 2.3g |
+| **Sodium** | 2769mg | 462mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yF5SAnHzd7A)
