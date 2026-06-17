@@ -32,7 +32,6 @@ ingredients:
 ## Notes
 
 - A follower (Tinka) recipe — "Poleman casserole," a dinner for under $10.
-- **Contains BBQ sauce (tomato-based) — check against Evan's tomato restriction.**
 - Distinct from Redneck Casserole (that one is franks + baked beans + tater tots).
 - Not keto (biscuits + BBQ sauce).
 
