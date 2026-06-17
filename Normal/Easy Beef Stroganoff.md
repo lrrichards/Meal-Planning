@@ -36,3 +36,17 @@ ingredients:
 - Cream of chicken or cream of celery soup can substitute for mushroom.
 - Plain Greek yogurt works as a 1:1 swap for sour cream.
 - Traditionally served with steamed peas on the side.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1962 | 491 |
+| **Protein** | 115.2g | 28.8g |
+| **Fat** | 146.4g | 36.6g |
+| **Carbs** | 40.1g | 10.0g |
+| **Fiber** | 2.2g | 0.5g |
+| **Sugar** | 12.3g | 3.1g |
+| **Sodium** | 2361mg | 590mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
