@@ -14,8 +14,8 @@ ingredients:
 ## Ingredients
 
 - 1 bag pork rinds (or any low-carb chip)
-- Mayonnaise (or garlic aioli)
-- A couple packs of tuna (the tear-open pouches)
+- 1/4 cup mayonnaise
+- 2 cans tuna
 - Optional: vegetables, bacon bits, seasonings
 
 ## Instructions
@@ -33,13 +33,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (2 servings) |
 |---|---:|---:|
-| **Calories** | 1632 | 816 |
-| **Protein** | 183.0g | 91.5g |
-| **Fat** | 93.0g | 46.5g |
-| **Carbs** | 0.0g | 0.0g |
+| **Calories** | 2992 | 1496 |
+| **Protein** | 400.3g | 200.2g |
+| **Fat** | 141.1g | 70.5g |
+| **Carbs** | 0.3g | 0.2g |
 | **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 0.0g | 0.0g |
-| **Sodium** | 4920mg | 2460mg |
+| **Sugar** | 0.3g | 0.1g |
+| **Sodium** | 8635mg | 4318mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
