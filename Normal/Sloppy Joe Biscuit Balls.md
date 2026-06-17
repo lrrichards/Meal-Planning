@@ -41,6 +41,20 @@ ingredients:
 - Not keto (biscuits).
 - "Poor man's comfort food" follower edition.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2738 | 685 |
+| **Protein** | 107.7g | 26.9g |
+| **Fat** | 152.6g | 38.2g |
+| **Carbs** | 230.1g | 57.5g |
+| **Fiber** | 6.4g | 1.6g |
+| **Sugar** | 46.8g | 11.7g |
+| **Sodium** | 4235mg | 1059mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=onFupdovSe4)
