@@ -45,3 +45,17 @@ ingredients:
 - Orzo adds a pasta-like texture and helps the dish come together without getting too dense.
 - Chicken thighs stay juicier than breast after 85 minutes in the oven — use them here.
 - Stores and reheats very well — great for making ahead and portioning for lunches.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 8085 | 1347 |
+| **Protein** | 652.2g | 108.7g |
+| **Fat** | 216.5g | 36.1g |
+| **Carbs** | 878.2g | 146.4g |
+| **Fiber** | 75.5g | 12.6g |
+| **Sugar** | 38.6g | 6.4g |
+| **Sodium** | 1988mg | 331mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
