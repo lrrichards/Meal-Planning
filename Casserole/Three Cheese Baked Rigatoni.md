@@ -47,6 +47,20 @@ ingredients:
 - Not keto (pasta).
 - "Poor man's comfort food."
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3073 | 512 |
+| **Protein** | 165.2g | 27.5g |
+| **Fat** | 225.0g | 37.5g |
+| **Carbs** | 89.7g | 14.9g |
+| **Fiber** | 18.7g | 3.1g |
+| **Sugar** | 54.7g | 9.1g |
+| **Sodium** | 7498mg | 1250mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yaGTQFJxELY)
