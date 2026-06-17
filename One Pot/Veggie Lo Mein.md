@@ -46,3 +46,17 @@ ingredients:
 - Swap in any veggies you like — frozen veggies work fine.
 - Add cooked chicken, steak, or shrimp for a non-meatless version.
 - Spaghetti noodles are a reliable substitute if lo mein noodles aren't available.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 4008 | 668 |
+| **Protein** | 326.1g | 54.4g |
+| **Fat** | 115.3g | 19.2g |
+| **Carbs** | 402.0g | 67.0g |
+| **Fiber** | 51.8g | 8.6g |
+| **Sugar** | 74.7g | 12.4g |
+| **Sodium** | 6100mg | 1017mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
