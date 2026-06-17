@@ -48,3 +48,17 @@ ingredients:
 - Pairs well with crusty bread for dipping into the creamy sauce.
 - This is a deconstructed version of the classic Zuppa Toscana soup — same flavors, casserole format.
 - See also: Slow Cooker Zuppa Toscana Soup (CrockPot/ folder) for the slow cooker version.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 6155 | 1026 |
+| **Protein** | 383.8g | 64.0g |
+| **Fat** | 445.1g | 74.2g |
+| **Carbs** | 143.7g | 24.0g |
+| **Fiber** | 19.4g | 3.2g |
+| **Sugar** | 22.4g | 3.7g |
+| **Sodium** | 11973mg | 1995mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
