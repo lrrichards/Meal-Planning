@@ -14,8 +14,8 @@ ingredients:
 
 ## Ingredients
 
-- Pulled chicken (from a whole chicken cooked in the Instant Pot)
-- The broth/water left from cooking the chicken (add more water as needed)
+- 2 cups cooked shredded chicken
+- 4 cups broth
 - Palmini (hearts of palm) noodles — or skip the noodles
 - Zucchini (and/or radishes), for low-carb vegetables
 - Spices to taste
@@ -32,6 +32,20 @@ ingredients:
 - A keto / low-carb spin on chicken noodle soup — Palmini noodles replace regular noodles, with zucchini/radish for low-carb veg. Warming and filling.
 - Distinct from Creamy Chicken Noodle Soup (that's a creamy, egg-noodle version) — this is a clear keto broth with hearts-of-palm noodles.
 - Built from a cheap whole chicken, so tagged extreme-budget (Palmini noodles are optional/orderable).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1070 | 178 |
+| **Protein** | 134.4g | 22.4g |
+| **Fat** | 54.2g | 9.0g |
+| **Carbs** | 4.8g | 0.8g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 2.9g | 0.5g |
+| **Sodium** | 3994mg | 666mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
 ## Source
 
