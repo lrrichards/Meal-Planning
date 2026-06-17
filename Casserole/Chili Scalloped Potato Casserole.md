@@ -34,6 +34,6 @@ ingredients:
 ## Notes
 
 - A follower (Opal) recipe — cheap and surprisingly good. Store-brand chili works great in place of Hormel.
-- **Contains chili (tomato-based) — not Evan-safe.**
+- **Contains chili (tomato-based) — contains tomatoes.**
 - Not keto (potatoes).
 - "Poor man's comfort food" follower edition.
