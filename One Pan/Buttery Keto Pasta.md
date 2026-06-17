@@ -26,7 +26,6 @@ ingredients:
 ## Notes
 
 - A simple keto / low-carb pasta side — these noodles aren't rubbery and taste good mixed with butter and seasonings.
-- Evan-safe (no tomatoes).
 - A side dish; uses specialty low-carb noodles, so not tagged extreme-budget.
 
 ## Source
