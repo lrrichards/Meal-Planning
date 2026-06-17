@@ -31,3 +31,17 @@ ingredients:
 - Keto / low-carb thanks to the zero-carb tortillas — a fast meal or snack to have on hand.
 - Add-ins if you want: a smear of pizza/marinara sauce inside (note: marinara makes it contains tomatoes), or sliced jalapeños for heat.
 - Manually added so it isn't forgotten — not from a video.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (2 servings) |
+|---|---:|---:|
+| **Calories** | 592 | 296 |
+| **Protein** | 16.0g | 8.0g |
+| **Fat** | 14.0g | 7.0g |
+| **Carbs** | 100.0g | 50.0g |
+| **Fiber** | 5.0g | 2.5g |
+| **Sugar** | 6.0g | 3.0g |
+| **Sodium** | 1104mg | 552mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
