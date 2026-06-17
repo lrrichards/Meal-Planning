@@ -27,3 +27,17 @@ ingredients:
 - A cheap protein base for the whole keto week — feeds many meals: pulled pork sandwiches, zucchini stir fry, pork and green beans, and pulled pork pizza.
 - If you have sugar-free barbecue sauce, mix some in for flavor.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 242 | 30 |
+| **Protein** | 21.0g | 2.6g |
+| **Fat** | 17.0g | 2.1g |
+| **Carbs** | 0.0g | 0.0g |
+| **Fiber** | 0.0g | 0.0g |
+| **Sugar** | 0.0g | 0.0g |
+| **Sodium** | 63mg | 8mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
