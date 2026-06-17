@@ -32,6 +32,20 @@ ingredients:
 - **Contains salsa (tomato-based) — contains tomatoes.**
 - Budget keto — very inexpensive.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 692 | 138 |
+| **Protein** | 71.9g | 14.4g |
+| **Fat** | 30.0g | 6.0g |
+| **Carbs** | 30.7g | 6.1g |
+| **Fiber** | 5.1g | 1.0g |
+| **Sugar** | 10.6g | 2.1g |
+| **Sodium** | 2375mg | 475mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=el3qkJeLelM)
