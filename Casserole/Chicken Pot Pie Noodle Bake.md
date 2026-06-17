@@ -21,11 +21,11 @@ ingredients:
 ## Ingredients
 
 - 1 rotisserie chicken, pulled
-- Egg noodles
-- Carrots, chopped
+- 8 oz egg noodles
+- 2 carrots
 - 1 onion, chopped
-- Celery, chopped
-- Garlic
+- 3 stalks celery
+- 3 cloves garlic
 - 1 can chicken broth
 - 2 cups heavy whipping cream
 - 2 tbsp flour
@@ -56,13 +56,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 2869 | 478 |
-| **Protein** | 150.9g | 25.2g |
-| **Fat** | 234.7g | 39.1g |
-| **Carbs** | 42.6g | 7.1g |
-| **Fiber** | 4.6g | 0.8g |
-| **Sugar** | 21.1g | 3.5g |
-| **Sodium** | 662mg | 110mg |
+| **Calories** | 3287 | 548 |
+| **Protein** | 180.9g | 30.2g |
+| **Fat** | 259.0g | 43.2g |
+| **Carbs** | 60.4g | 10.1g |
+| **Fiber** | 9.1g | 1.5g |
+| **Sugar** | 31.2g | 5.2g |
+| **Sodium** | 1054mg | 176mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
