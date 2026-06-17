@@ -33,7 +33,7 @@ ingredients:
 ## Notes
 
 - Keto / low-carb taco comfort food — no beans, rice, or tortillas.
-- **Contains Rotel (tomatoes and green chilies) — not Evan-safe.**
+- **Contains Rotel (tomatoes and green chilies) — contains tomatoes.**
 - Distinct from the taco pasta, taco rice, and taco soup recipes (this one is grain-free).
 - Cheap ground-beef base.
 
