@@ -38,3 +38,17 @@ ingredients:
 - Great meatless meal — light and fresh tasting.
 - Add minced garlic with the veggies for extra flavor.
 - Recipe also appears on page 179 of the *Make It Simple* cookbook.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1711 | 428 |
+| **Protein** | 60.4g | 15.1g |
+| **Fat** | 75.1g | 18.8g |
+| **Carbs** | 203.1g | 50.8g |
+| **Fiber** | 18.3g | 4.6g |
+| **Sugar** | 16.1g | 4.0g |
+| **Sodium** | 934mg | 234mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
