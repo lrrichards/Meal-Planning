@@ -16,8 +16,8 @@ ingredients:
 
 - 1 jumbo can of biscuits
 - 1 small can tomato sauce (use about 1/2 cup)
-- Shredded mozzarella cheese
-- Pepperoni slices
+- 1 cup shredded mozzarella cheese
+- 4 oz pepperoni
 
 *Not counted: oil or non-stick spray, salt, pepper, garlic powder, Italian seasoning*
 
@@ -43,12 +43,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 329 | 55 |
-| **Protein** | 7.1g | 1.2g |
-| **Fat** | 11.2g | 1.9g |
-| **Carbs** | 50.7g | 8.4g |
+| **Calories** | 1205 | 201 |
+| **Protein** | 62.5g | 10.4g |
+| **Fat** | 80.3g | 13.4g |
+| **Carbs** | 54.3g | 9.0g |
 | **Fiber** | 2.4g | 0.4g |
-| **Sugar** | 8.1g | 1.4g |
-| **Sodium** | 706mg | 118mg |
+| **Sugar** | 9.2g | 1.5g |
+| **Sodium** | 3411mg | 569mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
