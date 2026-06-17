@@ -16,12 +16,12 @@ ingredients:
 ## Ingredients
 
 - 1/2 bag pierogis (half of a 4 lb bag feeds a family of six)
-- Kielbasa, sliced
+- 14 oz kielbasa
 - Colorful bell peppers, sliced
 - 1 onion, sliced
 - Olive oil
-- Garlic salt, pepper
-- Sour cream, to serve
+- 3 cloves garlic
+- 1/2 cup sour cream
 
 ## Instructions
 
@@ -41,13 +41,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 344 | 57 |
-| **Protein** | 10.2g | 1.7g |
-| **Fat** | 6.1g | 1.0g |
-| **Carbs** | 64.2g | 10.7g |
+| **Calories** | 1761 | 293 |
+| **Protein** | 60.6g | 10.1g |
+| **Fat** | 131.6g | 21.9g |
+| **Carbs** | 81.4g | 13.6g |
 | **Fiber** | 4.9g | 0.8g |
-| **Sugar** | 7.6g | 1.3g |
-| **Sodium** | 649mg | 108mg |
+| **Sugar** | 19.9g | 3.3g |
+| **Sodium** | 3997mg | 666mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
