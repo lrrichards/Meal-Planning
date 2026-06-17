@@ -15,8 +15,8 @@ ingredients:
 ## Ingredients
 
 - 1 lb ground beef
-- Hot dogs, chopped
-- BBQ sauce (enough to coat, not drown)
+- 8 hot dogs
+- 1/2 cup bbq sauce
 - 1 can biscuits
 - Seasoning of choice
 
@@ -39,13 +39,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 2457 | 491 |
-| **Protein** | 103.5g | 20.7g |
-| **Fat** | 137.5g | 27.5g |
-| **Carbs** | 195.5g | 39.1g |
-| **Fiber** | 4.2g | 0.8g |
-| **Sugar** | 21.2g | 4.2g |
-| **Sodium** | 3302mg | 660mg |
+| **Calories** | 3823 | 765 |
+| **Protein** | 149.0g | 29.8g |
+| **Fat** | 244.9g | 49.0g |
+| **Carbs** | 247.3g | 49.5g |
+| **Fiber** | 5.2g | 1.0g |
+| **Sugar** | 62.9g | 12.6g |
+| **Sodium** | 7434mg | 1487mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
