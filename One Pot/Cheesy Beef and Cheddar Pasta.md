@@ -23,8 +23,8 @@ ingredients:
 - 2 cups beef broth
 - 1 cup milk
 - A little butter
-- Cream cheese (most of an 8 oz block), cubed
-- Shredded cheddar cheese
+- 6 oz cream cheese
+- 1 cup shredded cheddar cheese
 - 1 packet ranch seasoning
 
 ## Instructions
@@ -47,12 +47,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (5 servings) |
 |---|---:|---:|
-| **Calories** | 3214 | 643 |
-| **Protein** | 154.4g | 30.9g |
-| **Fat** | 111.7g | 22.3g |
-| **Carbs** | 385.8g | 77.2g |
+| **Calories** | 4251 | 850 |
+| **Protein** | 193.2g | 38.6g |
+| **Fat** | 206.6g | 41.3g |
+| **Carbs** | 394.3g | 78.9g |
 | **Fiber** | 15.6g | 3.1g |
-| **Sugar** | 19.8g | 4.0g |
-| **Sodium** | 3228mg | 646mg |
+| **Sugar** | 26.9g | 5.4g |
+| **Sodium** | 4476mg | 895mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
