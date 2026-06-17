@@ -36,6 +36,20 @@ ingredients:
 - Distinct from [[Southwest Chicken Bowls]] (slow-cooker freezer bag).
 - **Filled in by Claude (not stated in video):** bake time/temp — video never stated it; 375°F 40–45 min covered assumed to match the other casseroles in the batch.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3277 | 546 |
+| **Protein** | 202.6g | 33.8g |
+| **Fat** | 74.2g | 12.4g |
+| **Carbs** | 449.9g | 75.0g |
+| **Fiber** | 73.3g | 12.2g |
+| **Sugar** | 13.3g | 2.2g |
+| **Sodium** | 3166mg | 528mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
