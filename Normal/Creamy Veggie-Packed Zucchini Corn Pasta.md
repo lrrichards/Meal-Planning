@@ -18,7 +18,7 @@ ingredients:
 
 - 1 can corn, drained
 - 2 zucchinis, sliced into small pieces
-- Elbow pasta (or any small pasta)
+- 8 oz elbow pasta
 - 6 oz cream cheese, cubed
 - 1 cup Parmesan cheese
 - Juice of 1/2 lemon
@@ -47,12 +47,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 2170 | 543 |
-| **Protein** | 95.9g | 24.0g |
-| **Fat** | 98.8g | 24.7g |
-| **Carbs** | 239.2g | 59.8g |
-| **Fiber** | 21.2g | 5.3g |
-| **Sugar** | 32.2g | 8.0g |
-| **Sodium** | 2380mg | 595mg |
+| **Calories** | 3011 | 753 |
+| **Protein** | 125.3g | 31.3g |
+| **Fat** | 102.2g | 25.6g |
+| **Carbs** | 408.6g | 102.2g |
+| **Fiber** | 28.5g | 7.1g |
+| **Sugar** | 33.5g | 8.4g |
+| **Sodium** | 2394mg | 598mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
