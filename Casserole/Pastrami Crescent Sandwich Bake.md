@@ -42,3 +42,17 @@ ingredients:
 - Squeeze sauerkraut extremely dry — excess moisture will make the bottom soggy.
 - This is essentially a Reuben sandwich in a baked format.
 - Leftovers reheat well in an air fryer at 350°F for 5 minutes to re-crisp the crust.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 5203 | 1301 |
+| **Protein** | 197.0g | 49.2g |
+| **Fat** | 308.6g | 77.1g |
+| **Carbs** | 412.0g | 103.0g |
+| **Fiber** | 4.0g | 1.0g |
+| **Sugar** | 78.8g | 19.7g |
+| **Sodium** | 8919mg | 2230mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
