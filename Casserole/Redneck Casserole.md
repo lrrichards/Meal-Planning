@@ -19,7 +19,7 @@ ingredients:
 - 1 package hot dogs, sliced
 - 1 onion, chopped
 - Tater tots (mini tots work, they just take longer to line up)
-- Shredded cheese (optional)
+- 1 cup shredded cheese
 
 ## Instructions
 
@@ -41,12 +41,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 344 | 57 |
-| **Protein** | 13.9g | 2.3g |
-| **Fat** | 13.6g | 2.3g |
-| **Carbs** | 39.2g | 6.5g |
+| **Calories** | 799 | 133 |
+| **Protein** | 42.2g | 7.0g |
+| **Fat** | 51.0g | 8.5g |
+| **Carbs** | 40.7g | 6.8g |
 | **Fiber** | 7.9g | 1.3g |
-| **Sugar** | 14.1g | 2.4g |
-| **Sodium** | 836mg | 139mg |
+| **Sugar** | 14.7g | 2.4g |
+| **Sodium** | 1538mg | 256mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
