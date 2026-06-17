@@ -31,7 +31,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb breakfast in a couple of minutes — healthy fats and protein.
-- Evan-safe (no tomatoes).
 - Uses avocado and smoked salmon (pricier ingredients), so not tagged extreme-budget.
 
 ## Source
