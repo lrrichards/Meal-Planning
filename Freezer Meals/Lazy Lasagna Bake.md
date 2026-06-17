@@ -35,6 +35,20 @@ ingredients:
 
 - **Filled in by Claude (not stated in video):** marinara amount — video never gave the jar size; 24 oz assumed (matches the jar used in the other bakes). Bake time/temp also assumed at 375°F 40 min covered + 10 uncovered — video pressed the label on without reading it aloud; matches the nearly identical Pizza Pasta Bake.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2314 | 386 |
+| **Protein** | 94.3g | 15.7g |
+| **Fat** | 33.2g | 5.5g |
+| **Carbs** | 402.4g | 67.1g |
+| **Fiber** | 28.1g | 4.7g |
+| **Sugar** | 44.1g | 7.3g |
+| **Sodium** | 4361mg | 727mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
