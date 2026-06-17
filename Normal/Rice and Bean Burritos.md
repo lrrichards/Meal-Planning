@@ -16,7 +16,7 @@ ingredients:
 
 - 1 bag quick-cooking Spanish style rice mix (Great Value brand works well)
 - 1 bag dry refried bean mix
-- Flour tortillas (large burrito size)
+- 6 flour tortillas
 - Shredded cheese to taste
 - Water (per package instructions for both rice and beans)
 
@@ -41,12 +41,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 744 | 186 |
-| **Protein** | 29.1g | 7.3g |
-| **Fat** | 6.9g | 1.7g |
-| **Carbs** | 139.8g | 35.0g |
-| **Fiber** | 19.2g | 4.8g |
-| **Sugar** | 1.5g | 0.4g |
-| **Sodium** | 1305mg | 326mg |
+| **Calories** | 2520 | 630 |
+| **Protein** | 77.1g | 19.3g |
+| **Fat** | 48.9g | 12.2g |
+| **Carbs** | 439.8g | 110.0g |
+| **Fiber** | 34.2g | 8.6g |
+| **Sugar** | 19.5g | 4.9g |
+| **Sodium** | 4617mg | 1154mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
