@@ -35,3 +35,17 @@ ingredients:
 - Only 1 of the 3 seasoning packets is used — save the others.
 - Also appears in the *Make It Simple* cookbook, page 228.
 - Add cooked chicken, shrimp, or a fried egg on top for extra protein.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 867 | 217 |
+| **Protein** | 50.3g | 12.6g |
+| **Fat** | 46.1g | 11.5g |
+| **Carbs** | 58.7g | 14.7g |
+| **Fiber** | 2.8g | 0.7g |
+| **Sugar** | 4.2g | 1.1g |
+| **Sodium** | 4010mg | 1003mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
