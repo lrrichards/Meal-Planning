@@ -40,3 +40,17 @@ ingredients:
 - Swap broccoli for any frozen veggie on hand.
 - Bell pepper is optional but adds color and sweetness.
 - Done in 15 minutes start to finish.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2347 | 391 |
+| **Protein** | 178.7g | 29.8g |
+| **Fat** | 83.6g | 13.9g |
+| **Carbs** | 211.9g | 35.3g |
+| **Fiber** | 19.0g | 3.2g |
+| **Sugar** | 14.3g | 2.4g |
+| **Sodium** | 1382mg | 230mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
