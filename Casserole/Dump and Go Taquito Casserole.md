@@ -39,3 +39,17 @@ ingredients:
 - The refried bean layer keeps the bottom from drying out and adds extra flavor and protein.
 - Beef taquitos are classic but chicken works just as well.
 - A true 5-minute prep — great for busy weeknights.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 7336 | 1834 |
+| **Protein** | 330.7g | 82.7g |
+| **Fat** | 393.8g | 98.4g |
+| **Carbs** | 630.2g | 157.5g |
+| **Fiber** | 59.8g | 14.9g |
+| **Sugar** | 31.6g | 7.9g |
+| **Sodium** | 15548mg | 3887mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
