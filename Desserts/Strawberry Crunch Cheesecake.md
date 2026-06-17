@@ -54,3 +54,17 @@ ingredients:
 - Add the topping just before serving so it stays crunchy.
 - Tastes like a strawberry shortcake popsicle.
 - No oven needed — great for warm weather.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (9 servings) |
+|---|---:|---:|
+| **Calories** | 13370 | 1486 |
+| **Protein** | 112.0g | 12.4g |
+| **Fat** | 681.8g | 75.8g |
+| **Carbs** | 1783.6g | 198.2g |
+| **Fiber** | 23.6g | 2.6g |
+| **Sugar** | 1200.5g | 133.4g |
+| **Sodium** | 8600mg | 956mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
