@@ -14,11 +14,11 @@ ingredients:
 
 ## Ingredients
 
-- Pork chops
+- 4 pork chops
 - 1 can cream of mushroom soup
-- Sour cream
+- 1/2 cup sour cream
 - 1 box Stove Top stuffing
-- Garlic salt, pepper
+- 3 cloves garlic
 
 ## Instructions
 
@@ -40,13 +40,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 589 | 147 |
-| **Protein** | 16.5g | 4.1g |
-| **Fat** | 13.4g | 3.3g |
-| **Carbs** | 101.8g | 25.4g |
+| **Calories** | 2382 | 596 |
+| **Protein** | 189.3g | 47.3g |
+| **Fat** | 130.9g | 32.7g |
+| **Carbs** | 107.0g | 26.8g |
 | **Fiber** | 4.7g | 1.2g |
-| **Sugar** | 9.2g | 2.3g |
-| **Sodium** | 3052mg | 763mg |
+| **Sugar** | 13.6g | 3.4g |
+| **Sodium** | 3541mg | 885mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
