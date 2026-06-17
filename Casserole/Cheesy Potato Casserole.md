@@ -19,9 +19,9 @@ ingredients:
 - 3 lb potatoes, washed and cubed small
 - 1 bag mixed vegetables
 - 1 can cream soup (cream of chicken or mushroom)
-- Sour cream
+- 1/2 cup sour cream
 - 1 sweet onion (half or whole, your choice), chopped
-- Shredded cheese
+- 1 cup shredded cheese
 - Pepper, garlic salt
 
 ## Instructions
@@ -43,13 +43,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 1287 | 214 |
-| **Protein** | 37.7g | 6.3g |
-| **Fat** | 2.1g | 0.3g |
-| **Carbs** | 287.1g | 47.8g |
-| **Fiber** | 42.6g | 7.1g |
-| **Sugar** | 25.4g | 4.2g |
-| **Sodium** | 230mg | 38mg |
+| **Calories** | 1769 | 295 |
+| **Protein** | 59.4g | 9.9g |
+| **Fat** | 61.2g | 10.2g |
+| **Carbs** | 255.1g | 42.5g |
+| **Fiber** | 31.8g | 5.3g |
+| **Sugar** | 20.4g | 3.4g |
+| **Sodium** | 849mg | 141mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
