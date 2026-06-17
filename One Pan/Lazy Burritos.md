@@ -35,3 +35,17 @@ ingredients:
 - Crisping the tortilla in oil is what elevates this from sad to great — don't skip it.
 - Can go from frozen ground meat to dinner in about 20 minutes.
 - Only 3 core ingredients.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1177 | 294 |
+| **Protein** | 116.4g | 29.1g |
+| **Fat** | 43.4g | 10.9g |
+| **Carbs** | 76.5g | 19.1g |
+| **Fiber** | 25.5g | 6.4g |
+| **Sugar** | 2.1g | 0.5g |
+| **Sodium** | 2189mg | 547mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
