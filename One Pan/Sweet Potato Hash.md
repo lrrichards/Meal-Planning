@@ -38,3 +38,17 @@ ingredients:
 - A sheet pan works perfectly as a lid if your pan doesn't have one.
 - Nutrient-dense — sweet potato and spinach add significant vitamins and minerals.
 - Top with anything you like: cheese, sour cream, hot sauce, green onions.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1908 | 477 |
+| **Protein** | 108.4g | 27.1g |
+| **Fat** | 7.5g | 1.9g |
+| **Carbs** | 366.7g | 91.7g |
+| **Fiber** | 84.1g | 21.0g |
+| **Sugar** | 18.5g | 4.6g |
+| **Sodium** | 396mg | 99mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
