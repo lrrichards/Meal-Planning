@@ -37,7 +37,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb and very tender.
-- Evan-safe (no tomatoes).
 - Budget keto — simple chicken, lemon, and oil.
 
 ## Source
