@@ -15,10 +15,10 @@ ingredients:
 
 ## Ingredients
 
-- Cooked shredded pork (see Slow Cooker Pulled Pork)
+- 2 cups cooked shredded pork
 - 1 zucchini, sliced
 - 1/2 yellow onion, sliced
-- Celery, chopped
+- 3 stalks celery
 - Leftover spinach
 - Salt and pepper
 
