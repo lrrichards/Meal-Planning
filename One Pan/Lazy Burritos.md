@@ -15,8 +15,8 @@ ingredients:
 
 - 1 lb ground turkey (or any ground meat)
 - 1 can refried beans
-- Large burrito-sized flour tortillas
-- Shredded cheese (optional)
+- 6 flour tortillas
+- 1 cup shredded cheese
 
 *Not counted: water, taco seasoning, olive oil*
 
@@ -40,12 +40,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 1177 | 294 |
-| **Protein** | 116.4g | 29.1g |
-| **Fat** | 43.4g | 10.9g |
-| **Carbs** | 76.5g | 19.1g |
-| **Fiber** | 25.5g | 6.4g |
-| **Sugar** | 2.1g | 0.5g |
-| **Sodium** | 2189mg | 547mg |
+| **Calories** | 3409 | 852 |
+| **Protein** | 192.6g | 48.2g |
+| **Fat** | 122.8g | 30.7g |
+| **Carbs** | 378.0g | 94.5g |
+| **Fiber** | 40.5g | 10.1g |
+| **Sugar** | 20.7g | 5.2g |
+| **Sodium** | 6203mg | 1551mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
