@@ -30,7 +30,6 @@ ingredients:
 
 ## Notes
 
-- Evan-safe as assembled: no tomato (skip tomato-based toppings on his plate).
 - Components stay separated — also great as a take-to-a-friend meal (new baby, etc.).
 - **Filled in by Claude (not stated in video):** rice amount ("quite a bit" → ~3 cups) and pepper/onion amount ("some" → ~1 cup). Chicken was stated (~3 cups).
 
