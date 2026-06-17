@@ -31,3 +31,17 @@ ingredients:
 - No waffle maker? Cook the batter pancake-style in a skillet instead.
 - Coconut flour works in place of almond flour (use about half as much — it absorbs more).
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1028 | 257 |
+| **Protein** | 91.7g | 22.9g |
+| **Fat** | 67.1g | 16.8g |
+| **Carbs** | 10.4g | 2.6g |
+| **Fiber** | 1.6g | 0.4g |
+| **Sugar** | 5.1g | 1.3g |
+| **Sodium** | 1665mg | 416mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
