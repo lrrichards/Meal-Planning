@@ -30,6 +30,20 @@ ingredients:
 - Transcript decode: "a can of man sandwich" = Manwich.
 - No filled-in amounts — video stated everything.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 514 | 129 |
+| **Protein** | 8.5g | 2.1g |
+| **Fat** | 2.1g | 0.5g |
+| **Carbs** | 112.6g | 28.2g |
+| **Fiber** | 3.4g | 0.9g |
+| **Sugar** | 59.5g | 14.9g |
+| **Sodium** | 3230mg | 808mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
