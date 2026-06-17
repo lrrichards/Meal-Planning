@@ -31,6 +31,20 @@ ingredients:
 - Jarred Alfredo isn't gourmet, but with the broccoli and pasta it's the easiest dinner there is.
 - **Filled in by Claude (not stated in video):** chicken amount — video just said "add your chicken in"; ~2 cups assumed to match the other chicken one-pots in the batch.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 2035 | 509 |
+| **Protein** | 79.0g | 19.8g |
+| **Fat** | 18.1g | 4.5g |
+| **Carbs** | 391.7g | 97.9g |
+| **Fiber** | 38.9g | 9.7g |
+| **Sugar** | 51.4g | 12.8g |
+| **Sodium** | 3650mg | 913mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
