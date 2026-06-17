@@ -14,13 +14,13 @@ ingredients:
 
 ## Ingredients
 
-- Cooked shredded chicken (see Instant Pot Shredded Chicken Thighs)
-- Celery, chopped
-- Green onion, sliced
+- 2 cups cooked shredded chicken
+- 3 stalks celery
+- 3 green onions
 - Salt and pepper
-- Mayo (optional)
-- Romaine lettuce, chopped (if serving as a salad)
-- Lemon juice (optional)
+- 2 tbsp mayonnaise
+- 2 cups lettuce
+- 1 tbsp lemon juice
 
 ## Instructions
 
@@ -33,3 +33,17 @@ ingredients:
 
 - Uses the pre-cooked shredded chicken base, so it comes together in minutes.
 - From KetoFocus extreme-budget $40 keto week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1299 | 325 |
+| **Protein** | 131.1g | 32.8g |
+| **Fat** | 73.6g | 18.4g |
+| **Carbs** | 25.3g | 6.3g |
+| **Fiber** | 8.6g | 2.2g |
+| **Sugar** | 8.1g | 2.0g |
+| **Sodium** | 650mg | 162mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
