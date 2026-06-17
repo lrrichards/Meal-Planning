@@ -22,11 +22,11 @@ ingredients:
 - 1 lb ground pork + 1 lb ground beef (half and half makes a good meatloaf)
 - 3/4 cup panko breadcrumbs
 - 2 eggs
-- Mini potatoes
-- Fresh green beans
+- 1 lb potato
+- 12 oz green bean
 - Onion powder, garlic salt, pepper
 - Olive oil
-- Shredded cheese (optional, in the meat mix)
+- 1 cup shredded cheese
 - For the glaze: ketchup, mustard, brown sugar
 
 ## Instructions
@@ -49,13 +49,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 2213 | 369 |
-| **Protein** | 113.4g | 18.9g |
-| **Fat** | 136.3g | 22.7g |
-| **Carbs** | 131.6g | 21.9g |
-| **Fiber** | 6.8g | 1.1g |
-| **Sugar** | 9.6g | 1.6g |
-| **Sodium** | 1730mg | 288mg |
+| **Calories** | 3123 | 521 |
+| **Protein** | 156.8g | 26.1g |
+| **Fat** | 174.8g | 29.1g |
+| **Carbs** | 236.6g | 39.4g |
+| **Fiber** | 28.4g | 4.7g |
+| **Sugar** | 25.7g | 4.3g |
+| **Sodium** | 2479mg | 413mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
