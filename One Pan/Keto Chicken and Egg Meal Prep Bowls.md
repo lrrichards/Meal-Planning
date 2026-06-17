@@ -19,11 +19,11 @@ ingredients:
 
 - Chicken
 - 18 eggs
-- Mushrooms, chopped
-- Onions, chopped
-- Cabbage, chopped
-- Frozen cauliflower
-- Frozen broccoli
+- 8 oz mushroom
+- 1 onion
+- 3 cups cabbage
+- 2 cups broccoli
+- 2 cups broccoli
 - Oil
 - Salt and pepper
 
@@ -45,13 +45,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (7 servings) |
 |---|---:|---:|
-| **Calories** | 1395 | 199 |
-| **Protein** | 113.4g | 16.2g |
-| **Fat** | 95.4g | 13.6g |
-| **Carbs** | 9.9g | 1.4g |
-| **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 9.9g | 1.4g |
-| **Sodium** | 1116mg | 159mg |
+| **Calories** | 1995 | 285 |
+| **Protein** | 157.9g | 22.6g |
+| **Fat** | 100.8g | 14.4g |
+| **Carbs** | 132.7g | 19.0g |
+| **Fiber** | 47.1g | 6.7g |
+| **Sugar** | 58.4g | 8.3g |
+| **Sodium** | 1578mg | 225mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
