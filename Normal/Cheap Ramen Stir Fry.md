@@ -42,3 +42,17 @@ ingredients:
 - Add cooked chicken, shrimp, or extra eggs for more protein.
 - This version differs from Ramen Noodle Stir Fry (also in Normal/) — this one adds eggs as protein and uses mixed vegetables + onion instead of a stir-fry veggie blend.
 - Kid-friendly — works well for families.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 701 | 175 |
+| **Protein** | 28.7g | 7.2g |
+| **Fat** | 29.8g | 7.4g |
+| **Carbs** | 79.0g | 19.7g |
+| **Fiber** | 4.6g | 1.1g |
+| **Sugar** | 4.3g | 1.1g |
+| **Sodium** | 4257mg | 1064mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
