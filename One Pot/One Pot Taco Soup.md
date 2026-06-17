@@ -42,3 +42,17 @@ ingredients:
 - Ground chicken, rotisserie chicken, or canned chicken all work as substitutes for the beef.
 - Any beans work — pinto, kidney, or great northern instead of black beans.
 - See also: Budget Chili (One Pot/ folder) — a richer chili with more spices and tomato paste.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3120 | 520 |
+| **Protein** | 191.1g | 31.8g |
+| **Fat** | 103.5g | 17.2g |
+| **Carbs** | 379.1g | 63.2g |
+| **Fiber** | 87.5g | 14.6g |
+| **Sugar** | 40.0g | 6.7g |
+| **Sodium** | 535mg | 89mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
