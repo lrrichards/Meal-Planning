@@ -44,3 +44,17 @@ ingredients:
 - The noodles cook directly in the sauce and absorb flavor as they hydrate.
 - Cottage cheese mimics the ricotta layer from traditional lasagna — kids usually can't tell the difference.
 - Add a handful of fresh spinach before adding cheese for a vegetable boost.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 7286 | 1214 |
+| **Protein** | 444.8g | 74.1g |
+| **Fat** | 285.7g | 47.6g |
+| **Carbs** | 705.4g | 117.6g |
+| **Fiber** | 44.3g | 7.4g |
+| **Sugar** | 68.5g | 11.4g |
+| **Sodium** | 12110mg | 2018mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
