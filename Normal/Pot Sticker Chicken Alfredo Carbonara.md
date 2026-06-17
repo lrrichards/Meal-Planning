@@ -36,3 +36,17 @@ ingredients:
 - "Italian-Asian fusion" — like a carbonara, but with pot stickers standing in for some of the pasta.
 - Dollar Tree "poor man's comfort food" — cheap boxed/frozen/canned ingredients.
 - Not keto (pasta and pot stickers).
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1219 | 305 |
+| **Protein** | 76.0g | 19.0g |
+| **Fat** | 33.6g | 8.4g |
+| **Carbs** | 151.6g | 37.9g |
+| **Fiber** | 27.7g | 6.9g |
+| **Sugar** | 33.2g | 8.3g |
+| **Sodium** | 1579mg | 395mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
