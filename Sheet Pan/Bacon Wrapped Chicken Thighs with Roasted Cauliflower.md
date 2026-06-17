@@ -14,7 +14,7 @@ ingredients:
 ## Ingredients
 
 - About 1 lb boneless skinless chicken thighs
-- Bacon (1 slice per thigh, 2 for bigger thighs)
+- 4 slices bacon
 - 1 bag (about 1 lb) frozen cauliflower florets
 - Olive oil
 - Salt, pepper, smoked paprika, seasoning salt
@@ -36,12 +36,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 75 | 19 |
-| **Protein** | 5.7g | 1.4g |
-| **Fat** | 0.9g | 0.2g |
-| **Carbs** | 15.0g | 3.8g |
+| **Calories** | 681 | 170 |
+| **Protein** | 47.1g | 11.8g |
+| **Fat** | 47.9g | 12.0g |
+| **Carbs** | 16.6g | 4.1g |
 | **Fiber** | 6.0g | 1.5g |
 | **Sugar** | 5.7g | 1.4g |
-| **Sodium** | 90mg | 22mg |
+| **Sodium** | 2013mg | 503mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
