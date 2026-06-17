@@ -42,3 +42,17 @@ ingredients:
 - Minute rice works great as the side when time is short.
 - Sweet-savory sauce is the whole point of this dish — make sure to pour it generously over the rice too.
 - Note: different from the Freezer Meal and Slow Cooker versions of honey garlic chicken — this is a 15-minute stovetop recipe.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 900 | 225 |
+| **Protein** | 67.5g | 16.9g |
+| **Fat** | 27.3g | 6.8g |
+| **Carbs** | 98.3g | 24.6g |
+| **Fiber** | 0.5g | 0.1g |
+| **Sugar** | 93.5g | 23.4g |
+| **Sodium** | 1305mg | 326mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
