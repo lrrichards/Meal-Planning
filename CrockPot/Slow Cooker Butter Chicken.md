@@ -44,3 +44,17 @@ ingredients:
 - Greek yogurt and half and half added at the end keep the sauce creamy without curdling.
 - Pairs perfectly with Homemade Naan Bread (see Normal/ folder).
 - Skip cilantro if you don't like it — the dish is still complete without it.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1806 | 301 |
+| **Protein** | 199.6g | 33.3g |
+| **Fat** | 87.1g | 14.5g |
+| **Carbs** | 51.6g | 8.6g |
+| **Fiber** | 9.0g | 1.5g |
+| **Sugar** | 23.5g | 3.9g |
+| **Sodium** | 836mg | 139mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
