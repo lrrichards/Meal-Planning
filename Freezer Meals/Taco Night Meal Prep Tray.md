@@ -33,6 +33,20 @@ ingredients:
 - Components stay separated — also great as a take-to-a-friend meal (new baby, etc.).
 - **Filled in by Claude (not stated in video):** rice amount ("quite a bit" → ~3 cups) and pepper/onion amount ("some" → ~1 cup). Chicken was stated (~3 cups).
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 1449 | 362 |
+| **Protein** | 91.8g | 23.0g |
+| **Fat** | 5.9g | 1.5g |
+| **Carbs** | 265.2g | 66.3g |
+| **Fiber** | 65.9g | 16.5g |
+| **Sugar** | 4.2g | 1.1g |
+| **Sodium** | 102mg | 26mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrcKTj-5Nuo)
