@@ -45,3 +45,17 @@ ingredients:
 - Also appears in the *Make It Simple* cookbook, page 244.
 - Serve with carrots and ranch for an easy veggie side.
 - The butter mixture is what gives these the French onion flavor — don't skip it.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 1481 | 247 |
+| **Protein** | 94.2g | 15.7g |
+| **Fat** | 81.1g | 13.5g |
+| **Carbs** | 91.1g | 15.2g |
+| **Fiber** | 5.6g | 0.9g |
+| **Sugar** | 23.9g | 4.0g |
+| **Sodium** | 5555mg | 926mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
