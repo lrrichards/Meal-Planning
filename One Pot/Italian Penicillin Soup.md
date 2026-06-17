@@ -45,6 +45,20 @@ ingredients:
 - Not keto (pasta).
 - "Poor man's comfort food," homemade soup edition.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 660 | 165 |
+| **Protein** | 27.7g | 6.9g |
+| **Fat** | 57.0g | 14.3g |
+| **Carbs** | 10.3g | 2.6g |
+| **Fiber** | 1.9g | 0.5g |
+| **Sugar** | 4.7g | 1.2g |
+| **Sodium** | 457mg | 114mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kX5B6b0PaXE)
