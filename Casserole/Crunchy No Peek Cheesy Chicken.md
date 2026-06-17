@@ -41,3 +41,17 @@ ingredients:
 - The soup layer keeps the chicken incredibly moist while the stuffing on top crisps up.
 - Use chicken broth instead of the stuffing's water recommendation for extra flavor.
 - Works great with cream of chicken soup instead of cream of mushroom.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 4911 | 1228 |
+| **Protein** | 387.1g | 96.8g |
+| **Fat** | 310.0g | 77.5g |
+| **Carbs** | 120.0g | 30.0g |
+| **Fiber** | 4.7g | 1.2g |
+| **Sugar** | 18.6g | 4.6g |
+| **Sodium** | 7685mg | 1921mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
