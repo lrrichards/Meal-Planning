@@ -39,7 +39,7 @@ ingredients:
 ## Notes
 
 - A baked (not fried) chicken parm — lighter than the classic, still hits the spot.
-- **Contains marinara (tomatoes) — not Evan-safe.**
+- **Contains marinara (tomatoes) — contains tomatoes.**
 - Not keto (panko + spaghetti).
 - Distinct from the dump-and-bake Chicken Parmesan Casserole — this is breaded cutlets on a sheet pan with separate spaghetti.
 - Follower (Victoria) recipe, "poor man's comfort food."
