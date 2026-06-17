@@ -47,3 +47,17 @@ ingredients:
 - Corn muffin cookies baked flat like this are a great budget bread substitute.
 - No egg needed in the corn muffin mix — works fine without it.
 - Part of a $25 Walmart budget week.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 1600 | 320 |
+| **Protein** | 69.5g | 13.9g |
+| **Fat** | 10.9g | 2.2g |
+| **Carbs** | 313.2g | 62.6g |
+| **Fiber** | 43.3g | 8.7g |
+| **Sugar** | 27.3g | 5.5g |
+| **Sodium** | 1765mg | 353mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
