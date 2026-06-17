@@ -42,3 +42,17 @@ ingredients:
 - Not keto (pasta).
 - Cubing the cream cheese just helps it stir in faster.
 - Pairs well with a side salad.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (5 servings) |
+|---|---:|---:|
+| **Calories** | 3214 | 643 |
+| **Protein** | 154.4g | 30.9g |
+| **Fat** | 111.7g | 22.3g |
+| **Carbs** | 385.8g | 77.2g |
+| **Fiber** | 15.6g | 3.1g |
+| **Sugar** | 19.8g | 4.0g |
+| **Sodium** | 3228mg | 646mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
