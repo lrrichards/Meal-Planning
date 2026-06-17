@@ -42,3 +42,17 @@ ingredients:
 - The stuffing forms a built-in crispy topping — no breadcrumbs needed.
 - Swap zucchini for broccoli, green beans, or any soft vegetable.
 - Great for using up zucchini in peak summer when gardens are overflowing.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 4149 | 692 |
+| **Protein** | 421.0g | 70.2g |
+| **Fat** | 219.6g | 36.6g |
+| **Carbs** | 106.0g | 17.7g |
+| **Fiber** | 7.9g | 1.3g |
+| **Sugar** | 32.3g | 5.4g |
+| **Sodium** | 2907mg | 485mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
