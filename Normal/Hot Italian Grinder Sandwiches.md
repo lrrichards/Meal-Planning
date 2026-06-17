@@ -43,5 +43,4 @@ ingredients:
 
 - The cold, dressed grinder salad over the hot baked meat and cheese is what makes it.
 - Not keto (bread).
-- Evan-safe (no tomatoes).
 - All deli meat, so not tagged extreme-budget (per the recipe-folder budget rule).
