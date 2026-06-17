@@ -43,3 +43,17 @@ ingredients:
 - Any small pasta works — shells, elbows, ditalini.
 - Makes a large batch — great leftovers.
 - Great for Taco Tuesday as a fun pasta twist.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3208 | 535 |
+| **Protein** | 243.2g | 40.5g |
+| **Fat** | 154.6g | 25.8g |
+| **Carbs** | 193.6g | 32.3g |
+| **Fiber** | 10.5g | 1.7g |
+| **Sugar** | 20.3g | 3.4g |
+| **Sodium** | 1949mg | 325mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
