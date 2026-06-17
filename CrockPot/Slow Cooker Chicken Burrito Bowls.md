@@ -38,3 +38,17 @@ ingredients:
 - Makes a huge batch — great for lunch leftovers all week.
 - Customize freely: add diced green chilies, jalapeños, bell peppers, or swap black beans for pinto beans.
 - For a fajita feel, add sliced bell peppers before cooking.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (8 servings) |
+|---|---:|---:|
+| **Calories** | 2299 | 287 |
+| **Protein** | 155.1g | 19.4g |
+| **Fat** | 29.7g | 3.7g |
+| **Carbs** | 373.2g | 46.6g |
+| **Fiber** | 83.5g | 10.4g |
+| **Sugar** | 31.0g | 3.9g |
+| **Sodium** | 1935mg | 242mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
