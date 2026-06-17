@@ -25,7 +25,6 @@ ingredients:
 ## Notes
 
 - Keto / low-carb. Easy enough to make a batch for dinner and keep leftovers (in the piping bag) for lunch the next day.
-- Evan-safe (no tomatoes).
 - Very cheap (just eggs and mayo), so tagged extreme-budget.
 
 ## Source
