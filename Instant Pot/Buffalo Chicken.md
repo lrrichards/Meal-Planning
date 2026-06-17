@@ -15,8 +15,8 @@ ingredients:
 ## Ingredients
 
 - 1 whole chicken (or chicken breasts/thighs)
-- Mayonnaise
-- Cream cheese
+- 1/4 cup mayonnaise
+- 4 oz cream cheese
 - Hot sauce
 
 ## Instructions
@@ -34,13 +34,13 @@ ingredients:
 
 | | Entire Recipe | Per Serving (6 servings) |
 |---|---:|---:|
-| **Calories** | 209 | 35 |
-| **Protein** | 26.0g | 4.3g |
-| **Fat** | 10.9g | 1.8g |
-| **Carbs** | 0.0g | 0.0g |
+| **Calories** | 971 | 162 |
+| **Protein** | 33.6g | 5.6g |
+| **Fat** | 90.5g | 15.1g |
+| **Carbs** | 5.0g | 0.8g |
 | **Fiber** | 0.0g | 0.0g |
-| **Sugar** | 0.0g | 0.0g |
-| **Sodium** | 88mg | 15mg |
+| **Sugar** | 4.6g | 0.8g |
+| **Sodium** | 801mg | 134mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
 
