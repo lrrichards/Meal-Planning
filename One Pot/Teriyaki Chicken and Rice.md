@@ -43,3 +43,17 @@ ingredients:
 - Jar ginger or squeeze-tube ginger keeps in the fridge and saves prep time.
 - Honey adds sweetness without going overboard — don't skip it.
 - One of those recipes that works with whatever vegetables are on hand.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 7092 | 1182 |
+| **Protein** | 799.5g | 133.3g |
+| **Fat** | 326.6g | 54.4g |
+| **Carbs** | 192.4g | 32.1g |
+| **Fiber** | 23.0g | 3.8g |
+| **Sugar** | 101.0g | 16.8g |
+| **Sodium** | 5684mg | 947mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
