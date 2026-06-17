@@ -52,6 +52,20 @@ ingredients:
 - Not keto (egg noodles).
 - Cream-heavy (2 cups), so not tagged extreme-budget.
 
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2924 | 487 |
+| **Protein** | 152.5g | 25.4g |
+| **Fat** | 234.8g | 39.1g |
+| **Carbs** | 54.0g | 9.0g |
+| **Fiber** | 5.0g | 0.8g |
+| **Sugar** | 21.2g | 3.5g |
+| **Sodium** | 663mg | 110mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
+
 ## Source
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XW7fq3UK9LU)
