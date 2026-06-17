@@ -32,9 +32,9 @@ ingredients:
 - 3/4 cup fresh strawberries, mashed
 
 **Topping**
-- Golden Oreos, crushed
-- Freeze-dried strawberries
-- Butter, melted (just enough to bind)
+- 2 cups golden oreo
+- 1 oz freeze-dried strawberry
+- 1/4 cup butter
 
 ## Instructions
 
@@ -59,12 +59,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (9 servings) |
 |---|---:|---:|
-| **Calories** | 13370 | 1486 |
-| **Protein** | 112.0g | 12.4g |
-| **Fat** | 681.8g | 75.8g |
-| **Carbs** | 1783.6g | 198.2g |
-| **Fiber** | 23.6g | 2.6g |
-| **Sugar** | 1200.5g | 133.4g |
-| **Sodium** | 8600mg | 956mg |
+| **Calories** | 16032 | 1781 |
+| **Protein** | 130.6g | 14.5g |
+| **Fat** | 832.9g | 92.5g |
+| **Carbs** | 2108.0g | 234.2g |
+| **Fiber** | 25.4g | 2.8g |
+| **Sugar** | 1394.7g | 155.0g |
+| **Sodium** | 10547mg | 1172mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
