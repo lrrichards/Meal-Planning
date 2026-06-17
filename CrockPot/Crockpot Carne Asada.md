@@ -43,3 +43,17 @@ ingredients:
 - Meat can go in still slightly frozen — the 7-hour cook time handles it.
 - Crisping tortillas in a pan beats the microwave by a lot — worth the extra few minutes.
 - Leftovers freeze well — make a big batch and store extras.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 327 | 54 |
+| **Protein** | 31.2g | 5.2g |
+| **Fat** | 12.5g | 2.1g |
+| **Carbs** | 24.8g | 4.1g |
+| **Fiber** | 6.5g | 1.1g |
+| **Sugar** | 14.9g | 2.5g |
+| **Sodium** | 485mg | 81mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
