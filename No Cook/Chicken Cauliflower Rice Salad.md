@@ -33,7 +33,7 @@ ingredients:
 ## Notes
 
 - Keto / low-carb — cauliflower rice adds bulk that fills you up without the carbs.
-- **Contains tomatoes — not Evan-safe** (leave them out for him).
+- **Contains tomatoes — contains tomatoes** (leave them out for him).
 - Distinct from Keto Chicken Salad (that's a mayo-based chicken salad; this is a tossed green salad with cauliflower rice).
 
 ## Source
