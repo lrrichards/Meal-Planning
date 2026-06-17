@@ -36,3 +36,17 @@ ingredients:
 - Sneaks in spinach for some nutrition (it cooks way down).
 - Not keto (pasta).
 - Distinct from the rice and ramen alfredo bakes — this one is a baked pasta version with spinach.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 2702 | 450 |
+| **Protein** | 116.5g | 19.4g |
+| **Fat** | 38.7g | 6.5g |
+| **Carbs** | 466.6g | 77.8g |
+| **Fiber** | 45.0g | 7.5g |
+| **Sugar** | 84.9g | 14.2g |
+| **Sodium** | 7170mg | 1195mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
