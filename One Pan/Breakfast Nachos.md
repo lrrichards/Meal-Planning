@@ -36,5 +36,4 @@ ingredients:
 
 - Breakfast-for-dinner — works for breakfast, lunch, or dinner.
 - Not keto (tortilla chips).
-- Evan-safe (no tomatoes).
 - Walmart "poor man's comfort food," cheap proteins (sausage, bacon, eggs).
