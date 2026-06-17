@@ -44,3 +44,17 @@ ingredients:
 - Cubed chicken can be added before baking for extra protein.
 - Chili oil flakes on top are optional but add a great kick.
 - Stir well after baking — the sauce is rich and needs to be distributed evenly.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 856 | 214 |
+| **Protein** | 36.5g | 9.1g |
+| **Fat** | 32.4g | 8.1g |
+| **Carbs** | 113.7g | 28.4g |
+| **Fiber** | 11.5g | 2.9g |
+| **Sugar** | 42.8g | 10.7g |
+| **Sodium** | 3863mg | 966mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
