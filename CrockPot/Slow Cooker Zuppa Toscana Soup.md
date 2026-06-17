@@ -41,3 +41,17 @@ ingredients:
 - Hot Italian sausage makes this soup — use mild if cooking for kids.
 - Add a parmesan rind to the slow cooker while cooking for an extra layer of flavor.
 - See also: Zuppa Toscana Casserole (Casserole/ folder) for a baked oven version.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 4810 | 802 |
+| **Protein** | 339.9g | 56.7g |
+| **Fat** | 313.1g | 52.2g |
+| **Carbs** | 150.8g | 25.1g |
+| **Fiber** | 22.3g | 3.7g |
+| **Sugar** | 23.0g | 3.8g |
+| **Sodium** | 4671mg | 779mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
