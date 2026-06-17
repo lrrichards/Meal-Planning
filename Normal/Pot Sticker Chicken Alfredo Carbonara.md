@@ -36,4 +36,3 @@ ingredients:
 - "Italian-Asian fusion" — like a carbonara, but with pot stickers standing in for some of the pasta.
 - Dollar Tree "poor man's comfort food" — cheap boxed/frozen/canned ingredients.
 - Not keto (pasta and pot stickers).
-- Evan-safe (no tomatoes).
