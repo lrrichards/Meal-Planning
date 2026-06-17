@@ -18,14 +18,14 @@ ingredients:
 
 ## Ingredients
 
-- Steak (fajita-style — skirt, flap, or similar)
-- Colorful sweet peppers, sliced
-- Onion, sliced
+- 1.5 lb steak
+- 3 bell peppers
+- 1 onion
 - Large flour tortillas
-- Tostada shells
+- 6 tostada shells
 - Queso
-- Sour cream
-- Shredded cheese
+- 1/2 cup sour cream
+- 1 cup shredded cheese
 - Chili lime seasoning, fajita seasoning, garlic salt, olive oil
 
 ## Instructions
@@ -44,3 +44,17 @@ ingredients:
 - Make extra steak for leftovers.
 - Not keto (tortilla + tostada).
 - Cinco de Mayo "poor man's comfort food."
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (4 servings) |
+|---|---:|---:|
+| **Calories** | 3449 | 862 |
+| **Protein** | 89.8g | 22.5g |
+| **Fat** | 150.9g | 37.7g |
+| **Carbs** | 446.6g | 111.6g |
+| **Fiber** | 39.4g | 9.9g |
+| **Sugar** | 30.7g | 7.7g |
+| **Sodium** | 4501mg | 1125mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
