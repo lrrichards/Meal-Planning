@@ -17,8 +17,8 @@ ingredients:
 - 1/2 lb ground beef
 - 1/2 head cabbage, sliced into small pieces
 - 1/2 onion, diced
-- Bacon grease, for the pan
-- Coconut aminos (or soy sauce)
+- 1 tbsp butter
+- 3 tbsp coconut amino
 - Chinese five spice (optional)
 
 ## Instructions
@@ -37,12 +37,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (4 servings) |
 |---|---:|---:|
-| **Calories** | 661 | 165 |
-| **Protein** | 42.9g | 10.7g |
-| **Fat** | 45.7g | 11.4g |
-| **Carbs** | 19.6g | 4.9g |
+| **Calories** | 788 | 197 |
+| **Protein** | 43.7g | 10.9g |
+| **Fat** | 57.2g | 14.3g |
+| **Carbs** | 24.6g | 6.1g |
 | **Fiber** | 7.2g | 1.8g |
-| **Sugar** | 10.3g | 2.6g |
-| **Sodium** | 210mg | 53mg |
+| **Sugar** | 13.5g | 3.4g |
+| **Sodium** | 572mg | 143mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
