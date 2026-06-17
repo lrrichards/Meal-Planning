@@ -26,9 +26,9 @@ ingredients:
 *Not counted: garlic, steak seasoning*
 
 **Slider assembly:**
-- Hamburger buns
-- Colby Jack cheese slices
-- Crispy French fried onions
+- 8 hamburger buns
+- 4 slices Colby Jack cheese
+- 1/2 cup crispy French fried onions
 
 ## Instructions
 
@@ -51,12 +51,12 @@ ingredients:
 
 | | Entire Recipe | Per Serving (8 servings) |
 |---|---:|---:|
-| **Calories** | 2513 | 314 |
-| **Protein** | 265.6g | 33.2g |
-| **Fat** | 148.2g | 18.5g |
-| **Carbs** | 13.5g | 1.7g |
-| **Fiber** | 1.9g | 0.2g |
-| **Sugar** | 6.8g | 0.8g |
-| **Sodium** | 2041mg | 255mg |
+| **Calories** | 4162 | 520 |
+| **Protein** | 433.5g | 54.2g |
+| **Fat** | 242.6g | 30.3g |
+| **Carbs** | 38.9g | 4.9g |
+| **Fiber** | 3.9g | 0.5g |
+| **Sugar** | 23.5g | 2.9g |
+| **Sodium** | 12358mg | 1545mg |
 
 *Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
