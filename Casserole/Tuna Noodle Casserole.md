@@ -39,5 +39,4 @@ ingredients:
 
 - Use the tuna's can water for moisture — nobody likes a dry casserole.
 - Not keto (egg noodles).
-- Evan-safe (no tomatoes).
 - Dollar Tree "poor man's comfort food," a family dinner under $10.
