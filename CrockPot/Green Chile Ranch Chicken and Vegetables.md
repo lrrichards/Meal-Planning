@@ -43,3 +43,17 @@ ingredients:
 - Potatoes absorb the sauce and become the best part of the dish.
 - Red or gold baby potatoes both work fine.
 - Can serve over rice if you want to stretch the meal further.
+
+## Nutrition (Estimated)
+
+| | Entire Recipe | Per Serving (6 servings) |
+|---|---:|---:|
+| **Calories** | 3832 | 639 |
+| **Protein** | 252.0g | 42.0g |
+| **Fat** | 90.8g | 15.1g |
+| **Carbs** | 504.2g | 84.0g |
+| **Fiber** | 69.5g | 11.6g |
+| **Sugar** | 46.4g | 7.7g |
+| **Sodium** | 2653mg | 442mg |
+
+*Values are estimates based on standard ingredient amounts. Actual nutrition varies by brand and preparation.*
