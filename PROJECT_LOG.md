@@ -155,3 +155,50 @@ Meal-Planning/
 - Nutrition values use estimates — the parser used keyword matching on ingredient names, standard unit conversions, and USDA reference values
 - Some recipes reference leftovers from other recipes (e.g. "Cooked shredded pork — see Slow Cooker Pulled Pork"). These were assigned standalone quantities for nutrition purposes.
 - The GitHub token used in this session was a PAT with read/write access to `lrrichards/Meal-Planning`
+
+---
+
+### 5. Nutrition Accuracy Audit and Parser Fixes
+
+**What was done:**
+After the initial nutrition calculation pass, a full audit was run across all 259 recipes to identify suspicious values (per-serving calories under 150 or over 1,200). 78 recipes were flagged. Investigation revealed several systematic parser bugs causing incorrect calculations.
+
+**Bugs found and fixed:**
+
+1. **Mixed-number unicode fractions** — `4½` was being read as `40.5` instead of `4.5` because the `½` substitution was inserting `0.5` directly next to `4` with no separator. Fixed by detecting digit-immediately-before-fraction and adding them as floats. This was the most impactful bug — it made `4½ cups chicken broth` calculate as if it were 40.5 cups (9,720g instead of 1,080g).
+
+2. **Cooked pasta volume density** — Pasta was using water density (240g/cup) instead of cooked pasta density (~140g/cup). Cooked pasta is hollow and airy. Recipes with `4–5 cups cooked pasta` were overcounting carbs and calories by ~70%.
+
+3. **Tilde prefix on ingredient lines** — Lines starting with `~` (e.g. `~2 cups cooked rice`) were being partially skipped. Fixed by stripping the `~` before parsing.
+
+4. **Range values with unicode fractions** — `½–1 lb` wasn't normalizing the `½` before the range midpoint calculation ran.
+
+5. **"About X lb" prefix** — Lines like `About 4 lb boneless chicken thighs` weren't being parsed as weights. Added special-case handler.
+
+6. **Cooking-state prefix stripping** — `cooked, cooled ground beef` was stripping `cooked` but leaving `cooled` which then failed to match. Fixed the `clean_ing()` function to strip multiple passes of cooking-state descriptors.
+
+7. **Leafy greens and chopped veg cup density** — `1 cup spinach` was using 240g/cup (water) instead of ~30g/cup (leafy greens pack loosely). Added density entries for spinach, kale, lettuce, broccoli, cauliflower.
+
+8. **Whole roasts without explicit weight** — `1 large beef rump roast` was defaulting to 100g instead of ~1,400g. Added whole-item weight entries for large cuts.
+
+**All 254 recipes were recalculated** with the fully fixed parser and re-uploaded. Nutrition values across the board are now materially more accurate.
+
+**Current state:** All recipes have recalculated nutrition (v3). The disclaimer "Values are estimates..." remains on every recipe.
+
+---
+
+### 6. Au Jus Duplicate Ingredient Fix
+
+**File changed:** `Casserole/French Dip Sliders.md`
+
+**What was wrong:**
+The recipe listed au jus in two separate ingredient lines:
+- `1 packet au jus mix + 1.5 cups water (for dipping)`
+- `1 tbsp au jus seasoning (from the packet — use 1 tbsp, save the rest for dipping sauce)`
+
+This was redundant (both lines referred to the same single packet), potentially confusing, and caused the nutrition calculator to count the packet twice.
+
+**Fix:**
+Consolidated to a single line: `1 packet au jus mix (1 tbsp goes into the butter mixture; the rest is whisked with 1.5 cups water for dipping)`. Also removed the redundant `1 tbsp au jus seasoning` line from the butter mixture sub-section. Instructions were left unchanged as they already described the split correctly. Nutrition numbers were unchanged (had only been counting one packet before).
+
+**Current state:** Clean — only 2 recipes in the repo reference au jus, both handled consistently with `1 packet au jus mix`.
