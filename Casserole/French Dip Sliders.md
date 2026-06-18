@@ -19,12 +19,11 @@ ingredients:
 - 4 oz provolone cheese
 - 1 lb deli roast beef
 - 1 cup crispy French fried onions
-- 1 packet au jus mix + 1.5 cups water (for dipping)
+- 1 packet au jus mix (1 tbsp goes into the butter mixture; the rest is whisked with 1.5 cups water for dipping)
 
 **Butter mixture (brushed on top):**
 - 5 tbsp butter, melted
 - 1 tbsp minced garlic
-- 1 tbsp au jus seasoning (from the packet — use 1 tbsp, save the rest for dipping sauce)
 - 1 tbsp sesame seeds
 - 1 tbsp Worcestershire sauce
 
